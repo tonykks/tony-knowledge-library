@@ -1,7 +1,37 @@
 {
-  "revision": "af682a54e65840979d67e85ba3abfb48",
-  "total_items": 111,
+  "revision": "bb6d6abbf4d845918e18bdf0ebc0adeb",
+  "total_items": 112,
   "items": [
+    {
+      "video_id": "XGYXoPL4lQQ",
+      "title": "아침 7시 회의 한 번 하고 사라진 후보 #3protv #김종인",
+      "original_url": "https://youtu.be/XGYXoPL4lQQ",
+      "channel": "삼프로TV 3PROTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "speakers": [],
+      "duration_sec": 30.0,
+      "duration_str": "00:30",
+      "created_at": "2026-10-03T11:15:35.083822+00:00",
+      "published_date": "20250913",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "340",
+      "kdc_sub_name": "정치학",
+      "sub_topics": [
+        "정치인의 태도",
+        "선거 캠페인",
+        "리더십의 진정성",
+        "공약 이행",
+        "소통의 중요성"
+      ],
+      "tags": [
+        "김종인",
+        "정치",
+        "선거",
+        "후보",
+        "리더십"
+      ]
+    },
     {
       "video_id": "koLAMGr5OCg",
       "title": "박정희 대통령의 명과 암을 이야기합니다 | 김종인 대표 [시대기록]",
