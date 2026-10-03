@@ -632,18 +632,23 @@ input.search-input:focus {
   align-items: start;
 }
 
-@media (max-width: 1024px) {
-  .viewer-layout {
-    grid-template-columns: 1fr;
-  }
-}
-
 .video-player-section {
   position: sticky;
   top: 6rem;
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
+}
+
+@media (max-width: 1024px) {
+  .viewer-layout {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  .video-player-section {
+    position: static;
+    top: auto;
+  }
 }
 
 .video-embed-container {
@@ -1321,10 +1326,48 @@ button:disabled { opacity: .55; cursor: wait; }
 .top-nav-menu > *, .header-stats > .stat-badge { white-space: nowrap; }
 .logo-icon { flex-shrink: 0; }
 @media (max-width: 680px) {
-  header.app-header { position: static; padding: 1rem; }
-  .header-container { gap: 1rem; }
+  header.app-header { position: static; padding: 0.75rem 1rem; }
+  .header-container { gap: 0.75rem; }
   .header-stats { width: 100%; gap: .75rem; }
-  .main-container { padding: 1.25rem 1rem; }
+  .main-container { padding: 1rem 0.75rem; }
   .video-grid { grid-template-columns: minmax(0, 1fr); }
   .search-box-wrapper { min-width: 0; flex-basis: 100%; }
+
+  /* Mobile Viewer Layout & Overlap Prevention */
+  .viewer-header { gap: 0.6rem; }
+  .viewer-logo-group { order: 1; }
+  .viewer-navigation { order: 2; margin-left: auto; gap: 0.4rem; }
+  .viewer-navigation .btn-secondary { padding: 0.4rem 0.65rem; font-size: 0.8rem; }
+  .viewer-header h1 {
+    order: 3;
+    flex-basis: 100%;
+    font-size: 0.98rem;
+    line-height: 1.4;
+    margin-top: 0.15rem;
+  }
+  #open-youtube-original-btn {
+    order: 4;
+    font-size: 0.82rem;
+    padding: 0.4rem 0.75rem;
+    margin-top: 0.2rem;
+  }
+  .video-player-section {
+    position: static !important;
+    top: auto !important;
+    gap: 1rem;
+  }
+  .viewer-meta-card {
+    padding: 1rem;
+    background: #111827;
+  }
+  .viewer-meta-title { font-size: 1.05rem; }
+  .notes-section {
+    padding: 1rem 0.85rem;
+    min-height: auto;
+    background: #111827;
+  }
+  .tabs-nav { gap: 0.35rem; margin-bottom: 1rem; }
+  .tab-btn { padding: 0.6rem 0.9rem; font-size: 0.9rem; }
+  .note-hint { font-size: 0.8rem; margin-bottom: 0.75rem; }
+  .detail-item-card { padding: 1rem; margin-bottom: 1rem; }
 }
