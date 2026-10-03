@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "revision": "28b290f7f76a482f8a5b2da6e085020b",
+  "revision": "f5cde04961ae4e1cbcc71e18a91aad66",
   "total_items": 115,
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -12,7 +12,7 @@
     "assets/favicon-32x32.png": "3458434f9b5231ec613488ec2e547b06706f3f0093c34c296903e1724b9336e8",
     "assets/tony-knowledge-library-icon.png": "e8e8bcb223e507b16fa5055e6d337c0edb001b43131ab4d9d19f6750f82da28a",
     "css/style.css": "d5724195b7587699b4c5ad19b1391f12430771fad9c0164ed27c2cd281e43a9c",
-    "data/catalog.json": "a41376a7700eedf99405a87fe213d90dd91255ddb63d63f2adace3673d3711db",
+    "data/catalog.json": "8b56ae42d536180d34cf8c7978121d7f955c6177488220a30094572bb5d91a8c",
     "data/categories.json": "ad3d29c5835f0d4fbd08672899389c08b93dafcb4acb00005f19b9632f48bfb8",
     "js/app.js": "a9dc1a50a7ed8962acd911814d4490791bd639386c371ac67f4ee225d8168f2a",
     "js/channels.js": "56a0fcfa39cd800bc875bc0b161007fbd0ff2b17289fbba93a0ed0ad81848e6e",
@@ -55,7 +55,7 @@
     "data/videos/eNbdMjB7hTw.json": "130e3694a08d41d5b88725a04ca72b092b95f2e81f3c593444bbc04e2adc16a6",
     "data/videos/fDTJ1jVVcCc.json": "2eddf899fc498a7508142dfd3e0b85ab2c34ebff5c89fdf5e478c53b52f4602b",
     "data/videos/fx7nNPn98Nk.json": "de35aef802539395e5045a12002a4c034aa05ac9e39cf9a630b4aac85a197418",
-    "data/videos/G7Z_b_pzmH8.json": "5112974607f4275ed97decad55636a5f077a4e62ff222558dec1148a6b36c9d0",
+    "data/videos/G7Z_b_pzmH8.json": "c9ae2d8be62cf8175fc6ba38fc646efb6d22fc67879e1dfe1a560d8adc784d69",
     "data/videos/gaT5U4EW9wA.json": "9dd9821fa40366a51f93ba57d55c04e4fdd3ead267e86cfa79f93f98720f9ef6",
     "data/videos/GcYoEglhKK4.json": "255620a7773392e7173eb65fdbfabd91b8e03d3b4a620c3e7c55cacb8359457d",
     "data/videos/GrvxIzw3WWo.json": "f26748b2b7c43da1f431a952722c952daf1d80f63a503b1f31239f6631eabbf1",
