@@ -1,7 +1,43 @@
 {
-  "revision": "5d512f7e80e544d9be25791d46a5374f",
-  "total_items": 108,
+  "revision": "5f9804149b704794abecc5b6307580ef",
+  "total_items": 109,
   "items": [
+    {
+      "video_id": "oQEez_Cgep4",
+      "title": "12.12 내란 주역 신군부 2인자, 노태우 대통령 되다  | 김종인 대표 [시대기록]",
+      "original_url": "https://youtu.be/oQEez_Cgep4",
+      "channel": "삼프로TV 3PROTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "speakers": [
+        "김종인"
+      ],
+      "duration_sec": 3163.0,
+      "duration_str": "52:43",
+      "created_at": "2026-10-03T11:13:52.516754+00:00",
+      "published_date": "20251002",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "340",
+      "kdc_sub_name": "정치학",
+      "sub_topics": [
+        "노태우 대통령",
+        "87년 헌법",
+        "경제 민주화",
+        "부동산 정책",
+        "북방정책",
+        "재벌 개혁",
+        "물가 안정",
+        "임금 상승",
+        "한소 수교"
+      ],
+      "tags": [
+        "노태우 정부",
+        "김종인",
+        "경제 민주화",
+        "북방정책",
+        "부동산 정책"
+      ]
+    },
     {
       "video_id": "3e_6IlO1Qd8",
       "title": "민주화를 위해 노력했지만, 경제 정책은 최악이었던 김영삼 대통령 | 김종인 대표 [시대기록]",
