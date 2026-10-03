@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="yka-mode" content="public">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>채널별 보기 — 토니의 지식 도서관</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header Bar -->
+  <header class="app-header">
+    <div class="header-inner">
+      <a href="./index.html" class="logo-link">
+        <div class="logo-icon">
+          <svg viewBox="0 0 24 24">
+            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+          </svg>
+        </div>
+        <div class="logo-text">
+          <h1>토니의 지식 도서관</h1>
+          <p>YouTube Knowledge Library</p>
+        </div>
+      </a>
+
+      <div class="header-stats">
+        <div class="stat-badge" id="stat-count-badge">
+          보관 영상: <strong id="total-video-count">0</strong>편
+        </div>
+        <nav class="top-nav-menu">
+          <a href="./index.html" class="top-nav-btn" id="nav-all-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            전체 콘텐츠
+          </a>
+          <a href="./channels.html" class="top-nav-btn active" id="nav-channel-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path>
+              <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+            </svg>
+            채널별 보기
+          </a>
+          <button class="btn-primary" id="open-add-modal-btn" data-local-only hidden>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+            영상 등록
+          </button>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-container">
+    <!-- Active Batch Status Banner -->
+    <div class="batch-status-banner" id="batch-banner" data-local-only hidden>
+      <div class="batch-status-info">
+        <div class="pulse-spinner"></div>
+        <div>
+          <strong id="batch-banner-text">백그라운드 배치 작업 진행 중...</strong>
+          <span style="font-size: 0.8rem; color: #94a3b8; margin-left: 0.5rem;" id="batch-banner-detail"></span>
+        </div>
+      </div>
+      <div style="display: flex; gap: 0.5rem;">
+        <button class="btn-secondary" id="resume-batch-btn" style="display: none; padding: 0.4rem 0.8rem; font-size: 0.8rem;">
+          실패 건 재시도
+        </button>
+      </div>
+    </div>
+
+    <!-- Page Title & Description -->
+    <div style="margin-bottom: 1.5rem;">
+      <h2 style="font-size: 1.5rem; font-weight: 700; color: #ffffff; margin-bottom: 0.35rem;">
+        채널별 아카이브
+      </h2>
+      <p style="font-size: 0.9rem; color: #94a3b8;">
+        채널별 강연자와 시리즈를 확인하고, 1화부터 순서대로 체계적으로 학습하세요.
+      </p>
+    </div>
+
+    <!-- Channel Tabs Bar (Dynamically populated, 가나다순) -->
+    <div class="channel-tabs-bar" id="channel-tabs-bar">
+      <!-- Populated dynamically -->
+    </div>
+
+    <!-- Channel Content Hierarchy Area -->
+    <div id="channel-content-area">
+      <!-- Populated dynamically: Speaker (가나다순) -> Series (1화..N화 오름차순) -> General -->
+    </div>
+
+    <!-- Empty State -->
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5">
+        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+      </svg>
+      <h3>보관된 채널 콘텐츠가 없습니다</h3>
+      <p>상단의 '+ 영상 등록' 버튼을 눌러 YouTube URL을 입력해 보세요.</p>
+    </div>
+  </main>
+
+  <!-- Add URL Modal -->
+  <div class="batch-modal-backdrop" id="add-modal" data-local-only hidden>
+    <div class="batch-modal">
+      <div class="modal-header">
+        <h2>새 YouTube 영상 등록</h2>
+        <button class="close-btn" id="close-modal-btn">&times;</button>
+      </div>
+      <form id="add-url-form">
+        <div class="form-group">
+          <label for="url-textarea">YouTube URL 입력 (단일 URL 또는 여러 개를 줄바꿈으로 입력)</label>
+          <textarea id="url-textarea" class="url-input" placeholder="https://www.youtube.com/watch?v=...&#10;https://youtu.be/...&#10;(줄바꿈으로 여러 개 동시 등록 가능)" required></textarea>
+          <p class="form-hint">
+            💡 브라우저를 닫아도 백그라운드에서 순차적으로 지식 추출 및 분류가 계속 진행됩니다.
+          </p>
+        </div>
+        <div style="display: flex; justify-content: flex-end; gap: 0.75rem;">
+          <button type="button" class="btn-secondary" id="cancel-modal-btn">취소</button>
+          <button type="submit" class="btn-primary" id="submit-url-btn">지식 추출 시작</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="./js/data_source.js"></script>
+  <script src="./js/series_parser.js"></script>
+  <script src="./js/channels.js"></script>
+</body>
+</html>

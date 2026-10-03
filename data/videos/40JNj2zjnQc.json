@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "video_id": "40JNj2zjnQc",
+    "title": "UI는 정답이 있는 문제 | 바이브코딩 입문자 부터 숙련자까지 필수 시청 | 뿌리강의 s2 | 1강 ‘HTML’",
+    "original_url": "https://youtu.be/40JNj2zjnQc",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 2308.0,
+    "duration_str": "38:28",
+    "created_at": "2026-09-26T18:03:32.650445",
+    "published_date": "20260913",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "HTML 기본 구조",
+      "UI/UX 설계 원리",
+      "데이터와 UI 연결",
+      "웹 컴포넌트 활용",
+      "AI 기반 웹 서비스 이해"
+    ],
+    "tags": [
+      "HTML",
+      "UI/UX",
+      "웹 개발",
+      "바이브코딩",
+      "프론트엔드"
+    ]
+  },
+  "detail": {
+    "video_id": "40JNj2zjnQc",
+    "title": "UI는 정답이 있는 문제 | 바이브코딩 입문자 부터 숙련자까지 필수 시청 | 뿌리강의 s2 | 1강 ‘HTML’",
+    "items": [
+      {
+        "timestamp_sec": 0.1,
+        "timestamp_str": "00:00",
+        "topic": "웹사이트 화면 구성 요소 분석",
+        "content": "웹사이트의 메뉴바, 로고, 배너, 슬라이드, 필터 기능, 상담 신청 폼, 푸터 등 다양한 구성 요소를 실제 예시를 통해 설명하며 HTML의 역할을 소개한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=0"
+      },
+      {
+        "timestamp_sec": 111.0,
+        "timestamp_str": "01:51",
+        "topic": "HTML의 정의 및 기본 구조",
+        "content": "HTML은 웹페이지의 모양과 구조를 정의하는 코드로, '하이퍼텍스트 마크업 랭귀지'의 약자이다. 꺾쇠(<>)로 시작하고 닫는 태그(Tag)를 사용하여 부모-자식 관계의 계층적 구조를 이룬다. `<html>` 태그가 가장 상위 부모 역할을 한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=111"
+      },
+      {
+        "timestamp_sec": 293.5,
+        "timestamp_str": "04:53",
+        "topic": "Head와 Body 태그의 역할",
+        "content": "`<head>` 태그는 사용자 눈에 보이지 않지만, 검색 엔진이 페이지를 이해하거나 리소스를 연결하는 데 필요한 메타 정보(`meta` 태그, `title` 태그)를 담는다. `<body>` 태그는 사용자에게 실제로 보이는 웹페이지의 모든 콘텐츠를 포함한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=293"
+      },
+      {
+        "timestamp_sec": 537.7,
+        "timestamp_str": "08:57",
+        "topic": "시멘틱 마크업의 중요성",
+        "content": "HTML 태그는 마음대로 만들 수 있지만, 검색 엔진 최적화(SEO) 및 AI의 웹페이지 이해도를 높이기 위해 `<div>` 대신 `nav`, `section`과 같은 의미 있는(semantic) 태그를 사용하는 것이 중요하다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=537"
+      },
+      {
+        "timestamp_sec": 633.0,
+        "timestamp_str": "10:33",
+        "topic": "태그의 속성(Attribute) 이해",
+        "content": "태그는 `속성명=\"값\"` 형태의 속성을 가질 수 있으며, 이는 태그에 추가 정보를 제공한다. `class` 속성은 스타일(CSS)을 적용하기 위해 자주 사용되며, `<img>` 태그의 `src` 속성은 이미지 경로를 지정하는 특수한 속성이다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=633"
+      },
+      {
+        "timestamp_sec": 924.9,
+        "timestamp_str": "15:24",
+        "topic": "주요 HTML 시멘틱 태그 및 입력 UI 요소",
+        "content": "`<nav>`(내비게이션 바), `<section>`(구획) 등 자주 사용되는 시멘틱 태그를 소개한다. 또한, 사용자 입력을 받는 `<form>`, `<input>`, `<select>`, `<button>`, `<a>`(링크), `<ul>`, `<li>`(목록) 등 다양한 UI 요소의 기본 원리를 설명한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=924"
+      },
+      {
+        "timestamp_sec": 1121.8,
+        "timestamp_str": "18:41",
+        "topic": "UI와 데이터 구조의 연결",
+        "content": "폼을 통해 입력된 값은 데이터베이스에 저장되며, 이때 데이터의 유형(스트링, 텍스트, 배열/리스트)을 고려해야 한다. 예를 들어, 단일 선택은 스트링, 복수 선택은 배열/리스트로 저장된다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=1121"
+      },
+      {
+        "timestamp_sec": 1313.1,
+        "timestamp_str": "21:53",
+        "topic": "라디오 버튼과 체크박스의 차이 및 UI의 정답성",
+        "content": "단일 선택은 라디오 버튼, 복수 선택은 체크박스를 사용하며, 이는 데이터 유형과 사용자 경험에 따라 UI 선택의 '정답'이 존재함을 보여준다. UI는 데이터 저장 흐름을 고려하면 최적의 선택을 할 수 있는 문제이다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=1313"
+      },
+      {
+        "timestamp_sec": 1458.8,
+        "timestamp_str": "24:18",
+        "topic": "실제 화면 UI 구조 해석 및 동적 데이터",
+        "content": "서비스 사례 필터링 UI를 예시로 들며, 드롭다운(`select`)보다 탭(`tab`) 형태가 정보 전달 의도에 더 적합할 수 있음을 설명한다. 또한, 고정된 값(하드코딩)이 아닌 데이터베이스에서 가져와 표시되는 동적 데이터의 중요성을 강조한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=1458"
+      },
+      {
+        "timestamp_sec": 1817.7,
+        "timestamp_str": "30:17",
+        "topic": "UI 상태(State) 개념과 컴포넌트",
+        "content": "사용자 선택에 따라 화면이 바뀌는 원리를 '상태(State)' 개념으로 설명한다. 자주 쓰이는 UI 패턴은 '컴포넌트'로 미리 만들어져 있으며, 바이브코딩에서는 샤드CN(shadcn/ui)과 같은 컴포넌트 라이브러리를 활용한다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=1817"
+      },
+      {
+        "timestamp_sec": 2140.0,
+        "timestamp_str": "35:40",
+        "topic": "UI 컴포넌트 학습 및 사고력 확장",
+        "content": "샤드CN 사이트에서 다양한 컴포넌트를 탐색하며 UI 사고력과 전달력을 향상시킬 것을 권장한다. UI를 데이터베이스 또는 상태 개념과 연결하여 바라보는 시각은 AI 기반 웹 서비스 개발 및 기획 설계에 큰 도움이 된다.",
+        "youtube_link": "https://youtu.be/40JNj2zjnQc?t=2140"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "40JNj2zjnQc",
+    "title": "UI는 정답이 있는 문제 | 바이브코딩 입문자 부터 숙련자까지 필수 시청 | 뿌리강의 s2 | 1강 ‘HTML’",
+    "summary_text": "UI는 데이터 구조와 사용자 경험의 흐름을 이해하면 정답을 찾을 수 있는 문제이며, HTML 지식은 이를 위한 기본 문해력을 제공한다.\n\n## 주요 주장 및 논거\n- HTML은 웹페이지의 구조를 정의하며, 태그와 속성을 통해 내용을 표현한다.\n- SEO 및 AI의 웹페이지 이해를 위해 시멘틱 마크업과 규칙적인 태그 사용이 중요하다.\n- UI는 데이터의 유형과 흐름(저장, 상태 변화)을 고려할 때 최적의 선택(정답)이 존재한다.\n- 자주 사용되는 UI 패턴은 컴포넌트 형태로 미리 정의되어 있으며, 이를 이해하고 활용하는 것이 효율적인 UI 설계의 핵심이다.\n- 바이브코딩과 같은 AI 기반 웹 서비스 개발 시, HTML 및 UI 컴포넌트 이해는 정확한 수정 요청과 기획 설계에 필수적이다.\n\n## 주요 사례\n- 웹사이트의 메뉴바, 배너, 폼, 푸터 등 실제 화면 구성 요소\n- 상담 신청 폼의 이름(스트링), 문의 내역(텍스트), 유형(단일/복수 선택에 따른 스트링/배열) 데이터 유형\n- 서비스 사례 필터링 UI (드롭다운 vs 탭)를 통한 UI 선택의 정답성\n- 샤드CN(shadcn/ui) 컴포넌트 라이브러리\n\n## 핵심 개념\n- HTML 태그\n- 어트리뷰트\n- 시멘틱 마크업\n- UI 컴포넌트\n- 데이터 구조\n- UI 상태(State)\n\n## 결론\nHTML 문법 암기보다는 웹페이지의 구조, 데이터와의 연결, UI 컴포넌트의 의도를 이해하는 것이 중요하며, 이는 AI 기반 웹 서비스 개발 및 기획 설계 역량을 강화하는 데 기여한다."
+  }
+}

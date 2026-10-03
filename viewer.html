@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="yka-mode" content="public">
+  <meta name="description" content="토니의 지식 도서관 — 지식 노트 뷰어">
+  <title>지식 노트 — 토니의 지식 도서관</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-container viewer-header">
+      <nav class="viewer-navigation" aria-label="도서관 탐색">
+        <a href="./index.html" class="btn-secondary">전체 콘텐츠</a>
+        <a href="./channels.html" class="btn-secondary">채널별 보기</a>
+      </nav>
+      <h1 id="viewer-header-title">학습 노트 로딩 중...</h1>
+      <a href="#" id="open-youtube-original-btn" target="_blank" rel="noopener noreferrer" class="btn-secondary">YouTube 원본 보기</a>
+    </div>
+  </header>
+  <main class="main-container">
+    <div class="edit-toolbar" data-local-only hidden>
+      <button id="edit-btn" class="btn-primary" disabled>수정하기</button>
+      <button id="save-btn" class="btn-primary" hidden>저장</button>
+      <button id="cancel-edit-btn" class="btn-secondary" hidden>취소</button>
+      <button id="hide-btn" class="btn-secondary" disabled>숨김</button>
+      <span id="sync-status" role="status"></span>
+    </div>
+    <p id="viewer-message" role="status" aria-live="polite"></p>
+    <div class="viewer-layout">
+      <section class="video-player-section" aria-label="영상 정보">
+        <div class="video-embed-container" id="player-container"><div id="youtube-player"></div></div>
+        <div class="viewer-meta-card" id="metadata-container"></div>
+      </section>
+      <section class="notes-section" aria-label="학습 노트">
+        <nav class="tabs-nav" role="tablist" aria-label="노트 선택">
+          <button id="detail-tab" class="tab-btn active" data-tab="tab-detail" role="tab" aria-controls="tab-detail" aria-selected="true">순차적 정리 (상세)</button>
+          <button id="summary-tab" class="tab-btn" data-tab="tab-summary" role="tab" aria-controls="tab-summary" aria-selected="false" tabindex="-1">요점정리</button>
+        </nav>
+        <div class="tab-pane active" id="tab-detail" role="tabpanel" aria-labelledby="detail-tab">
+          <p class="note-hint">타임스탬프를 누르면 영상의 해당 시점으로 이동합니다.</p>
+          <div id="detail-items-container"></div>
+        </div>
+        <div class="tab-pane" id="tab-summary" role="tabpanel" aria-labelledby="summary-tab">
+          <div id="summary-container"></div>
+        </div>
+      </section>
+    </div>
+  </main>
+  <script src="./js/data_source.js"></script>
+  <script src="./js/viewer.js"></script>
+</body>
+</html>

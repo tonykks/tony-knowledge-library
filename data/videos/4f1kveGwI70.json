@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "video_id": "4f1kveGwI70",
+    "title": "바이브코딩으로 현실 업무 자동화(AX) 하려면 여기까지는 반드시 알아야 합니다",
+    "original_url": "https://youtu.be/4f1kveGwI70",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 1234.0,
+    "duration_str": "20:34",
+    "created_at": "2026-09-26T17:58:09.614427",
+    "published_date": "20260609",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "AI 오케스트레이션",
+      "LangChain, LangGraph, LangSmith 활용",
+      "현실 업무 자동화 (AX)",
+      "비개발자의 AI 프로젝트 참여 역할"
+    ],
+    "tags": [
+      "바이브코딩",
+      "오케스트레이션",
+      "자동화",
+      "LangChain",
+      "LangGraph"
+    ]
+  },
+  "detail": {
+    "video_id": "4f1kveGwI70",
+    "title": "바이브코딩으로 현실 업무 자동화(AX) 하려면 여기까지는 반드시 알아야 합니다",
+    "items": [
+      {
+        "timestamp_sec": 0.0,
+        "timestamp_str": "00:00",
+        "topic": "7강 RAG 챗봇의 한계와 문제 제기",
+        "content": "7강에서 만든 RAG 기반 챗봇은 질문-검색-답변 생성의 단선 파이프라인 구조로, '작년 4분기 실적 데이터 찾아서 올해 전략 제안서 초안까지 써줘'와 같은 복잡한 질문 처리가 불가능했다. 현실의 문제들은 일직선적인 질문-응답만으로는 해결하기 어렵다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=0"
+      },
+      {
+        "timestamp_sec": 98.6,
+        "timestamp_str": "01:38",
+        "topic": "오케스트레이션의 필요성 및 핵심 도구 소개",
+        "content": "복잡하고 살아 움직이는 AI 시스템 설계를 위해 '오케스트레이션' 개념이 필요하다. 이를 위해 LangChain, LangGraph, LangSmith 세 가지 도구를 기준으로 설명한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=98"
+      },
+      {
+        "timestamp_sec": 142.6,
+        "timestamp_str": "02:22",
+        "topic": "복잡도 계단 1: LangChain - 어휘 표준화",
+        "content": "LangChain은 LLM(대규모 언어 모델)과 대화하는 표준 부품 공급소 역할을 한다. 7강에서 직접 프롬프트와 API 호출을 처리했던 불편함을 해소한다. 주요 기능은 다음과 같다: 1) 프롬프트 템플릿 (양식처럼 변수만 채워 넣음), 2) 모델 연결 추상화 (어떤 AI 모델을 쓰든 코드가 동일하여 유연성 확보), 3) 체인 연결 (A-B-C와 같은 순차적 작업 묶음). 하지만 LangChain만으로는 단방향 파이프라인의 근본적인 문제(루프, 분기 부재)를 해결하지 못한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=142"
+      },
+      {
+        "timestamp_sec": 347.0,
+        "timestamp_str": "05:47",
+        "topic": "복잡도 계단 2: LangGraph - 제어 흐름 설계",
+        "content": "LangGraph는 AI의 '지능'을 부여하는 루프와 분기(조건에 따른 경로 변경)를 설계하는 도구다. 편의점에서 물이 없을 때 다른 편의점을 찾는 것과 같은 현실적인 판단 흐름을 AI에 적용한다. 노드(작업 단위: 검색, 판단, 도구 사용, 답변)와 엣지(이동 경로, 조건부) 개념을 통해 제어 흐름을 구성하며, AI 팀의 업무 매뉴얼(플로우 차트)을 짜는 것과 같다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=347"
+      },
+      {
+        "timestamp_sec": 545.1,
+        "timestamp_str": "09:05",
+        "topic": "복잡도 계단 3: LangSmith - 블랙박스 해독 및 가시성 확보",
+        "content": "LangGraph로 만든 AI 에이전트에서 오류 발생 시, 문제 원인 파악이 어려운 '블랙박스' 문제가 발생한다. LangSmith는 AI 시스템에 CCTV를 달아주는 '가시성 레이어' 역할을 한다. 모든 노드에서 일어나는 일(검색 문서, 프롬프트, 모델 판단 등)을 기록(트레이싱)하여 문제 발생 시 역추적을 가능하게 하고, 모델 변경이나 구성 변화에 따른 성능 개선을 정량적으로 평가할 수 있게 한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=545"
+      },
+      {
+        "timestamp_sec": 675.4,
+        "timestamp_str": "11:15",
+        "topic": "세 도구의 관계 및 오케스트레이션 시스템",
+        "content": "LangChain(표준화된 부품) + LangGraph(제어 흐름 설계) + LangSmith(시스템 가시성)가 함께 있어야 비로소 하나의 오케스트레이션 시스템이 된다. 이는 오케스트라 연주처럼 각 요소가 협력하여 복잡한 현실 업무를 자동화하는 데 필요하다. 단, 모든 프로젝트에 세 가지 도구가 다 필요한 것은 아니며, 루프나 분기가 필요한 복잡한 업무에 적용하는 것이 효율적이다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=675"
+      },
+      {
+        "timestamp_sec": 761.9,
+        "timestamp_str": "12:41",
+        "topic": "세무법인 사례로 보는 실제 적용 시나리오",
+        "content": "세무 상담(자녀 증여세 문의) 자동화를 예시로 든다. 세법 조항 검색과 고객 이력 파악을 종합해야 하는 복잡한 업무로, 기존 RAG 챗봇만으로는 불가능하며 루프와 분기가 필요하다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=761"
+      },
+      {
+        "timestamp_sec": 882.0,
+        "timestamp_str": "14:42",
+        "topic": "Step 1: 데이터 연결 설계 (LangChain)",
+        "content": "세법 원문 데이터베이스(국세 기본법, 소득세법 등)와 고객 이력 데이터베이스(과거 상담 내역, 과세 이력 등)를 벡터 DB에 넣어 준비한다. LangChain을 통해 추상화하여 세법 개정이나 모델 교체 시에도 유연하게 대응할 수 있도록 설계한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=882"
+      },
+      {
+        "timestamp_sec": 927.6,
+        "timestamp_str": "15:27",
+        "topic": "Step 2: 판단 흐름 설계 (LangGraph)",
+        "content": "LangGraph로 AI의 흐름도를 짠다. 1) 질문 분류 (증여세/소득세 등), 2) 세법 검색, 3) 고객 이력 조회, 4) 판단 (세법 조항/고객 이력 충분 여부, 부족 시 세법 검색 노드로 루프), 5) 답변 생성. 비개발자는 이 플로우 차트를 직접 그려 업무 논리를 정의하는 핵심 역할을 수행한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=927"
+      },
+      {
+        "timestamp_sec": 989.9,
+        "timestamp_str": "16:29",
+        "topic": "Step 3: 모니터링과 개선 (LangSmith)",
+        "content": "세무 답변 오류는 법적 책임으로 이어질 수 있으므로, 시스템의 추적 가능성이 필수적이다. LangSmith를 통해 AI가 어떤 세법 조항과 고객 이력을 근거로 답변했는지 모든 과정을 기록(감사 로그)하여, 문제 발생 시 원인을 파악하고 근거를 제시할 수 있다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=989"
+      },
+      {
+        "timestamp_sec": 1036.4,
+        "timestamp_str": "17:16",
+        "topic": "비개발자(도메인 전문가)의 핵심 역할",
+        "content": "1) 데이터 오너십: 어떤 데이터를 AI에 제공할지, 그 품질과 범위를 결정한다. 2) 플로우 차트 설계: 코딩 지식 없이 업무 논리(질문 분류, 검색, 루프, 참조 등)를 정의한다. 3) 평가셋 관리: 세무 질문 100개와 모범 답안을 직접 만들어 AI 성능 평가 기준을 마련한다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=1036"
+      },
+      {
+        "timestamp_sec": 1137.4,
+        "timestamp_str": "18:57",
+        "topic": "도메인 전문가와 바이브 코딩의 결합",
+        "content": "도메인 전문가의 논리적 시스템 설계 역량과 바이브 코딩의 결합을 통해 현실적인 AI 오케스트레이션 기반 자동화를 이룰 수 있다. 비개발자도 AI 시장의 혼란 속에서 흔들리지 않는 뿌리 깊은 지식을 가질 수 있다.",
+        "youtube_link": "https://youtu.be/4f1kveGwI70?t=1137"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "4f1kveGwI70",
+    "title": "바이브코딩으로 현실 업무 자동화(AX) 하려면 여기까지는 반드시 알아야 합니다",
+    "summary_text": "AI 오케스트레이션을 통한 현실 업무 자동화(AX)를 위해 LangChain으로 표준화된 부품을, LangGraph로 복잡한 제어 흐름을, LangSmith로 시스템 가시성을 확보하는 것이 필수적이며, 비개발자도 도메인 전문성을 바탕으로 핵심적인 역할을 수행할 수 있다.\n\n## 주요 주장 및 논거\n- 단순 RAG 챗봇의 한계를 넘어 복잡한 현실 업무 자동화를 위해서는 AI 오케스트레이션이 필수적이다.\n- LangChain은 LLM과의 대화를 표준화하고 부품을 제공하여 AI 시스템 구축의 기본을 다진다.\n- LangGraph는 AI의 지능적인 판단(루프, 분기)을 가능하게 하는 제어 흐름을 설계한다.\n- LangSmith는 AI 시스템의 블랙박스 문제를 해결하고 가시성을 제공하여 모니터링 및 개선을 돕는다.\n- 비개발자(도메인 전문가)는 데이터 오너십, 플로우 차트 설계, 평가셋 관리 등을 통해 AI 프로젝트에 핵심적인 역할을 할 수 있다.\n\n## 주요 사례\n- 7강 RAG 챗봇의 단선 파이프라인 한계 (복잡한 질문 처리 불가)\n- 편의점에서 물이 없을 때 다른 편의점을 찾는 지능적 행동 비유 (LangGraph 설명)\n- 세무법인의 증여세 상담 자동화 사례 (LangChain, LangGraph, LangSmith 통합 적용)\n\n## 핵심 개념\n- AI 오케스트레이션\n- LangChain (표준화)\n- LangGraph (제어 흐름)\n- LangSmith (가시성)\n\n## 결론\n도메인 전문가의 업무 논리 설계 역량과 바이브 코딩의 결합은 AI 오케스트레이션 기반의 현실적인 업무 자동화를 가능하게 하며, AI 시장의 혼란 속에서도 흔들리지 않는 지식을 제공한다."
+  }
+}

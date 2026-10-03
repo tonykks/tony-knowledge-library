@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "video_id": "l1Q4MoKRpkA",
+    "title": "초격차 비개발자를 위한 젬마4 기반 RAG 챗봇 설계/코딩 과정 전체 공개 | 바이브코더, AX 담당자 필수시청",
+    "original_url": "https://youtu.be/l1Q4MoKRpkA",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 1570.0,
+    "duration_str": "26:10",
+    "created_at": "2026-09-26T17:57:00.004503",
+    "published_date": "20260527",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "RAG (검색 증강 생성) 개념 및 필요성",
+      "RAG 파이프라인 구성 요소 및 구현",
+      "다양한 기업 데이터의 AI 활용을 위한 전처리",
+      "Gemma 4 기반 RAG 챗봇 설계 및 코딩"
+    ],
+    "tags": [
+      "RAG",
+      "챗봇",
+      "AI",
+      "Gemma",
+      "비개발자"
+    ]
+  },
+  "detail": {
+    "video_id": "l1Q4MoKRpkA",
+    "title": "초격차 비개발자를 위한 젬마4 기반 RAG 챗봇 설계/코딩 과정 전체 공개 | 바이브코더, AX 담당자 필수시청",
+    "items": [
+      {
+        "timestamp_sec": 15.0,
+        "timestamp_str": "00:15",
+        "topic": "LLM의 한계와 RAG의 필요성",
+        "content": "LLM(거대 언어 모델)은 할루시네이션(환각), 훈련 데이터 이후 정보 단절, 컨텍스트 윈도우 사이즈 제약 등의 한계를 가진다. RAG(Retrieval Augmented Generation)는 검색을 통해 정보를 보강하여 이러한 LLM의 한계를 직접적으로 공략하는 구조이다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=15"
+      },
+      {
+        "timestamp_sec": 52.6,
+        "timestamp_str": "00:52",
+        "topic": "RAG의 정의 및 목표",
+        "content": "RAG는 '검색 증강 생성'의 약자로, 검색을 통해 정보를 보강하고 보강된 정보를 바탕으로 LLM이 답변을 생성하게 하는 구조이다. 이번 강의에서는 RAG의 개념과 실제 구현 흐름을 다루며, 챗봇 UI까지 만들어보는 것을 목표로 한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=52"
+      },
+      {
+        "timestamp_sec": 118.0,
+        "timestamp_str": "01:58",
+        "topic": "실습 환경 및 도구 소개",
+        "content": "실습에는 오픈소스 모델인 Gemma 4e를 사용하며, 이를 로컬에서 구동하기 위해 Ollama를 활용한다. Gemma 4e는 내부에서 사용 시 보안 이슈가 적다는 장점이 있다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=118"
+      },
+      {
+        "timestamp_sec": 183.7,
+        "timestamp_str": "03:03",
+        "topic": "RAG의 필요성 시연 (사내 규정 문서 예시)",
+        "content": "사내 연차 규정 문서를 LLM에 직접 질문했을 때, LLM은 해당 정보를 모르거나 일반적인 근로기준법을 기반으로 답변하는 한계를 보인다. 이는 긴 문서 전체를 컨텍스트 윈도우에 넣기 어렵기 때문이며, RAG는 관련된 부분만 찾아 넣어 이 문제를 해결한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=183"
+      },
+      {
+        "timestamp_sec": 267.4,
+        "timestamp_str": "04:27",
+        "topic": "RAG의 진짜 첫 단계: 데이터 수집 및 정규화 (Ingestion 계층)",
+        "content": "대부분의 자료에서 청킹을 RAG의 첫 단계로 설명하지만, 실제 기업 데이터는 깔끔한 텍스트로 존재하지 않는 경우가 많다. 따라서 RAG의 진짜 첫 단계는 '우리 데이터를 검색 가능한 표현으로 어떻게 바꿀 것인가'이며, 이를 Ingestion(데이터 수집 및 정규화) 계층이라고 부른다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=267"
+      },
+      {
+        "timestamp_sec": 343.9,
+        "timestamp_str": "05:43",
+        "topic": "데이터 유형별 Ingestion 전략",
+        "content": "기업 데이터는 크게 네 가지 유형으로 나눌 수 있다: 1) 텍스트 추출형(PDF, Word, HTML), 2) OCR 필요형(스캔 문서, 이미지 PDF), 3) 구조화 데이터형(DB, Excel, ERP), 4) 전용 포맷형(CAD, 이미지, 오디오). 특히 CAD와 같은 전용 포맷 데이터는 OCR로 처리할 수 없으므로 별도의 전처리 과정이 필요하다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=343"
+      },
+      {
+        "timestamp_sec": 505.4,
+        "timestamp_str": "08:25",
+        "topic": "CAD 데이터 검색 가능하게 만들기 실습",
+        "content": "아파트 캐드 도면 파일을 예시로, 텍스트 데이터 추출과 이미지 비전 처리를 통해 캐드 파일에서 의미 있는 정보를 뽑아내는 과정을 시연한다. 이를 통해 캐드 도면의 메타데이터뿐만 아니라 방 개수, 치수 등 상세 정보를 LLM이 이해할 수 있는 문장으로 변환한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=505"
+      },
+      {
+        "timestamp_sec": 749.4,
+        "timestamp_str": "12:29",
+        "topic": "RAG 핵심 부품 4단계 (청킹, 임베딩, 검색, 답변 생성)",
+        "content": "일반적인 취업 규칙 문서를 예시로 RAG의 핵심 4단계(청킹, 임베딩, 검색, 답변 생성)를 진행한다. 이는 챗봇 UI 구현 전 단계로서 RAG의 핵심 원리를 이해하는 과정이다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=749"
+      },
+      {
+        "timestamp_sec": 797.7,
+        "timestamp_str": "13:17",
+        "topic": "청킹: 긴 내용을 청크 단위로 자르기",
+        "content": "청킹은 긴 문서를 AI가 소화할 수 있는 크기의 덩어리로 잘라내는 작업이다. 청크 사이즈가 너무 크면 노이즈가 늘어나고, 너무 짧으면 맥락이 잘리는 트레이드오프가 있다. 글자수 기준 청킹과 의미/맥락 단위 청킹 중 데이터 특성에 맞는 방법론 선택이 중요하다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=797"
+      },
+      {
+        "timestamp_sec": 910.3,
+        "timestamp_str": "15:10",
+        "topic": "임베딩: 텍스트를 벡터 공간에 좌표화",
+        "content": "임베딩은 청킹된 텍스트를 벡터 공간에 좌표화하는 과정이다. 초기 임베딩 모델의 한국어 처리 성능 문제를 개선하기 위해 더 적합한 모델로 교체하는 과정을 보여주며, 이를 통해 '연차 휴가' 질문에 대한 정확한 조항을 찾아내는 데 성공한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=910"
+      },
+      {
+        "timestamp_sec": 1085.9,
+        "timestamp_str": "18:05",
+        "topic": "벡터 DB 저장 및 검색: 유사도 기반 정보 검색",
+        "content": "임베딩된 벡터 값들을 벡터 데이터베이스에 저장하고, 질문과 문서 청크 간의 코사인 유사도를 계산하여 가장 관련성 높은 정보를 검색한다. 벡터 공간에서 조항들 간의 관계를 시각화하여 유사도 기반 검색 원리를 설명한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=1085"
+      },
+      {
+        "timestamp_sec": 1198.4,
+        "timestamp_str": "19:58",
+        "topic": "답변 생성: 검색된 정보를 기반으로 LLM이 답변 생성",
+        "content": "검색된 관련성 높은 정보를 LLM에 전달하여 최종 답변을 생성한다. 문서 내에 있는 질문(연차 휴가, 퇴직금)과 문서에 없는 질문(오늘의 주가)에 대해 LLM이 적절하게 답변하거나 정보 부재를 알리는 것을 시연하여 RAG의 정확성을 확인한다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=1198"
+      },
+      {
+        "timestamp_sec": 1269.1,
+        "timestamp_str": "21:09",
+        "topic": "풀스택 챗봇 UI 구성",
+        "content": "앞서 구현한 RAG 코어를 기반으로 간단한 챗봇 UI를 구성한다. 프런트엔드는 단일 HTML, 백엔드는 API로 구성하여 사용자가 직접 질문하고 답변을 시각적으로 확인할 수 있도록 한다. 이를 통해 RAG 기반 챗봇의 실제 활용 모습을 보여준다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=1269"
+      },
+      {
+        "timestamp_sec": 1425.8,
+        "timestamp_str": "23:45",
+        "topic": "마무리 및 다음 강의 예고 (오케스트레이션)",
+        "content": "이번 강의는 RAG 구현의 전체 과정을 실제 시행착오와 함께 보여주며, 비개발자도 RAG를 가깝게 느낄 수 있도록 기획되었다. 다음 8강에서는 현실 세계의 복잡한 업무 자동화를 위한 '오케스트레이션'에 대해 다룰 예정이다. 오케스트레이션은 AI를 통해 도식화된 업무 흐름을 순서대로 진행시키는 개념으로, AI 시대에 자동화 영역을 크게 확장시킨다.",
+        "youtube_link": "https://youtu.be/l1Q4MoKRpkA?t=1425"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "l1Q4MoKRpkA",
+    "title": "초격차 비개발자를 위한 젬마4 기반 RAG 챗봇 설계/코딩 과정 전체 공개 | 바이브코더, AX 담당자 필수시청",
+    "summary_text": "RAG는 LLM의 한계를 극복하고 기업 데이터를 활용하여 AI 챗봇을 구축하는 핵심 기술이며, 데이터 전처리부터 챗봇 UI 구현까지의 전 과정을 실습을 통해 이해할 수 있다.\n\n## 주요 주장 및 논거\n- LLM은 할루시네이션, 최신 정보 단절, 컨텍스트 윈도우 제약 등 고유한 한계를 가진다.\n- RAG는 외부 검색을 통해 LLM의 한계를 보완하여 정확하고 최신 정보 기반의 답변을 가능하게 한다.\n- RAG 구현의 첫 단계는 다양한 형태의 기업 데이터를 AI가 검색 가능한 형태로 변환하는 Ingestion(데이터 수집 및 정규화)이다.\n- RAG의 핵심 파이프라인은 청킹, 임베딩, 검색, 답변 생성의 4단계로 구성되며, 각 단계에서 최적화가 중요하다.\n- 실제 기업 환경에서는 RAG 기반 챗봇 UI 구축을 통해 내부 데이터를 활용한 효율적인 정보 검색 및 질의응답 시스템을 구현할 수 있다.\n\n## 주요 사례\n- 사내 연차 규정 문서 기반 챗봇 시연을 통한 LLM 한계 및 RAG 필요성 입증\n- CAD 도면 데이터에서 의미 있는 정보를 추출하여 AI가 활용 가능하도록 전처리하는 과정\n- 취업 규칙 문서를 활용하여 청킹, 임베딩, 검색, 답변 생성의 RAG 핵심 파이프라인 구현\n\n## 핵심 개념\n- RAG (Retrieval Augmented Generation)\n- 청킹 (Chunking)\n- 임베딩 (Embedding)\n- 벡터 데이터베이스 (Vector Database)\n- Ingestion (데이터 수집 및 정규화)\n\n## 결론\nRAG는 LLM의 실용적 활용을 위한 필수 기술이며, 실제 구현 과정에서 발생하는 문제점과 해결 과정을 통해 비개발자도 RAG 기반 챗봇 설계 및 코딩의 전체 흐름을 이해할 수 있다. 이는 기업 데이터의 AI 활용 가능성을 크게 확장하며, 다음 강의에서는 복잡한 업무 자동화를 위한 오케스트레이션 개념을 다룰 예정이다."
+  }
+}

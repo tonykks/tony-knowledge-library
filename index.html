@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="yka-mode" content="public">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="토니의 지식 도서관 — YouTube 영상을 지식 노트로 정리하고 다시 꺼내보는 개인 지식 라이브러리">
+  <title>토니의 지식 도서관 — YouTube Knowledge Library</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <a href="./index.html" class="logo-group">
+        <div class="logo-icon">
+          <svg viewBox="0 0 24 24">
+            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/>
+          </svg>
+        </div>
+        <div class="logo-text">
+          <h1>토니의 지식 도서관</h1>
+          <p>YouTube Knowledge Library</p>
+        </div>
+      </a>
+
+      <div class="header-stats">
+        <div class="stat-badge" id="stat-count-badge">
+          보관 영상: <strong id="total-video-count">0</strong>편
+        </div>
+        <nav class="top-nav-menu">
+          <button class="btn-secondary" id="open-hidden-btn" data-local-only hidden>숨긴 영상</button>
+          <a href="./index.html" class="top-nav-btn active" id="nav-all-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="3" y="3" width="7" height="7"></rect>
+              <rect x="14" y="3" width="7" height="7"></rect>
+              <rect x="14" y="14" width="7" height="7"></rect>
+              <rect x="3" y="14" width="7" height="7"></rect>
+            </svg>
+            전체 콘텐츠
+          </a>
+          <a href="./channels.html" class="top-nav-btn" id="nav-channel-btn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path>
+              <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+            </svg>
+            채널별 보기
+          </a>
+          <button class="btn-primary" id="open-add-modal-btn" data-local-only hidden>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+            영상 등록
+          </button>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-container">
+    <p id="public-sync-status" class="note-hint" role="status" data-local-only hidden></p>
+    <!-- Active Batch Status Banner -->
+    <div class="batch-status-banner" id="batch-banner" data-local-only hidden>
+      <div class="batch-status-info">
+        <div class="pulse-spinner" id="batch-spinner"></div>
+        <div>
+          <strong id="batch-banner-text">백그라운드 배치 작업 진행 중...</strong>
+          <span style="font-size: 0.8rem; color: #94a3b8; margin-left: 0.5rem;" id="batch-banner-detail"></span>
+        </div>
+      </div>
+      <div style="display: flex; gap: 0.5rem; align-items: center;">
+        <button class="btn-primary" id="manage-failures-btn" style="display: none; padding: 0.4rem 0.8rem; font-size: 0.8rem; background: #e11d48; border-color: #f43f5e;">
+          ⚠️ 실패 항목 관리 (<span id="failure-count-badge">0</span>)
+        </button>
+        <button class="btn-secondary" id="resume-batch-btn" style="display: none; padding: 0.4rem 0.8rem; font-size: 0.8rem;">
+          일반 실패 재시도
+        </button>
+      </div>
+    </div>
+
+    <!-- Filter & Search Controls -->
+    <div class="control-panel">
+      <div class="search-row">
+        <div class="search-box-wrapper">
+          <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="search-input" class="search-input" placeholder="영상 제목, 강연자, 채널, 태그, 세부 주제, KDC 분류 검색...">
+        </div>
+
+        <button id="search-btn" class="btn-search">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          검색
+        </button>
+      </div>
+
+      <!-- KDC Category Chips -->
+      <div class="category-chips-bar" id="category-chips">
+        <button class="category-chip active" data-code="">전체 분류</button>
+        <button class="category-chip" data-code="000">000 총류</button>
+        <button class="category-chip" data-code="100">100 철학</button>
+        <button class="category-chip" data-code="200">200 종교</button>
+        <button class="category-chip" data-code="300">300 사회과학</button>
+        <button class="category-chip" data-code="400">400 자연과학</button>
+        <button class="category-chip" data-code="500">500 기술과학</button>
+        <button class="category-chip" data-code="600">600 예술</button>
+        <button class="category-chip" data-code="700">700 언어</button>
+        <button class="category-chip" data-code="800">800 문학</button>
+        <button class="category-chip" data-code="900">900 역사</button>
+      </div>
+    </div>
+
+    <!-- Video Grid / Grouped Container -->
+    <div class="video-grid" id="video-grid">
+      <!-- Dynamically populated -->
+    </div>
+
+    <!-- Load More Container (For Search/Filter Results) -->
+    <div class="load-more-container" id="load-more-container" style="display: none;">
+      <button id="load-more-btn" class="btn-load-more">
+        더 보기 (<span id="load-more-remaining-count">0</span>편 남음)
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <polyline points="6 9 12 15 18 9"></polyline>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Empty State -->
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5">
+        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+      </svg>
+      <h3>조건에 맞는 영상이 없습니다</h3>
+      <p id="empty-state-message" class="empty-message">적용된 조건에 해당하는 영상이 없습니다.</p>
+      <button id="reset-filter-btn" class="btn-secondary">검색 및 조건 초기화</button>
+    </div>
+  </main>
+
+  <dialog id="hidden-modal" class="hidden-dialog" aria-labelledby="hidden-title" data-local-only hidden>
+    <div class="modal-header">
+      <h2 id="hidden-title">숨긴 영상</h2>
+      <button id="close-hidden-btn" class="btn-secondary">닫기</button>
+    </div>
+    <form id="hidden-search-form" class="search-row">
+      <label for="hidden-search-input">제목 검색</label>
+      <input id="hidden-search-input" class="search-input" type="search" placeholder="숨긴 영상 제목">
+      <button class="btn-search" type="submit">검색</button>
+    </form>
+    <p id="hidden-message" role="status" aria-live="polite"></p>
+    <div id="hidden-items-list"></div>
+  </dialog>
+
+  <!-- Failure Management Modal -->
+  <div class="batch-modal-backdrop" id="failure-modal" data-local-only hidden>
+    <div class="batch-modal failure-modal-content">
+      <div class="modal-header">
+        <div style="display: flex; align-items: center; gap: 0.5rem;">
+          <span style="font-size: 1.25rem;">⚠️</span>
+          <h2>실패 및 접근 제한 항목 관리</h2>
+        </div>
+        <button class="close-btn" id="close-failure-modal-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 0.85rem; color: #94a3b8; margin-bottom: 1rem;">
+          원인을 확인하고 재시도하거나, 기록 삭제 시 <strong>해당 실패 큐 항목만 안전하게 제거</strong>됩니다. (성공 보관 영상은 일체 삭제되지 않습니다)
+        </p>
+        <div class="failure-list" id="failure-items-list">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+      <div class="modal-footer" style="display: flex; justify-content: flex-end; gap: 0.75rem; margin-top: 1.5rem;">
+        <button type="button" class="btn-secondary" id="close-failure-modal-btn2">닫기</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Add URL Modal -->
+  <div class="batch-modal-backdrop" id="add-modal" data-local-only hidden>
+    <div class="batch-modal">
+      <div class="modal-header">
+        <h2>새 YouTube 영상 등록</h2>
+        <button class="close-btn" id="close-modal-btn">&times;</button>
+      </div>
+      <form id="add-url-form">
+        <div class="form-group">
+          <label for="url-textarea">YouTube URL 입력 (단일 URL 또는 여러 개를 줄바꿈으로 입력)</label>
+          <textarea id="url-textarea" class="url-input" placeholder="https://www.youtube.com/watch?v=...&#10;https://youtu.be/...&#10;(줄바꿈으로 여러 개 동시 등록 가능)" required></textarea>
+          <p class="form-hint">
+            💡 브라우저를 닫아도 백그라운드에서 순차적으로 지식 추출 및 분류가 계속 진행됩니다.
+          </p>
+        </div>
+        <div style="display: flex; justify-content: flex-end; gap: 0.75rem;">
+          <button type="button" class="btn-secondary" id="cancel-modal-btn">취소</button>
+          <button type="submit" class="btn-primary" id="submit-url-btn">지식 추출 시작</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script src="./js/data_source.js"></script>
+  <script src="./js/series_parser.js"></script>
+  <script src="./js/app.js"></script>
+</body>
+</html>

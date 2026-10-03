@@ -1,0 +1,743 @@
+{
+  "metadata": {
+    "video_id": "SIV0awMiHsI",
+    "title": "양자물리학에서 전자껍질, 부껍질, 오비탈은 뭐가 다를까? 초등학생도 이해할 수 있게 쉽게 설명합니다 🌙 틀어놓고 주무세요",
+    "original_url": "https://youtu.be/SIV0awMiHsI",
+    "channel": "날것 그대로의 물리",
+    "channel_id": "UCbY9SBgJGczHPt6m8cdZajA",
+    "speakers": [],
+    "duration_sec": 6083.0,
+    "duration_str": "01:41:23",
+    "created_at": "2026-09-26T21:16:15.948899",
+    "published_date": "20260924",
+    "kdc_main_code": "400",
+    "kdc_main_name": "자연과학",
+    "kdc_sub_code": "420",
+    "kdc_sub_name": "물리학",
+    "sub_topics": [
+      "양자물리학",
+      "원자 모형의 진화",
+      "전자껍질, 부껍질, 오비탈",
+      "양자역학의 실생활 적용"
+    ],
+    "tags": [
+      "양자물리학",
+      "전자껍질",
+      "부껍질",
+      "오비탈",
+      "원자"
+    ]
+  },
+  "detail": {
+    "video_id": "SIV0awMiHsI",
+    "title": "양자물리학에서 전자껍질, 부껍질, 오비탈은 뭐가 다를까? 초등학생도 이해할 수 있게 쉽게 설명합니다 🌙 틀어놓고 주무세요",
+    "items": [
+      {
+        "timestamp_sec": 0.2,
+        "timestamp_str": "00:00",
+        "topic": "기존 원자 모형의 오류 지적",
+        "content": "학교에서 배운 행성처럼 전자가 원을 그리며 도는 원자 그림은 물리적으로 존재할 수 없는 장면이다. 만약 그렇다면 모든 원자는 눈 깜짝할 사이에 무너져 내려야 한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=0"
+      },
+      {
+        "timestamp_sec": 46.1,
+        "timestamp_str": "00:46",
+        "topic": "전자의 위치와 원자의 텅 빈 공간",
+        "content": "전자는 정확한 위치가 없으며, 원자의 대부분은 텅 빈 공간이다. 원자핵은 축구 경기장 중앙의 모래알 정도이며, 나머지는 텅 빈 공간을 전자가 채우고 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=46"
+      },
+      {
+        "timestamp_sec": 112.8,
+        "timestamp_str": "01:52",
+        "topic": "물질의 단단함의 본질",
+        "content": "손으로 화면을 만지는 단단한 감각은 거의 텅 빈 공간과 텅 빈 공간이 서로 밀어내는 힘일 뿐이다. 실제로는 단 한 번도 맞닿은 적이 없다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=112"
+      },
+      {
+        "timestamp_sec": 151.4,
+        "timestamp_str": "02:31",
+        "topic": "원자의 밀도 비유",
+        "content": "지구 인류 80억 명 몸속 원자의 텅 빈 공간을 걷어내고 알맹이만 남기면 각설탕 한 개보다 작은 크기에 다 들어간다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=151"
+      },
+      {
+        "timestamp_sec": 178.0,
+        "timestamp_str": "02:58",
+        "topic": "영상 주제 소개",
+        "content": "학교에서 제대로 알려주지 않는 전자가 사는 층(전자껍질), 방(부껍질), 잠자리(오비탈) 등 원자 속 구조를 설명한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=178"
+      },
+      {
+        "timestamp_sec": 206.9,
+        "timestamp_str": "03:26",
+        "topic": "원자 개념의 역사: 데모크리토스와 톰슨",
+        "content": "원자(atom)는 '더 이상 쪼갤 수 없다'는 그리스어에서 유래했으나, 톰슨이 음전하를 띤 전자(수소 원자보다 1000배 가벼움)를 발견하며 원자가 더 작은 알갱이를 품고 있음이 밝혀졌다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=206"
+      },
+      {
+        "timestamp_sec": 319.1,
+        "timestamp_str": "05:19",
+        "topic": "톰슨의 푸딩 모형",
+        "content": "톰슨은 원자가 양전하를 띤 푸딩 속에 건포도처럼 전자가 박혀있는 모양이라고 생각했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=319"
+      },
+      {
+        "timestamp_sec": 349.8,
+        "timestamp_str": "05:49",
+        "topic": "러더퍼드의 금박 실험과 원자핵 발견",
+        "content": "러더퍼드의 금박 실험에서 대부분의 알파 입자가 통과했지만, 아주 드물게 튕겨 나오는 현상을 통해 원자 대부분이 텅 비어 있고, 한가운데 작고 무거운 원자핵이 존재함을 밝혀냈다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=349"
+      },
+      {
+        "timestamp_sec": 438.3,
+        "timestamp_str": "07:18",
+        "topic": "러더퍼드 모형의 난제",
+        "content": "원자핵 발견 후, 전자가 핵 속으로 빨려 들어가거나 에너지를 잃고 핵으로 추락해야 한다는 당시 물리 법칙의 난제가 발생했다. 이는 원자가 존재할 수 없다는 당혹스러운 결론으로 이어졌다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=438"
+      },
+      {
+        "timestamp_sec": 511.9,
+        "timestamp_str": "08:31",
+        "topic": "플랑크의 양자 가설",
+        "content": "막스 플랑크는 뜨거운 물체가 내뿜는 에너지가 동전처럼 '정해진 최소 단위'로만 끊어서 나온다고 가정하면 계산이 맞아떨어짐을 발견했다. (자외선 파탄 문제 해결)",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=511"
+      },
+      {
+        "timestamp_sec": 610.3,
+        "timestamp_str": "10:10",
+        "topic": "아인슈타인의 광자 개념",
+        "content": "아인슈타인은 금속에 빛을 쪼이면 전자가 튀어나오는 현상(광전 효과)을 연구하며 빛 자체가 플랑크가 말한 에너지 덩어리, 즉 광자(알갱이)처럼 행동한다고 주장했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=610"
+      },
+      {
+        "timestamp_sec": 644.5,
+        "timestamp_str": "10:44",
+        "topic": "닐스 보어의 원자 모형",
+        "content": "닐스 보어는 에너지가 뚝뚝 끊어진 덩어리로만 존재한다는 아이디어를 원자 속 전자에게 적용하여, 전자가 정해진 몇 개의 트랙(궤도) 위에서만 돌 수 있고, 그 트랙에서는 에너지를 잃지 않는다고 제안했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=644"
+      },
+      {
+        "timestamp_sec": 689.8,
+        "timestamp_str": "11:29",
+        "topic": "수소 원자 스펙트럼 설명",
+        "content": "보어 모형은 수소 원자가 특정 색깔의 빛만 내뿜는 현상(바코드 같은 선 스펙트럼)을 완벽하게 설명했다. 전자가 바깥 트랙에서 안쪽 트랙으로 뛰어내릴 때 에너지 차이만큼의 빛을 뱉어낸다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=689"
+      },
+      {
+        "timestamp_sec": 762.8,
+        "timestamp_str": "12:42",
+        "topic": "보어 모형의 한계",
+        "content": "보어의 그림은 전자가 하나뿐인 수소 원자에는 잘 맞았지만, 전자가 두 개 이상인 헬륨 원자부터는 완전히 어긋나 반쪽짜리 모형임이 드러났다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=762"
+      },
+      {
+        "timestamp_sec": 825.4,
+        "timestamp_str": "13:45",
+        "topic": "미세 구조와 제이만 효과",
+        "content": "수소 원자의 바코드 선이 사실은 여러 개의 가는 선으로 쪼개져 있다는 '미세 구조'와, 자석 옆에서 빛의 선이 갈라지는 '제이만 효과'는 보어 모형으로 설명할 수 없었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=825"
+      },
+      {
+        "timestamp_sec": 986.3,
+        "timestamp_str": "16:26",
+        "topic": "나트륨 겹선과 전자의 스핀",
+        "content": "나트륨의 노란 빛이 두 개의 선으로 이루어진 '겹선'이라는 사실은 훗날 전자의 '스핀'이라는 숨겨진 성질이 가장 또렷하게 드러나는 사례로 밝혀졌다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=986"
+      },
+      {
+        "timestamp_sec": 1041.2,
+        "timestamp_str": "17:21",
+        "topic": "조머펠트의 타원 궤도 모형",
+        "content": "아르놀트 조머펠트는 트랙이 원이 아니라 타원이라면 어떨까 하는 아이디어를 냈고, 전자의 질량 변화까지 계산에 포함시켜 수소 원자의 미세 구조를 거의 완벽하게 예측했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1041"
+      },
+      {
+        "timestamp_sec": 1113.8,
+        "timestamp_str": "18:33",
+        "topic": "내부 양자수 개념",
+        "content": "조머펠트는 타원 궤도로도 설명되지 않는 현상을 위해 '내부 양자수'라는 정체불명의 숨겨진 성질을 가정했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1113"
+      },
+      {
+        "timestamp_sec": 1158.2,
+        "timestamp_str": "19:18",
+        "topic": "슈테른-게를라흐 실험",
+        "content": "은 원자 증기를 자석 사이로 통과시키는 실험에서 원자들이 넓게 퍼지지 않고 딱 두 개의 점으로만 갈라져 찍혔다. 이는 '공간 양자화' 현상으로, 방향이 연속적이지 않고 정해진 몇 가지 선택지 중에서만 골라진다는 것을 보여주었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1158"
+      },
+      {
+        "timestamp_sec": 1291.9,
+        "timestamp_str": "21:31",
+        "topic": "전자의 스핀 가설",
+        "content": "사뮤얼 하우드스미트와 허르해 윌크는 전자가 팽이처럼 스스로 빙글빙글 돌고 있는 작은 공이라면 자석 근처에서 두 가지 방향으로 나뉘어 두 개의 점을 만들 수 있다고 제안했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1291"
+      },
+      {
+        "timestamp_sec": 1361.7,
+        "timestamp_str": "22:41",
+        "topic": "스핀 가설의 난관과 해결",
+        "content": "전자의 크기로 관찰된 자기력을 만들려면 전자 표면이 빛보다 빨라야 한다는 계산 때문에 처음에는 부정되었으나, 루엘린 토머스가 상대성 이론을 이용한 미세 효과를 찾아내 오차를 해결했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1361"
+      },
+      {
+        "timestamp_sec": 1432.3,
+        "timestamp_str": "23:52",
+        "topic": "스핀 개념의 정립",
+        "content": "전자가 물리적으로 회전한다는 설명은 폐기되었지만, 전자가 마치 회전하는 것처럼 행동하는 성질을 가지고 있다는 통찰은 살아남아 '스핀'이라는 이름이 붙었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1432"
+      },
+      {
+        "timestamp_sec": 1469.2,
+        "timestamp_str": "24:29",
+        "topic": "램 이동과 양자장 이론",
+        "content": "스핀까지 포함한 이론으로도 설명되지 않는 미세한 틈(램 이동)이 발견되었고, 이를 풀기 위해 텅 빈 공간조차 보이지 않는 입자들이 끊임없이 생겨났다 사라지기를 반복한다는 '양자장 이론'이 필요했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1469"
+      },
+      {
+        "timestamp_sec": 1509.7,
+        "timestamp_str": "25:09",
+        "topic": "파울리 배타 원리",
+        "content": "볼프강 파울리는 하나의 트랙 안에 전자가 정해진 숫자까지만 들어가고, 완전히 똑같은 상태의 두 전자는 절대로 한자리에 함께 있을 수 없다는 엄격한 규칙을 내놓았다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1509"
+      },
+      {
+        "timestamp_sec": 1576.3,
+        "timestamp_str": "26:16",
+        "topic": "불확정성 원리",
+        "content": "전자의 정확한 위치와 정확한 속도를 동시에 아는 것은 자연이 원래 그렇게 만들어져 있기 때문에 원천적으로 불가능하다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1576"
+      },
+      {
+        "timestamp_sec": 1613.4,
+        "timestamp_str": "26:53",
+        "topic": "거시 세계의 안정성",
+        "content": "전자 하나는 안개처럼 퍼진 상태를 유지할 수 있지만, 책상이나 사람처럼 거대한 물체는 수많은 원자들이 끊임없이 부딪히며 정보를 주고받아 안개처럼 퍼져 있던 상태가 확정된 상태로 굳어 버린다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1613"
+      },
+      {
+        "timestamp_sec": 1731.3,
+        "timestamp_str": "28:51",
+        "topic": "드브로이의 물질파 가설",
+        "content": "루이 드브로이는 알갱이라고 여겨지던 전자가 빛처럼 파동의 성질도 함께 가지고 있을 것이라는 대담한 주장을 펼쳤고, 이는 우연한 실험 사고를 통해 사실로 증명되었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1731"
+      },
+      {
+        "timestamp_sec": 1840.7,
+        "timestamp_str": "30:40",
+        "topic": "슈레딩거 방정식과 오비탈",
+        "content": "에르빈 슈레딩거는 전자의 파동이 공간 속에서 어떤 모양을 그리는지 계산하는 방정식을 완성했고, 그 답으로 나오는 파동의 모양이 기타줄의 정상파처럼 딱 정해진 몇 가지 모양으로만 출렁일 수 있다는 것을 발견했다. 이것이 오비탈의 진짜 정체이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1840"
+      },
+      {
+        "timestamp_sec": 1907.9,
+        "timestamp_str": "31:47",
+        "topic": "하이젠베르크의 행렬 역학",
+        "content": "베르너 하이젠베르크는 파동이나 궤도 그림 없이 숫자들을 표로 늘어놓아 계산하는 방식으로 양자역학을 전개했고, 슈레딩거의 방식과 수학적으로 똑같은 결과를 내놓음이 증명되었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1907"
+      },
+      {
+        "timestamp_sec": 1957.9,
+        "timestamp_str": "32:37",
+        "topic": "전자의 파동성 비유 (확률 구름)",
+        "content": "전자를 안개나 구름 같은 것으로 상상하면, 안개가 짙은 곳일수록 전자가 발견될 확률이 높다. 관찰하는 순간 안개처럼 퍼져 있던 전자는 한 지점으로 뭉쳐 나타난다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1957"
+      },
+      {
+        "timestamp_sec": 1999.6,
+        "timestamp_str": "33:19",
+        "topic": "이중 슬릿 실험과 관찰 효과",
+        "content": "아무도 지켜보지 않을 때는 전자가 물결처럼 두 틈을 동시에 통과하며 물결무늬를 남기지만, 어느 틈으로 지나가는지 확인하는 순간 물결무늬는 사라지고 두 개의 굵은 자국만 남는다. 관찰 행위 자체가 전자의 행동을 바꾼다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=1999"
+      },
+      {
+        "timestamp_sec": 2068.6,
+        "timestamp_str": "34:28",
+        "topic": "지연된 선택 실험",
+        "content": "전자가 스크린에 도착한 후 어느 틈으로 지나갔는지 확인할지 말지를 결정해도, 그 결정에 따라 과거의 전자가 물결무늬를 그렸는지 두 줄을 그렸는지 결과가 바뀐다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2068"
+      },
+      {
+        "timestamp_sec": 2148.5,
+        "timestamp_str": "35:48",
+        "topic": "양자 터널링 현상",
+        "content": "전자는 에너지가 부족해도 장벽을 넘는 것이 아니라 벽으로 스며들어 반대편에 순간 이동한 것처럼 불쑥 나타나는 경우가 있다. 이는 전자가 확률의 파동이기 때문에 가능하다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2148"
+      },
+      {
+        "timestamp_sec": 2195.2,
+        "timestamp_str": "36:35",
+        "topic": "양자 터널링의 응용 (태양 핵융합, USB 저장 장치)",
+        "content": "태양 중심부에서 수소 원자핵이 헬륨으로 합쳐지는 핵융합 반응은 터널링 덕분이며, USB 저장 장치도 전자가 절연막을 터널링으로 통과하여 방에 갇히는 원리를 이용한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2195"
+      },
+      {
+        "timestamp_sec": 2275.2,
+        "timestamp_str": "37:55",
+        "topic": "방사성 붕괴와 터널링",
+        "content": "우라늄 같은 무거운 원소의 핵이 붕괴하는 방사성 붕괴도 핵 속 알갱이가 터널링으로 장벽을 통과하여 튀어나오는 현상이다. 이는 확률로만 예측 가능하다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2275"
+      },
+      {
+        "timestamp_sec": 2313.1,
+        "timestamp_str": "38:33",
+        "topic": "동위원소와 화학적 성질",
+        "content": "동위원소는 핵 속 중성자 개수가 달라 무게는 다르지만, 바깥쪽 전자의 배치는 똑같아 화학적으로는 쌍둥이처럼 똑같이 행동한다. 이를 이용해 방사성 의약품으로 병을 진단한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2313"
+      },
+      {
+        "timestamp_sec": 2366.8,
+        "timestamp_str": "39:26",
+        "topic": "원자 조작 기술 (STM)",
+        "content": "양자 터널링 원리를 이용해 아주 작은 바늘 끝으로 물질 표면의 원자 하나하나를 직접 들여다보고 옮겨 놓을 수 있는 현미경(STM)이 개발되었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2366"
+      },
+      {
+        "timestamp_sec": 2454.2,
+        "timestamp_str": "40:54",
+        "topic": "찬드라세카르 한계와 백색왜성",
+        "content": "수브라마니안 찬드라세카르는 파울리 배타 원리 덕분에 별이 쪼그라들다가 어느 순간 멈춰 백색왜성이 된다는 것을 계산했다. 백색왜성은 지구 크기에 태양 질량을 가진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2454"
+      },
+      {
+        "timestamp_sec": 2589.4,
+        "timestamp_str": "43:09",
+        "topic": "중성자별",
+        "content": "별이 훨씬 더 무거우면 전자들이 양성자 속으로 짓눌려 중성자로 변하고, 중성자들의 배타 원리가 별을 지탱하여 중성자별이 된다. 차숟가락 하나 분량의 중성자별 물질이 산 하나를 짓누를 만큼 무겁다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2589"
+      },
+      {
+        "timestamp_sec": 2636.8,
+        "timestamp_str": "43:56",
+        "topic": "전자 껍질 (층) 비유",
+        "content": "원자를 아파트에 비유하면, 전자 껍질은 핵으로부터의 거리에 따라 나뉘는 층이다. 낮은 층일수록 핵의 인력에 단단히 붙들려 있고, 높은 층일수록 에너지가 더 많이 필요하다. 각 층에는 정해진 수의 전자만 들어갈 수 있다 (1층 2명, 2층 8명, 3층 18명).",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2636"
+      },
+      {
+        "timestamp_sec": 2712.8,
+        "timestamp_str": "45:12",
+        "topic": "부껍질 (방) 비유 및 종류",
+        "content": "각 층 안에는 다시 여러 종류의 방(부껍질)이 나뉘어 있다. S, P, D, F라는 이름으로 불리며, 각각 동그란 구슬, 아령, 네잎 클로버, 바람개비 날개 같은 모양을 가진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2712"
+      },
+      {
+        "timestamp_sec": 2842.4,
+        "timestamp_str": "47:22",
+        "topic": "마디 (경계면)",
+        "content": "방과 방 사이에는 전자가 절대로 발견되지 않는 얇은 경계선인 '마디'가 존재한다. 층이 높아지고 방이 복잡해질수록 마디의 개수도 늘어난다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2842"
+      },
+      {
+        "timestamp_sec": 2890.8,
+        "timestamp_str": "48:10",
+        "topic": "오비탈 (침대) 비유 및 파울리 배타 원리",
+        "content": "오비탈은 방들을 더 세밀하게 나눈, 전자 한 쌍이 눕는 개별 침대이다. 오비탈 하나에는 방향이 서로 반대인 두 명의 전자만 누울 수 있다. 완전히 똑같은 방향을 보고 있는 두 전자는 같은 침대에 함께 있을 수 없다는 것이 '파울리 배타 원리'이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=2890"
+      },
+      {
+        "timestamp_sec": 3020.9,
+        "timestamp_str": "50:20",
+        "topic": "훈트 규칙",
+        "content": "하나의 방 안에 있는 여러 침대를 채워 나갈 때, 전자들은 되도록 서로 다른 침대에 혼자씩 먼저 눕고, 모든 침대에 한 명씩 다 눕고 나서야 짝을 지어 눕기 시작한다. (서로 밀어내는 성질 때문)",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3020"
+      },
+      {
+        "timestamp_sec": 3066.0,
+        "timestamp_str": "51:06",
+        "topic": "양자수",
+        "content": "과학자들은 층(주양자수), 방의 모양(방위 양자수), 침대의 방향(자기 양자수), 전자의 스핀 방향(스핀 양자수) 네 가지 정보를 숫자와 기호로 표현한다. 원자 속 전자 하나하나는 이 네 가지 숫자로 이루어진 고유한 주소를 가지며, 완전히 똑같은 주소를 가진 전자는 존재할 수 없다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3066"
+      },
+      {
+        "timestamp_sec": 3135.4,
+        "timestamp_str": "52:15",
+        "topic": "쌓음 원리 (Aufbau principle)",
+        "content": "전자들이 낮은 층부터 순서대로 자리를 채워 나가는 원리로, 가장 낮고 안정적인 자리부터 채워지고 나서야 다음 자리로 넘어간다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3135"
+      },
+      {
+        "timestamp_sec": 3170.9,
+        "timestamp_str": "52:50",
+        "topic": "층, 방, 침대 개념 정리 및 전자 수용 개수",
+        "content": "층은 핵으로부터의 거리, 방은 전자가 차지하는 공간의 모양, 침대는 방 안에서 전자가 차지하는 정확한 방향을 나타낸다. 1층(S방 1개)은 2명, 2층(S방 1개, P방 3개)은 8명, 3층(S, P, D방)은 18명까지 채울 수 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3170"
+      },
+      {
+        "timestamp_sec": 3231.6,
+        "timestamp_str": "53:51",
+        "topic": "에너지 준위 역전 현상",
+        "content": "아파트 층수가 올라갈수록 방의 에너지 순서가 예상과 살짝 어긋나 4층의 S방이 3층의 D방보다 에너지가 낮아 먼저 채워지기도 한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3231"
+      },
+      {
+        "timestamp_sec": 3274.6,
+        "timestamp_str": "54:34",
+        "topic": "안정적인 전자 배치",
+        "content": "방이 완전히 가득 채워지거나 정확히 절반만 채워져 모든 침대에 한 명씩 골고루 누워 있는 상태가 되면 특별히 안정적이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3274"
+      },
+      {
+        "timestamp_sec": 3310.8,
+        "timestamp_str": "55:10",
+        "topic": "주기율표의 원리",
+        "content": "주기율표는 층과 방이 순서대로 채워지는 과정을 그대로 옮겨 적은 것이다. 원소의 성질은 가장 바깥쪽 방에 전자가 몇 명 살고 있느냐에 따라 결정된다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3310"
+      },
+      {
+        "timestamp_sec": 3420.7,
+        "timestamp_str": "57:00",
+        "topic": "멘델레예프의 주기율표 예측",
+        "content": "멘델레예프는 빈칸을 발견되지 않은 원소의 자리로 예측하고 무게와 성질까지 예언했으며, 훗날 갈륨, 스칸디움, 저마늄 등이 발견되어 그의 예측이 증명되었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3420"
+      },
+      {
+        "timestamp_sec": 3480.1,
+        "timestamp_str": "58:00",
+        "topic": "비활성 기체와 팔전자 규칙",
+        "content": "헬륨, 네온 같은 비활성 기체는 가장 바깥쪽 방이 전자로 꽉 채워져 있어 다른 원소와 반응하지 않는다. '팔전자 규칙'은 S방 하나와 P방 세 개, 즉 침대 네 개를 채우면 여덟 명이 된다는 결과이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3480"
+      },
+      {
+        "timestamp_sec": 3533.8,
+        "timestamp_str": "58:53",
+        "topic": "라돈의 위험성",
+        "content": "라돈은 비활성 기체이지만 핵 자체가 불안정하여 방사선을 내뿜으며 붕괴한다. 환기가 안 되는 지하실에 고이면 건강에 해로울 수 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3533"
+      },
+      {
+        "timestamp_sec": 3581.8,
+        "timestamp_str": "59:41",
+        "topic": "나트륨의 반응성",
+        "content": "나트륨 같은 금속은 가장 바깥쪽 방에 전자 한 명이 외롭게 남아 있어 그 전자를 다른 원소에게 넘겨주고 싶어 한다. 물에 떨어뜨리면 격렬하게 반응한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3581"
+      },
+      {
+        "timestamp_sec": 3625.0,
+        "timestamp_str": "01:00:25",
+        "topic": "할로겐 원소의 색깔",
+        "content": "염소(옅은 초록), 브로민(붉은 갈색), 아이오딘(보라빛)은 모두 바깥쪽 방에 전자 자리가 하나씩 비어 있는 친척 원소들이다. 그 빛깔의 차이는 전자가 어느 층 어느 방에 살고 있느냐에 따라 결정된다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3625"
+      },
+      {
+        "timestamp_sec": 3671.9,
+        "timestamp_str": "01:01:11",
+        "topic": "소금의 형성",
+        "content": "나트륨은 남는 전자를 염소에게 넘겨주고, 염소는 그 전자를 받아 방을 채워 소금(NaCl)이 만들어진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3671"
+      },
+      {
+        "timestamp_sec": 3696.8,
+        "timestamp_str": "01:01:36",
+        "topic": "원자 크기의 주기성",
+        "content": "주기율표에서 같은 층 안에서 오른쪽으로 갈수록 전자의 수와 핵 속 양성자의 수가 함께 늘어나 핵이 전자를 더 강하게 잡아당겨 원자 크기는 오히려 작아진다. 새로운 층으로 넘어갈 때 다시 훌쩍 커진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3696"
+      },
+      {
+        "timestamp_sec": 3747.4,
+        "timestamp_str": "01:02:27",
+        "topic": "물 분자의 구조와 성질",
+        "content": "물 분자는 산소 원자 하나가 수소 원자 두 개와 전자를 공유하며 결합한다. 산소 원자의 혼자 남은 전자쌍이 주변을 밀어내어 물 분자가 구부러진 모양이 되고, 이 때문에 물 분자가 자석처럼 양전기와 음전기를 띠어 얼음이 물 위에 뜨는 등 특별한 성질을 가진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3747"
+      },
+      {
+        "timestamp_sec": 3842.0,
+        "timestamp_str": "01:04:02",
+        "topic": "탄소 원자의 혼성 오비탈 (다이아몬드 vs 흑연)",
+        "content": "탄소 원자는 S방과 P방을 섞어 새로운 모양의 방을 만들어낸다. 다이아몬드는 4개의 방이 삼각뿔 모양으로 뻗어 사방의 이웃 탄소와 단단히 결합하여 가장 단단한 물질이 된다. 흑연은 3개의 방만 평평하게 섞어 벌집 모양의 납작한 그물층을 만들고, 이 층들이 느슨하게 겹쳐 쌓여 잘 부서진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3842"
+      },
+      {
+        "timestamp_sec": 3970.9,
+        "timestamp_str": "01:06:10",
+        "topic": "DNA 구조",
+        "content": "DNA의 이중 나선 구조 역시 탄소, 수소, 산소, 질소 원자들이 전자가 사는 방을 공유하며 정교하게 결합한 결과물이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3970"
+      },
+      {
+        "timestamp_sec": 3988.4,
+        "timestamp_str": "01:06:28",
+        "topic": "철의 녹",
+        "content": "쇠부치가 녹스는 현상은 철 원자가 바깥쪽 방에 있던 전자를 공기 중의 산소에게 빼앗기면서 벌어진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=3988"
+      },
+      {
+        "timestamp_sec": 4008.4,
+        "timestamp_str": "01:06:48",
+        "topic": "헤모글로빈과 일산화탄소 중독",
+        "content": "우리 피가 붉은 이유는 헤모글로빈 속 철 원자가 산소 분자를 붙잡았다 놓아주는 역할 때문이다. 일산화탄소는 이 철 원자의 자리를 산소보다 훨씬 단단하게 붙잡아 산소 운반을 방해하여 중독을 일으킨다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4008"
+      },
+      {
+        "timestamp_sec": 4050.2,
+        "timestamp_str": "01:07:30",
+        "topic": "효소와 미량 금속",
+        "content": "우리 몸속 수많은 효소들은 아연, 구리, 망가니즈 같은 미량 금속 원자를 품고 있으며, 이 금속 원자의 전자가 특정 분자만 붙잡아 화학 반응을 조절한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4050"
+      },
+      {
+        "timestamp_sec": 4082.2,
+        "timestamp_str": "01:08:02",
+        "topic": "엽록소와 광합성",
+        "content": "잎이 초록빛으로 보이는 것은 엽록소 분자 한가운데 마그네슘 원자가 태양빛 중 붉은빛과 파란빛만 흡수하고 초록빛은 튕겨내기 때문이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4082"
+      },
+      {
+        "timestamp_sec": 4146.7,
+        "timestamp_str": "01:09:06",
+        "topic": "양자 생물학 가설",
+        "content": "일부 과학자들은 식물이 광합성 에너지를 전달할 때 전자가 여러 경로에 동시에 걸쳐 있다가 가장 효율적인 길을 고르는 양자역학적 현상을 이용할 수 있다는 가설을 제기한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4146"
+      },
+      {
+        "timestamp_sec": 4193.6,
+        "timestamp_str": "01:09:53",
+        "topic": "불꽃놀이의 색깔",
+        "content": "폭죽의 색깔은 금속 가루(스트론튬, 구리, 나트륨 등)가 열을 받아 전자가 높은 층으로 올라갔다가 다시 내려오면서 그 에너지 차이만큼 정확한 색깔의 빛을 뱉어내기 때문이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4193"
+      },
+      {
+        "timestamp_sec": 4241.3,
+        "timestamp_str": "01:10:41",
+        "topic": "네온사인",
+        "content": "네온사인은 네온 기체가 붉은빛을 내지만, 거리의 다양한 색깔 간판은 아르곤이나 크립톤 같은 다른 비활성 기체나 형광 물질을 이용한 경우가 많다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4241"
+      },
+      {
+        "timestamp_sec": 4273.2,
+        "timestamp_str": "01:11:13",
+        "topic": "오로라",
+        "content": "오로라의 신비로운 빛은 태양에서 날아온 에너지 입자가 대기 중 산소나 질소 원자와 부딪히면서 전자를 높은 층으로 밀어 올렸다가 다시 내려오며 빛을 내뿜는 현상이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4273"
+      },
+      {
+        "timestamp_sec": 4291.9,
+        "timestamp_str": "01:11:31",
+        "topic": "보석의 색깔",
+        "content": "루비의 붉은빛과 사파이어의 파란빛은 거의 똑같은 광물(강옥)로 이루어져 있지만, 미세하게 섞인 불순물 금속 원자(크로뮴, 철, 타이타늄) 속 전자의 이동에 따라 다른 색을 낸다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4291"
+      },
+      {
+        "timestamp_sec": 4335.9,
+        "timestamp_str": "01:12:15",
+        "topic": "천문학적 원소 분석",
+        "content": "천문학자들은 별빛 스펙트럼의 정확한 색깔 선을 읽어 별이 어떤 원소로 이루어져 있는지 알아낸다. 헬륨은 지구에서 발견되기 27년 전 태양에서 먼저 발견되었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4335"
+      },
+      {
+        "timestamp_sec": 4404.2,
+        "timestamp_str": "01:13:24",
+        "topic": "번개와 용접 불꽃",
+        "content": "번개나 용접 불꽃은 엄청난 전기 에너지가 공기 중 원자나 금속 원자 속 전자를 높은 층으로 밀어 올렸다가 떨어뜨리면서 빛을 내는 현상이다. 용접 시 자외선 방출로 마스크가 필수다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4404"
+      },
+      {
+        "timestamp_sec": 4440.5,
+        "timestamp_str": "01:14:00",
+        "topic": "반딧불이의 생물 발광",
+        "content": "반딧불이의 빛은 몸속 특정한 분자가 산소와 반응하면서 그 분자 속 전자가 높은 방으로 뛰어 올랐다가 내려오며 빛을 내뿜는 생물학적 버전이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4440"
+      },
+      {
+        "timestamp_sec": 4467.1,
+        "timestamp_str": "01:14:27",
+        "topic": "자석과 전자 스핀",
+        "content": "철이나 니켈 같은 금속만 자석에 붙는 이유는, 안쪽 방 침대 여러 개에 걸쳐 전자들이 짝을 짓지 않고 같은 방향을 보고 나란히 눕는 특이한 구조를 가지고 있어 자기력이 상쇄되지 않고 더해지기 때문이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4467"
+      },
+      {
+        "timestamp_sec": 4535.6,
+        "timestamp_str": "01:15:35",
+        "topic": "전이 금속의 변덕스러운 성질",
+        "content": "철이나 구리 같은 전이 금속은 안쪽 D방에 전자가 어중간하게 채워져 있어 상황에 따라 전자를 내주거나 덜 내주기도 하여 다양한 색깔의 화합물을 만든다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4535"
+      },
+      {
+        "timestamp_sec": 4583.9,
+        "timestamp_str": "01:16:23",
+        "topic": "금과 수은의 특이한 성질 (상대론적 효과)",
+        "content": "금이나 수은처럼 무거운 원소는 핵의 전기력이 강해 안쪽 전자가 빛의 속도에 가깝게 움직인다. 상대론적 효과로 질량이 무거워져 전자가 도는 방향이 작아지고, 이 때문에 금은 노란빛을 띠고 수은은 상온에서 액체 상태로 존재한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4583"
+      },
+      {
+        "timestamp_sec": 4646.4,
+        "timestamp_str": "01:17:26",
+        "topic": "레이저",
+        "content": "레이저는 수많은 전자를 동시에 높은 층으로 끌어올린 다음 한꺼번에 아래층으로 내려오도록 유도하여 완전히 똑같은 색깔과 방향을 가진 빗줄기를 쏟아내도록 만든 장치이다. 최초의 레이저는 루비 결정으로 만들어졌다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4646"
+      },
+      {
+        "timestamp_sec": 4704.2,
+        "timestamp_str": "01:18:24",
+        "topic": "발광 다이오드 (LED)와 양자점 (퀀텀닷)",
+        "content": "스마트폰이나 TV 화면의 발광 다이오드는 반도체 물질 속에서 전자가 층을 오르내리며 빛을 뱉어내도록 만든 장치이다. 양자점은 알갱이 크기 조절만으로 전자가 뛰어오르는 방의 간격이 달라져 색깔이 바뀌는 원리를 이용한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4704"
+      },
+      {
+        "timestamp_sec": 4757.5,
+        "timestamp_str": "01:19:17",
+        "topic": "양자점의 의료 활용",
+        "content": "양자점 표면에 특정 암세포에 달라붙는 물질을 붙여 몸속에 주입하면, 양자점이 뿜어내는 형광빛을 추적하여 작은 암세포 덩어리의 위치를 진단하는 연구가 진행 중이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4757"
+      },
+      {
+        "timestamp_sec": 4784.0,
+        "timestamp_str": "01:19:44",
+        "topic": "반도체와 트랜지스터",
+        "content": "실리콘은 바깥쪽 방에 전자가 절반만 차 있어 금속과 부도체의 중간 성질을 가진다. 미세한 양의 다른 원소를 섞어 전자가 남거나 모자란 부분을 만들면 전기가 한쪽 방향으로만 흐르는 트랜지스터가 만들어진다. 이는 스마트폰 두뇌의 핵심이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4784"
+      },
+      {
+        "timestamp_sec": 4861.7,
+        "timestamp_str": "01:21:01",
+        "topic": "태양광 패널과 광전 효과",
+        "content": "태양광 패널은 빛 알갱이가 반도체 속 전자를 낮은 방에서 높은 방으로 튕겨 올리고, 이 전자들이 한쪽 방향으로 흘러가면서 전기가 만들어지는 아인슈타인의 광전 효과를 이용한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4861"
+      },
+      {
+        "timestamp_sec": 4889.2,
+        "timestamp_str": "01:21:29",
+        "topic": "자동문, 센서",
+        "content": "마트 자동문이나 복도 전등 센서도 어둠 속에서 빛이 들어오고 나가는 순간을 감지하여 전자가 방을 뛰어넘는 현상을 이용한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4889"
+      },
+      {
+        "timestamp_sec": 4924.0,
+        "timestamp_str": "01:22:04",
+        "topic": "원자 시계",
+        "content": "1초의 정의는 세슘 원자 속 전자가 두 가지 스핀 상태 사이를 오갈 때 뱉어내는 전파의 진동 횟수로 정해진다. 이 원자 시계의 정확도 덕분에 위성 항법 장치(GPS)가 정밀하게 작동한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4924"
+      },
+      {
+        "timestamp_sec": 4971.9,
+        "timestamp_str": "01:22:51",
+        "topic": "엑스레이 (X-ray)",
+        "content": "엑스레이 기계는 빠른 전자를 무거운 금속에 충돌시켜 금속 원자의 가장 낮은 층 전자를 튕겨내고, 빈자리를 채우기 위해 높은 층 전자가 떨어지면서 강력한 X선을 뱉어낸다. 이 X선이 몸을 통과하여 뼈의 윤곽을 필름에 남긴다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=4971"
+      },
+      {
+        "timestamp_sec": 5018.5,
+        "timestamp_str": "01:23:38",
+        "topic": "미술품 분석",
+        "content": "X선을 이용해 오래된 명화 속 안료를 분석하고, 화가가 지우고 다시 그린 흔적이나 위작 여부를 훼손 없이 알아낼 수 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5018"
+      },
+      {
+        "timestamp_sec": 5071.1,
+        "timestamp_str": "01:24:31",
+        "topic": "자기 공명 영상 (MRI)",
+        "content": "MRI는 강력한 자석으로 몸속 원자들의 스핀 방향을 정렬한 다음, 짧은 전파로 정렬을 흐트러뜨리고 원자들이 원래 방향으로 돌아오면서 내보내는 미세한 신호를 잡아내 몸속 사진을 그린다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5071"
+      },
+      {
+        "timestamp_sec": 5124.2,
+        "timestamp_str": "01:25:24",
+        "topic": "초전도 현상",
+        "content": "아주 낮은 온도에서 서로 밀어내야 할 전자들이 짝을 지어 손을 맞잡아 전기 저항이 완전히 사라지는 현상이다. 초전도 물질은 자석을 밀어내 공중부양을 가능하게 한다. MRI의 강력한 자석과 자기부상 열차에 응용된다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5124"
+      },
+      {
+        "timestamp_sec": 5237.6,
+        "timestamp_str": "01:27:17",
+        "topic": "양자 컴퓨터",
+        "content": "양자 컴퓨터는 전자나 원자가 동시에 여러 상태에 걸쳐 존재할 수 있다는 이상한 성질을 계산에 이용한다. 전자의 스핀 방향(위/아래)을 정보의 기본 단위로 직접 이용하는 컴퓨터가 개발 중이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5237"
+      },
+      {
+        "timestamp_sec": 5299.6,
+        "timestamp_str": "01:28:19",
+        "topic": "물질의 단단함의 근본 원리",
+        "content": "책상이 단단한 이유는 손끝 원자 속 전자들이 책상 표면 원자 속 전자들과 가까워지려고 할 때, 파울리 배타 원리 때문에 서로 똑같은 자리를 차지할 수 없어 강하게 밀어내는 힘이 생기기 때문이다. 이는 백색왜성, 중성자별 등 우주의 모든 단단한 물체를 관통하는 원리이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5299"
+      },
+      {
+        "timestamp_sec": 5380.3,
+        "timestamp_str": "01:29:40",
+        "topic": "양자역학의 미해결 질문 (규칙의 근본 원인)",
+        "content": "전자가 왜 반대 방향을 향해야만 한 침대에 함께 누울 수 있는지 등 양자역학 규칙의 더 깊은 이유는 아직 밝혀지지 않았다. 공간의 차원수, 시간과 공간의 얽힘과 관련이 있다는 가설이 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5380"
+      },
+      {
+        "timestamp_sec": 5426.8,
+        "timestamp_str": "01:30:26",
+        "topic": "슈레딩거의 고양이",
+        "content": "슈레딩거는 밀폐된 상자 속 고양이가 관찰 전까지 살아있는 상태와 죽어있는 상태에 동시에 걸쳐 있다는 사고 실험을 통해 양자역학의 이상한 규칙이 거시 세계에 적용될 때의 우스꽝스러움을 보여주었다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5426"
+      },
+      {
+        "timestamp_sec": 5517.2,
+        "timestamp_str": "01:31:57",
+        "topic": "아인슈타인과 보어의 논쟁",
+        "content": "아인슈타인은 세상이 확률과 우연에 의존한다는 양자역학을 받아들이지 못하며 '신은 주사위 놀이를 하지 않는다'고 했고, 보어는 '신이 주사위를 던지든 말든 우리가 지시할 수 없다'고 응수했다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5517"
+      },
+      {
+        "timestamp_sec": 5575.0,
+        "timestamp_str": "01:32:55",
+        "topic": "다전자 원자의 오비탈 계산의 어려움",
+        "content": "전자가 여러 개일 경우 핵의 인력뿐 아니라 전자들 간의 복잡한 상호작용 때문에 수학적으로 정확히 풀어낼 방법이 없어 슈퍼 컴퓨터를 동원한 근사치를 사용한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5575"
+      },
+      {
+        "timestamp_sec": 5625.8,
+        "timestamp_str": "01:33:45",
+        "topic": "양자역학의 해석 (코펜하겐 해석)",
+        "content": "전자를 들여다보는 순간 우주 전체가 여러 갈래로 갈라진다는 다세계 해석, 숨은 변수가 있다는 해석 등 다양한 해석이 있으며, 보어가 활동했던 도시의 이름을 딴 '코펜하겐 해석'이 가장 널리 받아들여진다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5625"
+      },
+      {
+        "timestamp_sec": 5685.7,
+        "timestamp_str": "01:34:45",
+        "topic": "양자 얽힘과 양자 암호",
+        "content": "한 원자에서 튀어나온 전자 한 쌍이 아무리 멀리 떨어져 있어도 한쪽 전자의 방향을 측정하는 순간 반대편 전자의 방향이 즉시 확정되는 '양자 얽힘' 현상이 있다. 이를 이용하면 도청 불가능한 '양자 암호' 통신을 만들 수 있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5685"
+      },
+      {
+        "timestamp_sec": 5789.9,
+        "timestamp_str": "01:36:29",
+        "topic": "전자의 크기",
+        "content": "전자가 크기가 전혀 없는 완전한 점인지, 아니면 아직 들여다볼 수 없을 만큼 작은 구조를 숨기고 있는지는 확실하지 않다. 인류가 만든 가장 정밀한 실험 장치로도 전자는 점처럼 행동한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5789"
+      },
+      {
+        "timestamp_sec": 5822.2,
+        "timestamp_str": "01:37:02",
+        "topic": "양자역학과 중력의 통합 문제",
+        "content": "아주 작은 세계의 규칙(양자역학)과 아주 거대한 세계의 규칙(중력)은 지금까지 완벽하게 하나로 이어붙이지 못했으며, 이는 현대 물리학의 가장 크고 근본적인 숙제로 남아있다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5822"
+      },
+      {
+        "timestamp_sec": 5889.9,
+        "timestamp_str": "01:38:09",
+        "topic": "원소 분석 기술 (색깔 지문)",
+        "content": "범죄 현장 총기 발사 흔적, 식품 중금속 검출 등에 시료를 태우거나 특수한 빛을 쪼여 원자들이 뱉어내는 고유한 색깔의 선(색깔 지문)을 읽어 원소를 분석한다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5889"
+      },
+      {
+        "timestamp_sec": 5930.2,
+        "timestamp_str": "01:38:50",
+        "topic": "불꽃 반응 실험",
+        "content": "학교 화학실의 불꽃 반응 실험은 백금 철사에 소금물을 묻혀 촛불에 가져다 대면 노란 불꽃이 피어오르는 등 전자의 도약을 교실에서 손쉽게 확인하는 방법이다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5930"
+      },
+      {
+        "timestamp_sec": 5950.5,
+        "timestamp_str": "01:39:10",
+        "topic": "일상 속 양자역학의 흔적",
+        "content": "화려한 간판 불빛, 가스레인지 불꽃, 스마트폰 화면의 색깔, 무지개, 소금물 등 일상 속 많은 현상이 전자의 층 이동, 빛의 알갱이, 전자 주고받음 등 양자역학적 원리에서 비롯된다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=5950"
+      },
+      {
+        "timestamp_sec": 6008.4,
+        "timestamp_str": "01:40:08",
+        "topic": "물질의 본질에 대한 성찰",
+        "content": "우리가 느끼는 단단함은 텅 빈 공간과 텅 빈 공간이 서로 밀어내는 힘이며, 원자의 속은 딱딱한 알갱이가 아니라 몇 가지 정교한 규칙이 허공 위에 그려낸 무늬에 가깝다.",
+        "youtube_link": "https://youtu.be/SIV0awMiHsI?t=6008"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "SIV0awMiHsI",
+    "title": "양자물리학에서 전자껍질, 부껍질, 오비탈은 뭐가 다를까? 초등학생도 이해할 수 있게 쉽게 설명합니다 🌙 틀어놓고 주무세요",
+    "summary_text": "원자 속 전자의 층(전자껍질), 방(부껍질), 침대(오비탈) 개념을 통해 양자물리학의 기본 원리와 그 원리가 우리 주변의 모든 현상과 첨단 기술에 어떻게 적용되는지 쉽게 이해할 수 있다.\n\n## 주요 주장 및 논거\n- 기존 원자 모형(행성 모형)의 한계를 지적하고, 양자역학적 관점에서 전자의 실제 존재 방식(파동성, 불확정성)을 역사적 발견 과정을 통해 설명한다.\n- 전자가 원자핵 주위에 존재하는 방식을 층(전자껍질), 방(부껍질), 침대(오비탈)의 비유를 통해 상세히 설명하며, 각 개념의 물리적 의미와 규칙(양자수, 파울리 배타 원리, 훈트 규칙)을 소개한다.\n- 양자역학의 기묘한 현상들(양자 터널링, 관찰 효과, 양자 얽힘)을 실제 사례와 연결하여 설명하고, 이 원리들이 주기율표, 물질의 성질, 첨단 기술(레이저, 반도체, MRI, 양자 컴퓨터)에 어떻게 적용되는지 보여준다.\n- 물질의 단단함, 색깔, 자성 등 일상적인 현상들이 원자 속 전자의 미시적 규칙에서 비롯됨을 강조하며, 양자역학이 여전히 풀지 못한 근본적인 질문들을 제시한다.\n\n## 주요 사례\n- 원자의 텅 빈 공간과 물질의 단단함 (파울리 배타 원리)\n- 태양의 핵융합과 USB 저장 장치 (양자 터널링)\n- 다이아몬드와 흑연의 차이 (탄소 원자의 오비탈 혼성)\n- 레이저, LED, 태양광 패널, MRI, 양자 컴퓨터 (양자역학의 기술 적용)\n\n## 핵심 개념\n- 전자껍질\n- 부껍질\n- 오비탈\n- 양자 터널링\n- 파울리 배타 원리\n- 스핀\n\n## 결론\n양자역학은 우리 주변의 모든 현상과 첨단 기술의 근본 원리이며, 여전히 많은 미해결 질문을 품고 있는 흥미로운 분야이다. 일상 속에서 전자의 움직임을 통해 세상의 규칙을 이해하는 새로운 시각을 제공한다."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "video_id": "z38v9TEcisI",
+    "title": "더이상의 찝찝함은 이제 그만! 바이브코더용 백엔드 코딩 훈련 가이드",
+    "original_url": "https://youtu.be/z38v9TEcisI",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 2324.0,
+    "duration_str": "38:44",
+    "created_at": "2026-09-26T18:02:36.315426",
+    "published_date": "20260922",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "백엔드 개발 기초",
+      "웹 애플리케이션 아키텍처",
+      "API 설계 및 구현",
+      "데이터베이스 관리 및 마이그레이션"
+    ],
+    "tags": [
+      "백엔드 개발",
+      "파이썬 코딩",
+      "웹 개발 기초",
+      "API 설계",
+      "데이터베이스"
+    ]
+  },
+  "detail": {
+    "video_id": "z38v9TEcisI",
+    "title": "더이상의 찝찝함은 이제 그만! 바이브코더용 백엔드 코딩 훈련 가이드",
+    "items": [
+      {
+        "timestamp_sec": 0.1,
+        "timestamp_str": "00:00",
+        "topic": "바이브코더를 위한 개발 학습의 필요성",
+        "content": "AI 시대에 바이브코딩을 잘 활용하기 위해 개발의 기본 구조를 이해하는 것이 중요하며, 단순히 AI에 의존하기보다 직접 코드를 작성하며 학습하는 훈련이 필요함을 강조합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=0"
+      },
+      {
+        "timestamp_sec": 120.3,
+        "timestamp_str": "02:00",
+        "topic": "AI 활용 방식과 손코딩의 중요성",
+        "content": "AI(코덱스, GPT, 클로드 등)가 생성한 코드를 참고하되, '만들어 줘'가 아닌 직접 손으로 코드를 작성하고 에러를 디버깅하는 과정이 장기적인 학습에 필수적임을 설명합니다. VS Code와 같은 코드 편집 툴 사용을 권장합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=120"
+      },
+      {
+        "timestamp_sec": 244.6,
+        "timestamp_str": "04:04",
+        "topic": "개발자 기본 훈련: 게시판 만들기",
+        "content": "게시판(목록, 상세, 작성/수정)은 대부분의 웹 서비스 구조를 포함하는 '근본 중의 근본' 훈련 예제임을 설명하며, 이를 통해 개발의 기초를 다질 수 있다고 강조합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=244"
+      },
+      {
+        "timestamp_sec": 366.8,
+        "timestamp_str": "06:06",
+        "topic": "1단계: Python + HTML을 이용한 전통적인 게시판 구현",
+        "content": "가장 전통적인 방식으로 Python과 HTML만을 사용하여 게시판의 목록, 상세, 작성 화면을 구현하는 방법을 제시합니다. CSS를 사용하지 않아 UI는 단순하지만, 핵심 로직 이해에 집중합니다. AI에게 '단일 파이썬 파일'로 코드를 요청하고 손으로 직접 작성하는 훈련을 강조합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=366"
+      },
+      {
+        "timestamp_sec": 591.0,
+        "timestamp_str": "09:51",
+        "topic": "PostgreSQL을 활용한 데이터베이스 다루기",
+        "content": "데이터 저장을 위해 PostgreSQL을 설치하고, GUI 뷰어를 통해 데이터베이스(스키마)를 생성하며 테이블을 설계(컬럼, 데이터 타입 지정)하는 과정을 설명합니다. Python 코드가 데이터베이스에서 데이터를 가져와 HTML에 넣어주는 역할을 수행해야 함을 언급합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=591"
+      },
+      {
+        "timestamp_sec": 761.0,
+        "timestamp_str": "12:41",
+        "topic": "버그와 디버깅의 학습 효과",
+        "content": "손코딩 과정에서 필연적으로 발생하는 버그를 만나고 디버깅하는 과정 자체가 가장 중요한 학습 경험임을 강조합니다. 1단계 훈련에 최소 2~4시간 투자를 권장합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=761"
+      },
+      {
+        "timestamp_sec": 1028.9,
+        "timestamp_str": "17:08",
+        "topic": "2단계: FastAPI와 API의 기본 구조 이해",
+        "content": "현대적인 백엔드 개발 방식인 FastAPI를 소개하며, API(Application Programmable Interface)가 서로 다른 애플리케이션 단위(프론트엔드/백엔드) 간의 소통 접점임을 설명합니다. 프론트엔드와 백엔드의 분업화 배경을 언급합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=1028"
+      },
+      {
+        "timestamp_sec": 1177.6,
+        "timestamp_str": "19:37",
+        "topic": "CRUD와 API 라우팅 개념",
+        "content": "CRUD(Create, Read, Update, Delete) 개념을 설명하고, API 라우팅(Routing)이 HTTP 메소드(GET, POST, PUT, DELETE)와 URI를 조합하여 특정 기능에 대한 요청을 처리하는 방식임을 상세히 설명합니다. 컨벤션(단복수 사용 등)의 중요성을 강조합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=1177"
+      },
+      {
+        "timestamp_sec": 1495.4,
+        "timestamp_str": "24:55",
+        "topic": "ORM과 마이그레이션의 필요성",
+        "content": "ORM(Object-Relational Mapping, 예: SQLAlchemy)이 SQL 쿼리 대신 코드 객체로 데이터베이스를 다루게 하여 복잡성을 줄여주는 역할을 설명합니다. 마이그레이션(예: Alembic)은 데이터베이스 스키마의 형상(구조)을 소스 코드와 함께 관리하여 버전 관리 및 롤백을 용이하게 하는 중요한 개념임을 강조합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=1495"
+      },
+      {
+        "timestamp_sec": 1929.7,
+        "timestamp_str": "32:09",
+        "topic": "AJAX를 이용한 프론트엔드-백엔드 연결",
+        "content": "HTML에서 JavaScript의 `fetch` API를 이용한 AJAX(Asynchronous JavaScript and XML) 호출을 통해 프론트엔드가 백엔드 API와 비동기적으로 통신하는 방법을 설명합니다. 리퀘스트(요청)와 리스폰스(응답)의 개념, 그리고 URI 파라미터, 쿼리 파라미터(GET), 바디(POST/PUT/DELETE)를 통한 정보 전달 방식을 다룹니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=1929"
+      },
+      {
+        "timestamp_sec": 2155.0,
+        "timestamp_str": "35:55",
+        "topic": "2단계 실습 가이드 및 다음 단계 예고",
+        "content": "FastAPI 방식으로 게시판을 새로 구현하며 마이그레이션부터 라우팅까지 손코딩으로 진행할 것을 지시합니다. HTML 파일에 JavaScript 스크립트 태그를 추가하여 AJAX 호출을 구현하는 실습을 안내합니다. 다음 강의에서는 Next.js를 이용한 현대적인 프론트엔드 개발(JavaScript, TypeScript, React)을 다룰 예정임을 예고합니다.",
+        "youtube_link": "https://youtu.be/z38v9TEcisI?t=2155"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "z38v9TEcisI",
+    "title": "더이상의 찝찝함은 이제 그만! 바이브코더용 백엔드 코딩 훈련 가이드",
+    "summary_text": "AI 시대에도 개발의 기본 구조를 깊이 이해하기 위해 직접 코드를 손으로 작성하고 디버깅하는 훈련이 필수적이며, 게시판 만들기를 통해 전통적인 방식부터 현대적인 백엔드 개발까지 단계별로 학습해야 한다.\n\n## 주요 주장 및 논거\n- AI 시대에도 개발의 근본 원리를 이해하기 위해 직접 코드를 작성하고 에러를 디버깅하는 경험이 중요하다.\n- 게시판 만들기는 웹 개발의 핵심 구조를 익히는 가장 기본적인 훈련으로, 목록, 상세, 작성 기능을 구현한다.\n- 전통적인 Python+HTML 방식부터 FastAPI를 이용한 현대적인 백엔드 개발까지 단계별로 학습하여 웹 개발의 진화를 이해한다.\n- 프론트엔드와 백엔드의 분리, API를 통한 통신, 데이터베이스 관리(ORM, 마이그레이션)는 현대 웹 개발의 필수 개념이다.\n- 완성된 결과물보다는 직접 코드를 작성하고 에러를 해결하는 과정에서 깊은 학습과 문제 해결 능력이 길러진다.\n\n## 주요 사례\n- 게시판 만들기 (목록, 상세, 작성 기능)를 통한 웹 서비스 구조 학습\n- SQL 쿼리와 ORM 코드 비교를 통한 데이터베이스 접근 방식의 효율성 설명\n- HTTP 메소드(GET, POST, PUT, DELETE)와 URI를 활용한 API 라우팅 예시\n\n## 핵심 개념\n- API (Application Programmable Interface)\n- CRUD (Create, Read, Update, Delete)\n- ORM (Object-Relational Mapping)\n- 마이그레이션 (Migration)\n- 라우팅 (Routing)\n\n## 결론\n바이브코더가 개발 지식을 머리로만 아는 것을 넘어 손끝으로 익히는 과정을 통해 개발자와 유사한 경험을 쌓고, AI가 생성한 코드를 비판적으로 이해하고 활용할 수 있는 역량을 기를 수 있다. 이는 AI 시대에 더욱 가치 있는 개발자로 성장하는 기반이 된다."
+  }
+}

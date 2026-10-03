@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "video_id": "Ytte2tIwvGE",
+    "title": "볼트, 와트, 암페어의 차이는 무엇인가? 초등학생까지도 이해할 수 있게 설명 | 리처드 파인만",
+    "original_url": "https://youtu.be/Ytte2tIwvGE",
+    "channel": "날것 그대로의 물리",
+    "channel_id": "UCbY9SBgJGczHPt6m8cdZajA",
+    "speakers": [],
+    "duration_sec": 2969.0,
+    "duration_str": "49:29",
+    "created_at": "2026-09-26T17:00:33.490897",
+    "published_date": "20260515",
+    "kdc_main_code": "400",
+    "kdc_main_name": "자연과학",
+    "kdc_sub_code": "420",
+    "kdc_sub_name": "물리학",
+    "sub_topics": [
+      "전기의 기본 개념",
+      "볼트(전압)와 암페어(전류)",
+      "와트(전력)와 옴의 법칙",
+      "전기 기술의 역사와 응용"
+    ],
+    "tags": [
+      "전기",
+      "전압",
+      "전류",
+      "전력",
+      "볼트"
+    ]
+  },
+  "detail": {
+    "video_id": "Ytte2tIwvGE",
+    "title": "볼트, 와트, 암페어의 차이는 무엇인가? 초등학생까지도 이해할 수 있게 설명 | 리처드 파인만",
+    "items": [
+      {
+        "timestamp_sec": 0.3,
+        "timestamp_str": "00:00",
+        "topic": "도입: 전기에 대한 오해와 질문",
+        "content": "대부분의 사람들은 전기를 단순히 켜고 끄는 것으로 생각하지만, 220V 콘센트와 9V 건전지, 5만V 테이저건의 안전성 차이 등 전기에 대한 근본적인 질문들이 존재한다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=0"
+      },
+      {
+        "timestamp_sec": 63.2,
+        "timestamp_str": "01:03",
+        "topic": "볼트, 와트, 암페어 이해의 중요성",
+        "content": "이 세 단어는 서로 별개의 개념이 아니라, 같은 전기 현상을 세 가지 다른 측면에서 바라본 것이다. 이를 이해하면 세상이 다르게 보인다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=63"
+      },
+      {
+        "timestamp_sec": 156.9,
+        "timestamp_str": "02:36",
+        "topic": "전기의 본질: 전자의 이동",
+        "content": "세상의 모든 물질은 원자로 이루어져 있으며, 원자 주변을 도는 전자가 한 원자에서 다른 원자로 이동하는 것이 전기다. 구리는 전자를 느슨하게 잡아 전기가 잘 통하고, 고무는 전자를 꽉 잡아 전기가 통하지 않는다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=156"
+      },
+      {
+        "timestamp_sec": 264.6,
+        "timestamp_str": "04:24",
+        "topic": "볼트(Volt): 전압의 개념과 역사",
+        "content": "전자를 밀어주는 힘이 볼트다. 이탈리아 과학자 알렉산드로 볼타는 1800년 세계 최초로 전지(볼타 전지)를 발명하여 전위차를 통해 지속적인 전기를 만들어냈다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=264"
+      },
+      {
+        "timestamp_sec": 422.8,
+        "timestamp_str": "07:02",
+        "topic": "볼트의 비유: 물탱크의 높이(수압)",
+        "content": "산 위의 물탱크 비유에서 물탱크의 높이(수압)가 볼트(전압)에 해당한다. 높이 차이가 클수록 물을 밀어내는 힘이 강하듯, 볼트가 높을수록 전자를 밀어붙이는 힘이 강하다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=422"
+      },
+      {
+        "timestamp_sec": 548.6,
+        "timestamp_str": "09:08",
+        "topic": "볼트의 함정: 위험성은 암페어가 결정",
+        "content": "많은 사람들이 볼트가 높으면 위험하다고 생각하지만, 실제 위험을 결정하는 것은 암페어(전류)다. 볼트가 높을수록 같은 몸을 통해 더 많은 전류를 밀어넣을 수 있기 때문에 위험해진다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=548"
+      },
+      {
+        "timestamp_sec": 589.7,
+        "timestamp_str": "09:49",
+        "topic": "암페어(Ampere): 전류의 개념과 역사",
+        "content": "프랑스 과학자 앙드레 마리 앙페르는 1820년 전류가 자기장을 만들어낸다는 것을 발견하고 전류의 양을 측정하는 방법을 개발했다. 암페어는 전자가 얼마나 많이 흐르는가를 나타낸다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=589"
+      },
+      {
+        "timestamp_sec": 698.8,
+        "timestamp_str": "11:38",
+        "topic": "암페어의 비유: 파이프를 흐르는 물의 양(유량)",
+        "content": "물탱크 비유에서 파이프를 통해 초당 흐르는 물의 양이 암페어(전류)에 해당한다. 1암페어는 1초에 약 6천조 개의 전자가 지나가는 양이다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=698"
+      },
+      {
+        "timestamp_sec": 842.8,
+        "timestamp_str": "14:02",
+        "topic": "테이저건과 욕조 감전 사고의 원리",
+        "content": "테이저건은 5만V의 높은 전압에도 불구하고 암페어를 극히 낮게 제한하여 사람을 죽이지 않는다. 반면 욕조 감전은 물로 인해 인체 저항이 낮아져 낮은 전압에서도 위험한 전류가 흐를 수 있다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=842"
+      },
+      {
+        "timestamp_sec": 913.6,
+        "timestamp_str": "15:13",
+        "topic": "와트(Watt): 전력의 개념과 역사",
+        "content": "제임스 와트는 증기기관의 효율을 개선하고 기계의 힘을 비교하기 위해 '마력(horsepower)'이라는 단위를 만들었다. 와트는 단위 시간당 에너지를 소비하거나 생산하는 속도, 즉 일률을 의미한다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=913"
+      },
+      {
+        "timestamp_sec": 1089.4,
+        "timestamp_str": "18:09",
+        "topic": "와트의 비유: 수압과 유량을 합친 일의 양",
+        "content": "물탱크 비유에서 와트는 물의 수압(볼트)과 유량(암페어)을 곱한 값으로, 물로 실제로 할 수 있는 일의 양이다. 전기에서는 볼트 x 암페어 = 와트가 된다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1089"
+      },
+      {
+        "timestamp_sec": 1133.7,
+        "timestamp_str": "18:53",
+        "topic": "와트의 일상 적용: 헤어드라이어와 전기 요금",
+        "content": "헤어드라이어의 와트(예: 1800W)는 1초에 소비하는 에너지의 양을 나타내며, 전기 요금은 이 와트를 기반으로 계산되는 kW시(kWh)의 누적량이다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1133"
+      },
+      {
+        "timestamp_sec": 1287.2,
+        "timestamp_str": "21:27",
+        "topic": "옴의 법칙: 전압, 전류, 저항의 관계",
+        "content": "독일 과학자 게오르크 시몬 옴은 전압이 높을수록 전류가 증가하고, 저항이 클수록 전류가 감소한다는 옴의 법칙을 발견했다. 저항은 전기의 흐름을 방해하는 성질이다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1287"
+      },
+      {
+        "timestamp_sec": 1425.6,
+        "timestamp_str": "23:45",
+        "topic": "전구의 원리: 저항과 발열",
+        "content": "에디슨이 발명한 전구는 저항이 높은 필라멘트에 전기가 흐르면서 발생하는 열로 빛을 낸다. 전구의 볼트, 암페어, 와트 관계를 통해 전력 소비를 이해할 수 있다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1425"
+      },
+      {
+        "timestamp_sec": 1563.5,
+        "timestamp_str": "26:03",
+        "topic": "전기 배선과 차단기: 안전의 중요성",
+        "content": "전선 굵기는 전류 통과량을 결정하며, 과도한 전류는 전선 저항으로 인해 발열을 일으켜 화재의 원인이 된다. 차단기는 과전류를 감지하여 전기를 끊어 화재를 예방한다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1563"
+      },
+      {
+        "timestamp_sec": 1687.6,
+        "timestamp_str": "28:07",
+        "topic": "배터리 이해: V, mAh, Wh",
+        "content": "스마트폰 배터리의 3.7V는 전압, 4000mAh는 4암페어를 1시간 동안 공급할 수 있는 용량을 의미한다. 이를 와트시(Wh)로 변환하여 총 에너지량을 알 수 있다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1687"
+      },
+      {
+        "timestamp_sec": 1795.8,
+        "timestamp_str": "29:55",
+        "topic": "전기차 충전과 배터리 수명",
+        "content": "전기차 충전 속도는 와트로 표현되며, 빠른 충전은 높은 전압과 전류로 더 많은 와트를 밀어넣는 것이다. 하지만 높은 전류는 배터리 내부에 스트레스를 주어 수명을 단축시킬 수 있다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1795"
+      },
+      {
+        "timestamp_sec": 1880.3,
+        "timestamp_str": "31:20",
+        "topic": "직류와 교류의 전쟁: 에디슨 vs 테슬라",
+        "content": "19세기 말, 에디슨은 직류를, 테슬라는 교류를 지지하며 치열한 기술 표준 전쟁을 벌였다. 직류는 한 방향, 교류는 방향이 주기적으로 바뀌는 전기다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1880"
+      },
+      {
+        "timestamp_sec": 1990.2,
+        "timestamp_str": "33:10",
+        "topic": "교류의 장점: 전압 변환 용이와 송전 효율",
+        "content": "교류는 변압기를 통해 전압을 쉽게 올리고 내릴 수 있어, 고압 송전을 통해 전력 손실을 최소화하며 멀리까지 전기를 보낼 수 있다. 직류는 당시 기술로 변환이 어려웠다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=1990"
+      },
+      {
+        "timestamp_sec": 2150.0,
+        "timestamp_str": "35:50",
+        "topic": "21세기 직류의 재조명",
+        "content": "태양광, 전기차, 데이터센터 등 현대 기술 발전과 함께 직류가 다시 주목받고 있다. 에디슨의 직류 방식이 옳았던 부분도 있었으나, 당시 기술적 한계로 실현되지 못했다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2150"
+      },
+      {
+        "timestamp_sec": 2175.3,
+        "timestamp_str": "36:15",
+        "topic": "스마트폰 충전기: 교류-직류 변환의 복잡성",
+        "content": "스마트폰 충전기는 다양한 입력 전압(100-240V)의 교류를 받아 변압, 정류, 필터링 과정을 거쳐 폰에 맞는 직류 전압(예: 5V)으로 정밀하게 변환하여 공급한다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2175"
+      },
+      {
+        "timestamp_sec": 2303.6,
+        "timestamp_str": "38:23",
+        "topic": "태양광 발전: 광전 효과와 패널 연결",
+        "content": "태양광 패널은 아인슈타인의 광전 효과 원리를 이용해 태양빛 에너지를 전기 에너지(직류)로 변환한다. 패널은 직렬 또는 병렬로 연결하여 최적의 전압과 전류를 얻는다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2303"
+      },
+      {
+        "timestamp_sec": 2419.4,
+        "timestamp_str": "40:19",
+        "topic": "번개의 원리: 거대한 전위차와 방전",
+        "content": "구름 속 얼음 결정과 물방울 충돌로 전하가 분리되어 거대한 전위차(볼트)가 발생하고, 이 전위차가 공기의 저항을 뚫고 순간적으로 방전되는 것이 번개다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2419"
+      },
+      {
+        "timestamp_sec": 2500.5,
+        "timestamp_str": "41:40",
+        "topic": "번개의 에너지: 높은 와트, 짧은 지속 시간",
+        "content": "번개는 억 볼트 단위의 전압과 수만 암페어의 전류로 엄청난 와트를 내지만, 지속 시간이 극히 짧아 총 에너지는 생각보다 적다. 따라서 에너지원으로 활용하기 어렵다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2500"
+      },
+      {
+        "timestamp_sec": 2561.8,
+        "timestamp_str": "42:41",
+        "topic": "한국의 전기 역사: 110V에서 220V로 전환",
+        "content": "한국은 1887년 경복궁에 에디슨 전구가 처음 켜진 이후 110V 체계를 유지하다가, 1973년부터 효율성을 위해 220V로 전환하는 작업을 32년간 진행했다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2561"
+      },
+      {
+        "timestamp_sec": 2654.5,
+        "timestamp_str": "44:14",
+        "topic": "LED 전구의 효율성: 열 낭비 최소화",
+        "content": "LED 전구는 백열등(열로 90% 이상 낭비)과 달리 전기 에너지를 직접 빛으로 변환하여 효율이 50~70%에 달한다. 적은 와트로도 높은 밝기를 낼 수 있어 에너지 절약에 기여한다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2654"
+      },
+      {
+        "timestamp_sec": 2719.4,
+        "timestamp_str": "45:19",
+        "topic": "결론: 볼트, 암페어, 와트가 만들어내는 현실 세계",
+        "content": "볼트, 암페어, 와트의 상호 관계를 이해하면 스마트폰 충전, 헤어드라이어, 지하철, 엘리베이터 등 일상 속 모든 전기 현상과 에너지 흐름을 새로운 관점으로 볼 수 있다. 세상은 전기로 가득 차 있으며, 이제 그 흐름이 보이기 시작할 것이다.",
+        "youtube_link": "https://youtu.be/Ytte2tIwvGE?t=2719"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "Ytte2tIwvGE",
+    "title": "볼트, 와트, 암페어의 차이는 무엇인가? 초등학생까지도 이해할 수 있게 설명 | 리처드 파인만",
+    "summary_text": "볼트, 암페어, 와트의 상호 관계를 이해하면 일상 속 전기 제품부터 자연 현상에 이르기까지 세상의 모든 에너지 흐름을 깊이 있게 파악할 수 있다.\n\n## 주요 주장 및 논거\n- 전기는 전자의 이동이며, 볼트는 전자를 미는 힘, 암페어는 흐르는 전자의 양을 나타낸다.\n- 전기의 위험성은 볼트보다 암페어에 의해 결정되며, 높은 볼트는 인체 저항을 뚫고 더 많은 암페어를 흐르게 할 수 있다.\n- 와트는 전압과 전류의 곱으로, 실제 기기가 하는 일의 양이나 에너지 소비 속도를 나타내며 전기 요금의 기준이 된다.\n- 옴의 법칙(전압, 전류, 저항의 관계)과 와트(전력) 개념을 통해 모든 전기 현상을 설명할 수 있다.\n- 직류와 교류의 역사적 대립과 교류의 송전 효율성, 그리고 21세기 직류의 재조명은 기술 발전과 시대적 요구에 따른 변화를 보여준다.\n\n## 주요 사례\n- 물탱크 비유 (볼트=수압, 암페어=유량, 와트=수압x유량)\n- 테이저건 (높은 볼트, 낮은 암페어로 안전성 확보)\n- 스마트폰 충전기 (교류를 직류로 변환하고 전압을 조절하는 과정)\n\n## 핵심 개념\n- 볼트(전압)\n- 암페어(전류)\n- 와트(전력)\n- 저항\n\n## 결론\n볼트, 암페어, 와트의 개념을 통해 일상 속 전기 제품부터 자연 현상, 산업 시스템에 이르기까지 세상 곳곳의 에너지 흐름을 새로운 관점으로 이해하고, 전기가 우리 삶에 미치는 영향을 더욱 깊이 있게 인식할 수 있다."
+  }
+}

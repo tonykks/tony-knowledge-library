@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "video_id": "iLFQwXgmic8",
+    "title": "[김정운의 소통의 심리학 1부] 말하지 않고 말하기, AI는 절대 못한다 | 문화심리학자 김정운 박사",
+    "original_url": "https://youtu.be/iLFQwXgmic8",
+    "channel": "Understanding : All the Knowledge in the World",
+    "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+    "speakers": [
+      "김정운"
+    ],
+    "duration_sec": 2821.0,
+    "duration_str": "47:01",
+    "created_at": "2026-09-26T16:54:54.177577",
+    "published_date": "20260523",
+    "kdc_main_code": "100",
+    "kdc_main_name": "철학",
+    "kdc_sub_code": "180",
+    "kdc_sub_name": "심리학",
+    "sub_topics": [
+      "AI가 닿지 못하는 인간 소통",
+      "비고츠키와 상호주관성",
+      "9개월의 자아 형성 과정",
+      "비주얼 씽킹과 명제적 사고",
+      "사이버 공간의 탈문명화"
+    ],
+    "tags": [
+      "김정운",
+      "소통의심리학",
+      "AI",
+      "상호주관성",
+      "비주얼씽킹"
+    ]
+  },
+  "detail": {
+    "video_id": "iLFQwXgmic8",
+    "title": "[김정운의 소통의 심리학 1부] 말하지 않고 말하기, AI는 절대 못한다 | 문화심리학자 김정운 박사",
+    "items": [
+      {
+        "timestamp_sec": 0.1,
+        "timestamp_str": "00:00",
+        "topic": "AI와 소통의 본질적 차이",
+        "content": "AI는 인간에게 먼저 말을 걸지 않으며, 우리가 시키는 대로만 반응한다. 이는 AI가 인간의 본질적인 소통 능력을 갖추지 못했음을 보여준다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=0"
+      },
+      {
+        "timestamp_sec": 177.8,
+        "timestamp_str": "02:57",
+        "topic": "신간 '말하지 않고 말하기' 소개 및 집필 배경",
+        "content": "문화심리학자 김정운 박사가 30년 만에 펴낸 책으로, 박사 논문 주제였던 비고츠키 심리학을 기반으로 인간 소통의 본질을 다룬다. 과거 교수 임용 실패 후 대중 강연자로 활동하다가, 본래 연구 주제로 돌아와 집필했다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=177"
+      },
+      {
+        "timestamp_sec": 309.5,
+        "timestamp_str": "05:09",
+        "topic": "비고츠키 심리학과 상호주관성",
+        "content": "비고츠키는 '소통하기 때문에 우리가 존재한다'고 주장하며, 인간은 본질적으로 상호주관적 존재임을 강조한다. 이는 피아제의 사회화 개념과 대립된다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=309"
+      },
+      {
+        "timestamp_sec": 362.6,
+        "timestamp_str": "06:02",
+        "topic": "AI 혁명에 대한 비판적 시각",
+        "content": "AI 혁명에 대한 과도한 공포와 기대는 인간 본질에 대한 이해 부족에서 비롯된다. 인간의 수십만 년 진화 과정에서 형성된 본질적 특성을 AI가 한순간에 뒤집을 수 없다고 본다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=362"
+      },
+      {
+        "timestamp_sec": 447.9,
+        "timestamp_str": "07:27",
+        "topic": "AI로 인한 개인적 경험: 지식의 무용지물화",
+        "content": "김정운 박사는 4개 국어로 된 2만 권의 장서를 통해 쌓은 지식이 AI 등장으로 한순간에 '쓰레기'가 되는 직격탄을 맞았다고 고백한다. 하지만 AI 덕분에 자료 검색이 쉬워져 책 쓰기가 오히려 행복해졌다고 덧붙인다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=447"
+      },
+      {
+        "timestamp_sec": 698.4,
+        "timestamp_str": "11:38",
+        "topic": "AI가 아닌 IA(Intelligence Augmentation)",
+        "content": "AI(Artificial Intelligence)라는 용어는 존 매카시가 만들었지만, 마우스 발명가 더글러스 앵겔바르트는 IA(Intelligence Augmentation, 지능 확장)로 불러야 한다고 주장했다. AI는 인간의 지능을 확장하는 도구로 이해해야 한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=698"
+      },
+      {
+        "timestamp_sec": 816.3,
+        "timestamp_str": "13:36",
+        "topic": "기존 의사소통 모델의 문제점",
+        "content": "기존의 의사소통 모델은 발신자가 메시지를 수신자에게 보내는 '송신자-수신자' 모델로, 메시지의 문제로 소통 실패를 본다. 이는 1956년 다트머스 회의에서 존 매카시와 클로드 섀넌에 의해 형성된 관점이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=816"
+      },
+      {
+        "timestamp_sec": 887.6,
+        "timestamp_str": "14:47",
+        "topic": "존 매카시의 오류: 문장적 사고의 한계",
+        "content": "존 매카시는 기계가 인간처럼 사고하게 하려면 '명제적 지식(문장적 사고)'을 입력하면 된다고 주장했으나, 이는 인간 사고의 본질을 오해한 것이다. 이로 인해 AI 연구는 60년간 헤매게 되었다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=887"
+      },
+      {
+        "timestamp_sec": 961.8,
+        "timestamp_str": "16:01",
+        "topic": "인간 사고의 본질: 비주얼 싱킹",
+        "content": "심리학에서는 버벌 싱킹(문장적 사고)과 비주얼 싱킹(그림적 사고)을 구별한다. 게슈탈트 심리학에 따르면, 인간 사고의 대부분은 그림으로 이루어지며, 창의성의 원천은 비주얼 싱킹이다. 문장적 사고는 순환 구조로 새로운 것을 만들어내지 못한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=961"
+      },
+      {
+        "timestamp_sec": 1069.6,
+        "timestamp_str": "17:49",
+        "topic": "클로드 섀넌의 오류: 소통을 정보 전달로 규정",
+        "content": "클로드 섀넌은 소통을 정보의 전달로 규정하고, 잡음을 제거하기 위한 비트, 바이트 개념을 만들었다. 이 역시 인간 소통의 본질인 상호주관성을 간과한 것이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1069"
+      },
+      {
+        "timestamp_sec": 1108.1,
+        "timestamp_str": "18:28",
+        "topic": "상호주관성의 의미와 중요성",
+        "content": "인간 소통은 상호주관성에서 출발한다. 후설은 '객관성'이 아닌 '상호주관성'의 개념이 필요하다고 주장했으나, 그 가능성에 대한 설명은 부족했다. '선험적'이라는 주장은 의심해야 하며, 실제 발현 과정을 설명해야 한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1108"
+      },
+      {
+        "timestamp_sec": 1331.2,
+        "timestamp_str": "22:11",
+        "topic": "인간의 미숙아 출생과 상호주관성 발달",
+        "content": "인간은 다른 동물과 달리 미숙아로 태어나며(생리학적 조산), 태어난 후 9개월 동안 엄마와의 독특한 상호작용(9개월 혁명)을 통해 상호주관성을 형성한다. 이 과정은 인간만의 위대한 능력이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1331"
+      },
+      {
+        "timestamp_sec": 1488.2,
+        "timestamp_str": "24:48",
+        "topic": "상호주관적 경험의 6가지 요소",
+        "content": "의사소통은 터치, 눈맞춤, 정서 조율, 순서 바꾸기(이항 구조), 함께 보기, 가리키기(삼항 구조)의 여섯 가지 상호주관적 경험을 통해 이루어진다. 이 경험들이 전제되지 않으면 소통은 불가능하다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1488"
+      },
+      {
+        "timestamp_sec": 1637.7,
+        "timestamp_str": "27:17",
+        "topic": "터치의 중요성: 소통의 출발점",
+        "content": "아기는 말을 못 해도 터치로 소통하며, 피부는 '드러난 뇌'라고 불린다. 아기 때 많은 터치는 뇌 발달에 긍정적이다. 뇌가 신경을 많이 쓰는 부위(손, 입술, 혀)는 사랑하는 사람과의 상호작용 순서와 일치한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1637"
+      },
+      {
+        "timestamp_sec": 1766.6,
+        "timestamp_str": "29:26",
+        "topic": "터치의 심리적, 물리적 효과",
+        "content": "'엄마 손은 약손'처럼 터치는 게이트 컨트롤 이론에 따라 통증 전달을 막고 심리적 위로를 준다. 슬플 때 스스로를 만지는 행위(팔짱 끼는 한국 남자)도 같은 맥락이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1766"
+      },
+      {
+        "timestamp_sec": 1840.2,
+        "timestamp_str": "30:40",
+        "topic": "인터페이스 혁명으로서의 AI",
+        "content": "과거 기계는 '두들겨 패는' 대상이었으나, 스티브 잡스의 터치 인터페이스(마우스의 발전) 이후 인간은 기계를 '만지기' 시작했다. AI 혁명의 본질은 인간과 기계 사이의 '인터페이스 혁명'이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1840"
+      },
+      {
+        "timestamp_sec": 1926.1,
+        "timestamp_str": "32:06",
+        "topic": "터치 상실과 상호주관성 붕괴",
+        "content": "스마트폰 사용으로 인해 인간은 기계를 만지지만, 인간 간의 터치는 줄어들었다. AI는 압력, 진동, 온도, 통증, 미끄럼 등 피부의 모든 감각을 개별적으로 모방할 수 있어도, '부분의 합은 전체가 아니다'는 게슈탈트 심리학 원리처럼 인간의 통합적 터치 경험을 재현할 수 없다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=1926"
+      },
+      {
+        "timestamp_sec": 2244.8,
+        "timestamp_str": "37:24",
+        "topic": "눈맞춤의 중요성: 인간만의 소통 행위",
+        "content": "인간만이 눈을 마주치는 것을 소통 행위로 인식한다. 동물은 눈맞춤을 공격으로 받아들인다. 인간 눈의 흰 공막은 의도와 방향을 보여주어 협업을 가능하게 한다. 미키마우스 눈에 흰자가 생긴 후 인기가 급증한 사례가 이를 뒷받침한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=2244"
+      },
+      {
+        "timestamp_sec": 2401.8,
+        "timestamp_str": "40:01",
+        "topic": "문명화 과정과 감정의 온순화",
+        "content": "브라이언 헤어의 '다정한 것이 살아남는다'는 이론처럼, 문명화 과정은 감정의 온순화 과정이다. 노벨트 엘리아스의 문명화 과정론에 따르면, 고대인류와 현대인류의 두개골 변화(눈썹 활)는 감정 표현을 평화롭게 하기 위한 진화의 결과이다. 논농사와 밀농사의 차이로 동양인이 더 정서적인 커뮤니케이션을 발달시켰다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=2401"
+      },
+      {
+        "timestamp_sec": 2549.5,
+        "timestamp_str": "42:29",
+        "topic": "식탁 예절과 눈맞춤 문화 차이",
+        "content": "중세 초기의 난폭한 식사 문화가 귀족들의 궁중 식탁 예절을 통해 감정 온순화가 이루어졌으며, 눈을 마주치며 미소 짓는 것이 중요해졌다. 동양인은 눈맞춤을 불경스럽게 여겨 코를 보는 반면, 서양인은 눈과 입을 보며 소통한다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=2549"
+      },
+      {
+        "timestamp_sec": 2703.2,
+        "timestamp_str": "45:03",
+        "topic": "사이버 공간의 탈문명화",
+        "content": "사이버 공간은 눈맞춤이나 시선이 작동하지 않는 새로운 공간이다. 메시지만 오가는 환경에서 상호주관성을 경험할 여지가 없어 인터넷상에서 난폭함이 증가한다. 이는 근대화로 만들어진 상호작용의 예절과 규칙이 무너지는 '탈문명화' 과정이다.",
+        "youtube_link": "https://youtu.be/iLFQwXgmic8?t=2703"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "iLFQwXgmic8",
+    "title": "[김정운의 소통의 심리학 1부] 말하지 않고 말하기, AI는 절대 못한다 | 문화심리학자 김정운 박사",
+    "summary_text": "AI는 인간의 본질적인 상호주관적 소통 능력을 모방할 수 없으며, 디지털 환경에서의 소통 단절은 '탈문명화'를 초래하므로 인간 고유의 소통 방식을 이해하고 지켜나가야 한다.\n\n## 주요 주장 및 논거\n- AI는 인간의 본질적인 상호주관적 소통 능력을 모방할 수 없으며, 이는 AI의 근본적인 한계이다.\n- 인간의 사고는 문장이 아닌 그림(비주얼 싱킹)으로 이루어지며, 이것이 창의성의 원천이다.\n- 인간은 미숙아로 태어나 9개월간의 터치, 눈맞춤 등 상호작용을 통해 상호주관성을 형성한다.\n- 사이버 공간은 이러한 상호주관적 소통의 기반을 무너뜨려 '탈문명화' 현상을 야기하며, 이는 온라인상의 난폭함으로 이어진다.\n- AI는 인간 지능을 확장하는 훌륭한 도구로 활용되어야 하며, AI에 대한 과도한 공포는 인간 본질에 대한 이해 부족에서 비롯된다.\n\n## 주요 사례\n- 김정운 박사의 2만 권 장서가 AI 등장으로 무용지물이 된 개인적 경험.\n- 웨이터의 가벼운 터치가 팁 수입을 20% 증가시킨 실험 결과.\n- 미키마우스 캐릭터가 눈에 흰자가 생긴 후 인기가 급증한 사례.\n- 고대인류와 현대인류 두개골의 눈썹 활 변화를 통한 감정 온순화의 진화.\n\n## 핵심 개념\n- 상호주관성\n- 비주얼 싱킹\n- 탈문명화\n- 9개월 혁명\n- 문명화 과정\n\n## 결론\n인간 고유의 상호주관적 소통 능력은 AI가 대체할 수 없는 핵심 영역이며, 디지털 환경에서 발생하는 소통의 단절과 '탈문명화' 현상에 대한 깊은 이해와 성찰이 필요하다. AI를 인간 지능을 보완하는 도구로 활용하되, 인간 본연의 소통 방식을 잃지 않도록 노력해야 한다."
+  }
+}
