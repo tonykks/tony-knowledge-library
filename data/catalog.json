@@ -1,7 +1,42 @@
 {
-  "revision": "b277cdda6186471e9cbc370e8a0b0fab",
-  "total_items": 114,
+  "revision": "fee52ada06de4edc8bc92b75b53c363f",
+  "total_items": 115,
   "items": [
+    {
+      "video_id": "01lFgP-I-i8",
+      "title": "우리나라도 소련, 중국과 수교를 시작한 이유 | 김종인 대표 [시대기록]",
+      "original_url": "https://youtu.be/01lFgP-I-i8",
+      "channel": "삼프로TV 3PROTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "speakers": [
+        "김종인"
+      ],
+      "duration_sec": 2010.0,
+      "duration_str": "33:30",
+      "created_at": "2026-10-03T11:18:01.504258+00:00",
+      "published_date": "20251004",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "340",
+      "kdc_sub_name": "정치학",
+      "sub_topics": [
+        "북방정책",
+        "한소수교",
+        "한중수교",
+        "남북관계",
+        "경제외교",
+        "노태우 정부",
+        "냉전 종식",
+        "독일 통일"
+      ],
+      "tags": [
+        "북방정책",
+        "노태우",
+        "김종인",
+        "한소수교",
+        "한중수교"
+      ]
+    },
     {
       "video_id": "Zz9YPDKQP9Y",
       "title": "대한민국도 위대한 대통령을 가질 권리가 있다 | 김종인 대표 [시대기록]",
