@@ -1,7 +1,38 @@
 {
-  "revision": "5f9804149b704794abecc5b6307580ef",
-  "total_items": 109,
+  "revision": "1864781c8628475e973f3245bb63945f",
+  "total_items": 110,
   "items": [
+    {
+      "video_id": "SC-TddF3wm0",
+      "title": "모두가 반대할 때 박정희의 한마디 #3protv #김종인 #박정희",
+      "original_url": "https://youtu.be/SC-TddF3wm0",
+      "channel": "삼프로TV 3PROTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "speakers": [
+        "김종인"
+      ],
+      "duration_sec": 38.0,
+      "duration_str": "00:38",
+      "created_at": "2026-10-03T11:14:21.822186+00:00",
+      "published_date": "20250921",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "320",
+      "kdc_sub_name": "경제학",
+      "sub_topics": [
+        "박정희 정부 정책 결정",
+        "건강보험 도입",
+        "경제 정책 논쟁",
+        "사회 복지 정책"
+      ],
+      "tags": [
+        "3protv",
+        "김종인",
+        "박정희",
+        "건강보험",
+        "경제정책"
+      ]
+    },
     {
       "video_id": "oQEez_Cgep4",
       "title": "12.12 내란 주역 신군부 2인자, 노태우 대통령 되다  | 김종인 대표 [시대기록]",
