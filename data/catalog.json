@@ -1,7 +1,44 @@
 {
-  "revision": "355a41a25e3d416e8089345bff463d3b",
-  "total_items": 113,
+  "revision": "b277cdda6186471e9cbc370e8a0b0fab",
+  "total_items": 114,
   "items": [
+    {
+      "video_id": "Zz9YPDKQP9Y",
+      "title": "대한민국도 위대한 대통령을 가질 권리가 있다 | 김종인 대표 [시대기록]",
+      "original_url": "https://youtu.be/Zz9YPDKQP9Y",
+      "channel": "삼프로TV 3PROTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "speakers": [
+        "김종인"
+      ],
+      "duration_sec": 4076.0,
+      "duration_str": "01:07:56",
+      "created_at": "2026-10-03T11:17:01.800095+00:00",
+      "published_date": "20250912",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "340",
+      "kdc_sub_name": "정치학",
+      "sub_topics": [
+        "대통령 리더십",
+        "한국 정치사",
+        "윤석열 정부 평가",
+        "이재명 정부 조언",
+        "경제 위기",
+        "비상계엄",
+        "외교 정책",
+        "의료 개혁",
+        "국민의힘",
+        "정치인의 탐욕"
+      ],
+      "tags": [
+        "김종인",
+        "한국정치",
+        "대통령",
+        "윤석열",
+        "이재명"
+      ]
+    },
     {
       "video_id": "tzrW5qLs1Eg",
       "title": "성공한 대통령 단 한 명도 없다? #3protv #김종인",
