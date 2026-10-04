@@ -1,7 +1,39 @@
 {
-  "revision": "8adcc6e250674ec6b988cae75de96961",
-  "total_items": 117,
+  "revision": "74718139fc6140588e67fa8915028875",
+  "total_items": 118,
   "items": [
+    {
+      "video_id": "ewVVN9NXxWc",
+      "title": "on은 '위에'가 아닙니다! 원어민이 알려주는 at, on, in 1초 구분법",
+      "original_url": "https://youtu.be/ewVVN9NXxWc",
+      "channel": "가브리엘의 원어민 영어",
+      "channel_id": "UCqV3Z9kMVQ6efcyfXoX3ljQ",
+      "speakers": [
+        "가브리엘"
+      ],
+      "duration_sec": 534.0,
+      "duration_str": "08:54",
+      "created_at": "2026-10-04T01:33:11.613371+00:00",
+      "published_date": "20260417",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "740",
+      "kdc_sub_name": "영어",
+      "sub_topics": [
+        "영어 전치사",
+        "at on in 구분",
+        "원어민 영어 사고",
+        "영어 문법",
+        "전치사 이미지 학습"
+      ],
+      "tags": [
+        "영어공부",
+        "전치사",
+        "at on in",
+        "원어민영어",
+        "영어문법"
+      ]
+    },
     {
       "video_id": "KqoRsxSqv-U",
       "title": "지하 100m 땅속에서 어떻게 수평으로 길을 뚫을까? / 14F",
