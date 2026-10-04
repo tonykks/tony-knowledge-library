@@ -1,7 +1,42 @@
 {
-  "revision": "c765fad4966e4b3690e589a029360655",
-  "total_items": 115,
+  "revision": "794e0589dd4d44b9af3a8796f2f8e7c9",
+  "total_items": 116,
   "items": [
+    {
+      "video_id": "BIKu4RLW3oI",
+      "title": "이 영상 하나면 조동사 고민 끝! 원어민이 직접 알려주는 1초 핵심 구분법 🚨",
+      "original_url": "https://youtu.be/BIKu4RLW3oI",
+      "channel": "가브리엘의 원어민 영어",
+      "channel_id": "UCqV3Z9kMVQ6efcyfXoX3ljQ",
+      "speakers": [
+        "가브리엘"
+      ],
+      "duration_sec": 507.0,
+      "duration_str": "08:27",
+      "created_at": "2026-10-04T01:05:17.161469+00:00",
+      "published_date": "20260516",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "740",
+      "kdc_sub_name": "영어",
+      "sub_topics": [
+        "조동사",
+        "should",
+        "could",
+        "would",
+        "영어 문법",
+        "영어 회화",
+        "과거 후회 표현",
+        "가정법"
+      ],
+      "tags": [
+        "영어 조동사",
+        "should could would",
+        "영어 문법",
+        "원어민 영어",
+        "영어 회화"
+      ]
+    },
     {
       "video_id": "01lFgP-I-i8",
       "title": "우리나라도 소련, 중국과 수교를 시작한 이유 | 김종인 대표 [시대기록]",
