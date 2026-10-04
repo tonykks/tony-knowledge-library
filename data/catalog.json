@@ -1,7 +1,39 @@
 {
-  "revision": "794e0589dd4d44b9af3a8796f2f8e7c9",
-  "total_items": 116,
+  "revision": "8adcc6e250674ec6b988cae75de96961",
+  "total_items": 117,
   "items": [
+    {
+      "video_id": "KqoRsxSqv-U",
+      "title": "지하 100m 땅속에서 어떻게 수평으로 길을 뚫을까? / 14F",
+      "original_url": "https://youtu.be/KqoRsxSqv-U",
+      "channel": "14F 일사에프",
+      "channel_id": "UCLKuglhGlMmDteQKoniENIQ",
+      "speakers": [],
+      "duration_sec": 253.0,
+      "duration_str": "04:13",
+      "created_at": "2026-10-04T01:23:30.112870+00:00",
+      "published_date": "20261002",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "580",
+      "kdc_sub_name": "건축공학, 토목공학",
+      "sub_topics": [
+        "전력 송전망",
+        "지중화 작업",
+        "TBM 공법",
+        "발파 공법",
+        "지하 터널 공사",
+        "한국전력 기술 개발",
+        "도시 인프라"
+      ],
+      "tags": [
+        "지중화기술",
+        "TBM공법",
+        "한국전력",
+        "송전망",
+        "전력케이블"
+      ]
+    },
     {
       "video_id": "BIKu4RLW3oI",
       "title": "이 영상 하나면 조동사 고민 끝! 원어민이 직접 알려주는 1초 핵심 구분법 🚨",
