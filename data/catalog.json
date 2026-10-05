@@ -1,7 +1,39 @@
 {
-  "revision": "12436484f0ce49b5813945ba8c223240",
-  "total_items": 121,
+  "revision": "ef95875066644cbc94aa1438970264de",
+  "total_items": 122,
   "items": [
+    {
+      "video_id": "jUkoGePewEE",
+      "title": "[조동사 총정리] 영어의 모든 조동사 13개 익히고 빨리 영어 잘하자!",
+      "original_url": "https://youtu.be/jUkoGePewEE",
+      "channel": "에스텔잉글리쉬EstellEnglish",
+      "channel_id": "UC0Wy2BjhsQP3gk2iuksCudw",
+      "speakers": [
+        "에스텔 쌤"
+      ],
+      "duration_sec": 922.0,
+      "duration_str": "15:22",
+      "created_at": "2026-10-05T12:09:33.102183+00:00",
+      "published_date": "20240212",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "740",
+      "kdc_sub_name": "영어",
+      "sub_topics": [
+        "영어 문법",
+        "조동사",
+        "영어 회화",
+        "영어 학습 팁",
+        "뉘앙스"
+      ],
+      "tags": [
+        "조동사",
+        "영어조동사",
+        "조동사총정리",
+        "영어회화",
+        "영어문법"
+      ]
+    },
     {
       "video_id": "Yeo8EC-C8SY",
       "title": "영어 회화를 잘하고 싶다면 제일 먼저 마스터해야 할 기초 문법",
