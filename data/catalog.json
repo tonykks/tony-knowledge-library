@@ -1,7 +1,48 @@
 {
-  "revision": "31bfbe9e6af74a2387e034c67417e05a",
-  "total_items": 120,
+  "revision": "12436484f0ce49b5813945ba8c223240",
+  "total_items": 121,
   "items": [
+    {
+      "video_id": "Yeo8EC-C8SY",
+      "title": "영어 회화를 잘하고 싶다면 제일 먼저 마스터해야 할 기초 문법",
+      "original_url": "https://youtu.be/Yeo8EC-C8SY",
+      "channel": "에스텔잉글리쉬EstellEnglish",
+      "channel_id": "UC0Wy2BjhsQP3gk2iuksCudw",
+      "speakers": [
+        "에스텔"
+      ],
+      "duration_sec": 1609.0,
+      "duration_str": "26:49",
+      "created_at": "2026-10-05T12:07:58.749074+00:00",
+      "published_date": "20240111",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "740",
+      "kdc_sub_name": "영어",
+      "sub_topics": [
+        "영어회화 문법",
+        "8품사",
+        "명사",
+        "대명사",
+        "동사",
+        "형용사",
+        "부사",
+        "전치사",
+        "접속사",
+        "감탄사",
+        "어순 (주어, 서술어, 목적어, 보어)",
+        "동사 파생 형태 (투부정사, 분사, 동명사)",
+        "관사 및 한정사",
+        "의문사 및 관계사"
+      ],
+      "tags": [
+        "영문법",
+        "영문법기초",
+        "8품사",
+        "영어회화",
+        "스피킹문법"
+      ]
+    },
     {
       "video_id": "h1d1DBzUM7g",
       "title": "[90분 몰아보기] 왕초보도 할 수 있다! 당장 입이 트이는 기초 영문법",
