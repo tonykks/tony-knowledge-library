@@ -1,7 +1,39 @@
 {
-  "revision": "74718139fc6140588e67fa8915028875",
-  "total_items": 118,
+  "revision": "e70e1fb74c3b421c9151822301e495f2",
+  "total_items": 119,
   "items": [
+    {
+      "video_id": "c0rs7UtQ5-8",
+      "title": "이 영상으로 영어 어순(말하는 순서) 큰 틀부터 빨리 잡으세요!",
+      "original_url": "https://youtu.be/c0rs7UtQ5-8",
+      "channel": "에스텔잉글리쉬EstellEnglish",
+      "channel_id": "UC0Wy2BjhsQP3gk2iuksCudw",
+      "speakers": [
+        "에스텔"
+      ],
+      "duration_sec": 1166.0,
+      "duration_str": "19:26",
+      "created_at": "2026-10-05T12:02:27.237756+00:00",
+      "published_date": "20220918",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "740",
+      "kdc_sub_name": "영어",
+      "sub_topics": [
+        "영어 문장 구조",
+        "영어 5형식",
+        "영어 어순",
+        "영어 기초 문법",
+        "주어 서술어"
+      ],
+      "tags": [
+        "영어어순",
+        "영어형식",
+        "영어기초",
+        "영어문법",
+        "영어공부"
+      ]
+    },
     {
       "video_id": "ewVVN9NXxWc",
       "title": "on은 '위에'가 아닙니다! 원어민이 알려주는 at, on, in 1초 구분법",
