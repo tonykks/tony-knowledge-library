@@ -1,7 +1,41 @@
 {
-  "revision": "4e240f7a24d3445e96a6b8e5534a3d1d",
-  "total_items": 125,
+  "revision": "73fb0a93ed8f4100986910b9b4777a61",
+  "total_items": 126,
   "items": [
+    {
+      "video_id": "ZYAKxz7NHbI",
+      "title": "와.. 이걸 다 알려준다고?.. AI 영상 만드는 법｜제미나이·구글 플로우 활용법부터 프롬프트 공개까지 #제미나이 #플로우 #ai영상 #미니어처",
+      "original_url": "https://youtu.be/ZYAKxz7NHbI",
+      "channel": "테라아이",
+      "channel_id": "UCr7wynB9MPehAC3I3BnEtWQ",
+      "speakers": [
+        "내레이터"
+      ],
+      "duration_sec": 735.0,
+      "duration_str": "12:15",
+      "created_at": "2026-10-08T13:44:02.899982+00:00",
+      "published_date": "20260819",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 영상 제작 워크플로우",
+        "구글 제미나이 활용법",
+        "구글 플로우 활용법",
+        "프롬프트 엔지니어링",
+        "디오라마 영상 제작",
+        "미니어처 요리 영상 제작",
+        "시각적 일관성 유지 전략"
+      ],
+      "tags": [
+        "제미나이",
+        "플로우",
+        "AI 영상",
+        "미니어처",
+        "프롬프트"
+      ]
+    },
     {
       "video_id": "j2x7tTq6Jbo",
       "title": "제미나이 하나로 5분만에 AI 영상 만드는법 (무료 자료 제공)",
