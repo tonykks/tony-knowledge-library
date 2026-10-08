@@ -1,7 +1,38 @@
 {
-  "revision": "eab7292416154a509595d90ed3c76741",
-  "total_items": 124,
+  "revision": "4e240f7a24d3445e96a6b8e5534a3d1d",
+  "total_items": 125,
   "items": [
+    {
+      "video_id": "j2x7tTq6Jbo",
+      "title": "제미나이 하나로 5분만에 AI 영상 만드는법 (무료 자료 제공)",
+      "original_url": "https://youtu.be/j2x7tTq6Jbo",
+      "channel": "AI 뚝딱",
+      "channel_id": "UCvxyZfUokMPorFRAu0bdNPQ",
+      "speakers": [],
+      "duration_sec": 571.0,
+      "duration_str": "09:31",
+      "created_at": "2026-10-08T13:33:12.468527+00:00",
+      "published_date": "20260917",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 영상 제작",
+        "제미나이 활용법",
+        "구글 플로우",
+        "AI 이미지 생성",
+        "프롬프트 엔지니어링",
+        "유튜브 쇼츠 제작"
+      ],
+      "tags": [
+        "제미나이",
+        "AI영상제작",
+        "구글플로우",
+        "AI",
+        "유튜브쇼츠"
+      ]
+    },
     {
       "video_id": "08mQWvc3rgc",
       "title": "떡상하는 AI 건축 쇼츠 10분만에 만드는 법, 이 영상 하나면 다 끝냅니다 (+자동화 스킬 무료 제공)",
