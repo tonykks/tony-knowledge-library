@@ -1,7 +1,41 @@
 {
-  "revision": "4955b52ca4fd4788ac799372cd1a643e",
-  "total_items": 131,
+  "revision": "31be720bbc8344bfafe07b4f4f128d03",
+  "total_items": 132,
   "items": [
+    {
+      "video_id": "YzUwtgArzz8",
+      "title": "전 세계 언어학자들이 한글을 ‘사치’라고 말하는 이유 | 서울대 이진호 교수 | 샤로잡다 시즌2 (ENG CC)",
+      "original_url": "https://youtu.be/YzUwtgArzz8",
+      "channel": "서울대학교 Seoul National University",
+      "channel_id": "UCJ_3L5ElVq7fI0AAB91tfng",
+      "speakers": [
+        "이진호"
+      ],
+      "duration_sec": 1255.0,
+      "duration_str": "20:55",
+      "created_at": "2026-10-09T03:48:50.198418+00:00",
+      "published_date": "20260122",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "훈민정음 해례본",
+        "한글 창제 원리",
+        "세종대왕의 언어학적 역량",
+        "한글의 과학성",
+        "한글의 디자인적 특성",
+        "디지털 시대의 한글",
+        "한글 연구의 미래"
+      ],
+      "tags": [
+        "한글",
+        "세종대왕",
+        "훈민정음",
+        "언어학",
+        "한국어"
+      ]
+    },
     {
       "video_id": "Z2_xPe3so8E",
       "title": "[🎁책이벤트] 세계 다른 문자에는 절대 없는 한글의 비밀 | 황선엽 서울대 교수 (박은경의지식비상구 20261008)",
