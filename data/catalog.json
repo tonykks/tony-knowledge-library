@@ -1,7 +1,40 @@
 {
-  "revision": "c7c98eeaed6a4d0cafe7b7c7c4fdd03a",
-  "total_items": 129,
+  "revision": "534af061d01b49e9a04aad7371f03410",
+  "total_items": 130,
   "items": [
+    {
+      "video_id": "05CSibujimY",
+      "title": "\"절대 사라지지 않는 이유\" 천 년 역사 속에서도 결국 한국어가 이겨낸 이유 (황선엽 교수 2부)",
+      "original_url": "https://youtu.be/05CSibujimY",
+      "channel": "머니인사이드",
+      "channel_id": "UCxfko2YOD6DODYRGzeOPhIQ",
+      "speakers": [
+        "황선엽 교수"
+      ],
+      "duration_sec": 1682.0,
+      "duration_str": "28:02",
+      "created_at": "2026-10-09T03:47:21.897796+00:00",
+      "published_date": "20260628",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "한글의 과학성",
+        "한국어의 역사",
+        "한자와의 관계",
+        "일제강점기 언어 탄압",
+        "언어의 진화와 외래어",
+        "한글의 생존력"
+      ],
+      "tags": [
+        "한글",
+        "한국어",
+        "언어학",
+        "세종대왕",
+        "조선어학회"
+      ]
+    },
     {
       "video_id": "0VKG5Xj7R4I",
       "title": "\"이걸 알면 세상이 달라 보입니다\" 한글이 세계적으로 특별한 이유 (황선엽 교수 1부)",
