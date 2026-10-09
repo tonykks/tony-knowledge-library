@@ -1,7 +1,42 @@
 {
-  "revision": "31be720bbc8344bfafe07b4f4f128d03",
-  "total_items": 132,
+  "revision": "d363c52896b0480ca5e8e766ee5238f0",
+  "total_items": 133,
   "items": [
+    {
+      "video_id": "tPbquleU4TI",
+      "title": "\"한글 창제는 오랑캐 짓\" 강력한 반대에도 세종이 한글을 만든 진짜 이유 | KBS 20101009 방송",
+      "original_url": "https://youtu.be/tPbquleU4TI",
+      "channel": "KBS 다큐",
+      "channel_id": "UC4LW3sOslC14Vn5bcoNUBkg",
+      "speakers": [
+        "이호영 교수"
+      ],
+      "duration_sec": 3349.0,
+      "duration_str": "55:49",
+      "created_at": "2026-10-09T04:17:37.983772+00:00",
+      "published_date": "20250616",
+      "kdc_main_code": "900",
+      "kdc_main_name": "역사",
+      "kdc_sub_code": "990",
+      "kdc_sub_name": "한국사",
+      "sub_topics": [
+        "한글 창제",
+        "세종대왕",
+        "훈민정음",
+        "언어학적 우수성",
+        "조선시대 문자 생활",
+        "중화사상",
+        "백성 중심 사상",
+        "음운학"
+      ],
+      "tags": [
+        "한글",
+        "세종",
+        "훈민정음",
+        "조선",
+        "문자"
+      ]
+    },
     {
       "video_id": "YzUwtgArzz8",
       "title": "전 세계 언어학자들이 한글을 ‘사치’라고 말하는 이유 | 서울대 이진호 교수 | 샤로잡다 시즌2 (ENG CC)",
