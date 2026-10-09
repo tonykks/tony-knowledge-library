@@ -1,7 +1,41 @@
 {
-  "revision": "d363c52896b0480ca5e8e766ee5238f0",
-  "total_items": 133,
+  "revision": "7e4a7d00aff2449db9559ba7e79b089c",
+  "total_items": 134,
   "items": [
+    {
+      "video_id": "XJLJRU97Zak",
+      "title": "세종대왕은 몰랐지만 뇌는 알고 있었다, 한글의 과학",
+      "original_url": "https://youtu.be/XJLJRU97Zak",
+      "channel": "안될과학 Unrealscience",
+      "channel_id": "UCMc4EmuDxnHPc6pgGW-QWvQ",
+      "speakers": [
+        "안될과학"
+      ],
+      "duration_sec": 835.0,
+      "duration_str": "13:55",
+      "created_at": "2026-10-09T04:30:52.582314+00:00",
+      "published_date": "20261009",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "180",
+      "kdc_sub_name": "심리학",
+      "sub_topics": [
+        "한글의 독특한 구조",
+        "뇌의 문자 처리 방식",
+        "문자 체계별 뇌 활성 비교",
+        "표기 투명성",
+        "자질 문자",
+        "난독증과 한글",
+        "세종대왕의 문자 창제 철학"
+      ],
+      "tags": [
+        "한글",
+        "뇌",
+        "뇌과학",
+        "언어",
+        "세종대왕"
+      ]
+    },
     {
       "video_id": "tPbquleU4TI",
       "title": "\"한글 창제는 오랑캐 짓\" 강력한 반대에도 세종이 한글을 만든 진짜 이유 | KBS 20101009 방송",
