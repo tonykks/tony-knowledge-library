@@ -1,7 +1,37 @@
 {
-  "revision": "e25fd45121464eec99357a495e742e7e",
-  "total_items": 136,
+  "revision": "4fcbcb2fe25240cb891a26e1d6a98aa2",
+  "total_items": 137,
   "items": [
+    {
+      "video_id": "kko9DZxFVZM",
+      "title": "[딱 15분만에 컴퓨터 한글 자판 떼기] 컴퓨터 한글 자판 익히기 3강!",
+      "original_url": "https://youtu.be/kko9DZxFVZM",
+      "channel": "희망학교TV",
+      "channel_id": "UCGDMhESE1S-MkfU2_wXX9MQ",
+      "speakers": [],
+      "duration_sec": 286.0,
+      "duration_str": "04:46",
+      "created_at": "2026-10-09T05:01:09.288048+00:00",
+      "published_date": "20210729",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "한글 자판 연습",
+        "컴퓨터 기초",
+        "타자 연습",
+        "키보드 사용법",
+        "모음 자판 익히기"
+      ],
+      "tags": [
+        "한글자판",
+        "컴퓨터기초",
+        "타자연습",
+        "키보드",
+        "한글모음"
+      ]
+    },
     {
       "video_id": "7D69101F-_M",
       "title": "[딱 15분만에 컴퓨터 한글 자판 떼기] 컴퓨터 한글 자판 익히기 2강!",
