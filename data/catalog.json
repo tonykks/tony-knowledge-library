@@ -1,7 +1,42 @@
 {
-  "revision": "534af061d01b49e9a04aad7371f03410",
-  "total_items": 130,
+  "revision": "4955b52ca4fd4788ac799372cd1a643e",
+  "total_items": 131,
   "items": [
+    {
+      "video_id": "Z2_xPe3so8E",
+      "title": "[🎁책이벤트] 세계 다른 문자에는 절대 없는 한글의 비밀 | 황선엽 서울대 교수 (박은경의지식비상구 20261008)",
+      "original_url": "https://youtu.be/Z2_xPe3so8E",
+      "channel": "경향TV",
+      "channel_id": "UCHXvjavEtkPFJCfGlm0wTXw",
+      "speakers": [
+        "황선엽 서울대학교 국어국문학과 교수"
+      ],
+      "duration_sec": 2345.0,
+      "duration_str": "39:05",
+      "created_at": "2026-10-09T03:48:10.177856+00:00",
+      "published_date": "20261008",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "한글과 한국어의 차이",
+        "세종대왕의 한글 창제",
+        "한글의 과학적 원리",
+        "한글 창제 후 사회 변화",
+        "일제강점기 우리말 수난",
+        "한국어의 역사적 변화",
+        "AI 시대의 한국어",
+        "을씨년스럽다 어원"
+      ],
+      "tags": [
+        "한글날",
+        "세종대왕",
+        "훈민정음",
+        "한국어",
+        "을씨년스럽다"
+      ]
+    },
     {
       "video_id": "05CSibujimY",
       "title": "\"절대 사라지지 않는 이유\" 천 년 역사 속에서도 결국 한국어가 이겨낸 이유 (황선엽 교수 2부)",
