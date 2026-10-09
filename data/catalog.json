@@ -1,7 +1,43 @@
 {
-  "revision": "d884cb577106446da931dc4353274049",
-  "total_items": 128,
+  "revision": "c7c98eeaed6a4d0cafe7b7c7c4fdd03a",
+  "total_items": 129,
   "items": [
+    {
+      "video_id": "0VKG5Xj7R4I",
+      "title": "\"이걸 알면 세상이 달라 보입니다\" 한글이 세계적으로 특별한 이유 (황선엽 교수 1부)",
+      "original_url": "https://youtu.be/0VKG5Xj7R4I",
+      "channel": "머니인사이드",
+      "channel_id": "UCxfko2YOD6DODYRGzeOPhIQ",
+      "speakers": [
+        "황선엽"
+      ],
+      "duration_sec": 2308.0,
+      "duration_str": "38:28",
+      "created_at": "2026-10-09T03:46:39.732453+00:00",
+      "published_date": "20260627",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "언어학의 정의와 범위",
+        "언어와 문자의 차이점",
+        "문자의 발달 과정과 한글의 위치",
+        "한글의 과학성 및 합리성",
+        "한글의 수용성과 표현 능력",
+        "맞춤법의 기능과 어려움",
+        "언어 변화의 역사성과 속도",
+        "한글의 보급 과정과 역사적 장애물",
+        "한글의 미래와 확장성"
+      ],
+      "tags": [
+        "한글",
+        "머니포커스",
+        "세종대왕",
+        "언어학",
+        "국어학"
+      ]
+    },
     {
       "video_id": "ba-qcRa37ZM",
       "title": "\"한글 없으면 아무것도 못한다“ 지금 해외에서 한글 난리난 이유 | 황선엽 교수 2부",
