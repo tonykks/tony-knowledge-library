@@ -1,7 +1,39 @@
 {
-  "revision": "7e4a7d00aff2449db9559ba7e79b089c",
-  "total_items": 134,
+  "revision": "486838ea308949108cfcc275308a1a16",
+  "total_items": 135,
   "items": [
+    {
+      "video_id": "t4ZQNKKd_k0",
+      "title": "[딱 15분만에 컴퓨터 한글 자판 떼기] 컴퓨터 한글 자판 익히기 1강!",
+      "original_url": "https://youtu.be/t4ZQNKKd_k0",
+      "channel": "희망학교TV",
+      "channel_id": "UCGDMhESE1S-MkfU2_wXX9MQ",
+      "speakers": [
+        "강사"
+      ],
+      "duration_sec": 330.0,
+      "duration_str": "05:30",
+      "created_at": "2026-10-09T05:00:03.592470+00:00",
+      "published_date": "20210729",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "컴퓨터 한글 자판 익히기",
+        "효과적인 타자 학습법",
+        "키보드 구역 나누기",
+        "한글 자판 운지법",
+        "손가락 자세 교정"
+      ],
+      "tags": [
+        "한글자판",
+        "컴퓨터타자",
+        "타자연습",
+        "운지법",
+        "희망학교TV"
+      ]
+    },
     {
       "video_id": "XJLJRU97Zak",
       "title": "세종대왕은 몰랐지만 뇌는 알고 있었다, 한글의 과학",
