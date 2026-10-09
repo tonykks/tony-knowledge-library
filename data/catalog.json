@@ -1,7 +1,39 @@
 {
-  "revision": "e07304eeb55e4284a954759da44c7345",
-  "total_items": 127,
+  "revision": "d884cb577106446da931dc4353274049",
+  "total_items": 128,
   "items": [
+    {
+      "video_id": "ba-qcRa37ZM",
+      "title": "\"한글 없으면 아무것도 못한다“ 지금 해외에서 한글 난리난 이유 | 황선엽 교수 2부",
+      "original_url": "https://youtu.be/ba-qcRa37ZM",
+      "channel": "조한범TV",
+      "channel_id": "UC4HJ-Z-ddHOc3CMoiVnZXfQ",
+      "speakers": [
+        "황선엽 교수"
+      ],
+      "duration_sec": 1176.0,
+      "duration_str": "19:36",
+      "created_at": "2026-10-09T03:45:43.306248+00:00",
+      "published_date": "20260821",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "단어와 인식의 상호작용",
+        "한국어의 세계화와 문화의 힘",
+        "한글의 역사와 생존 비결",
+        "외래어 수용과 언어 정체성",
+        "한국어의 표현력"
+      ],
+      "tags": [
+        "훈민정음",
+        "한글",
+        "한국어",
+        "한류",
+        "언어학"
+      ]
+    },
     {
       "video_id": "sl5I2Tkqphc",
       "title": "“알파벳도 못한 걸 해냈다” 해외에서 난리난 한글 위력 | 황선엽 교수 1부",
