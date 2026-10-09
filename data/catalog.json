@@ -1,7 +1,39 @@
 {
-  "revision": "73fb0a93ed8f4100986910b9b4777a61",
-  "total_items": 126,
+  "revision": "e07304eeb55e4284a954759da44c7345",
+  "total_items": 127,
   "items": [
+    {
+      "video_id": "sl5I2Tkqphc",
+      "title": "“알파벳도 못한 걸 해냈다” 해외에서 난리난 한글 위력 | 황선엽 교수 1부",
+      "original_url": "https://youtu.be/sl5I2Tkqphc",
+      "channel": "조한범TV",
+      "channel_id": "UC4HJ-Z-ddHOc3CMoiVnZXfQ",
+      "speakers": [
+        "황선엽 교수"
+      ],
+      "duration_sec": 1462.0,
+      "duration_str": "24:22",
+      "created_at": "2026-10-09T03:42:29.811875+00:00",
+      "published_date": "20260817",
+      "kdc_main_code": "700",
+      "kdc_main_name": "언어",
+      "kdc_sub_code": "710",
+      "kdc_sub_name": "한국어",
+      "sub_topics": [
+        "한글의 독창성과 과학성",
+        "세종대왕의 한글 창제 동기",
+        "한글의 역사적 변천과 문자 체계",
+        "다른 문자 체계와의 비교",
+        "외국어 표기와 외래어의 이해"
+      ],
+      "tags": [
+        "훈민정음",
+        "한글",
+        "세종대왕",
+        "한류",
+        "글자"
+      ]
+    },
     {
       "video_id": "ZYAKxz7NHbI",
       "title": "와.. 이걸 다 알려준다고?.. AI 영상 만드는 법｜제미나이·구글 플로우 활용법부터 프롬프트 공개까지 #제미나이 #플로우 #ai영상 #미니어처",
