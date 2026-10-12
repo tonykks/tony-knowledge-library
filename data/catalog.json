@@ -1,7 +1,43 @@
 {
-  "revision": "4fcbcb2fe25240cb891a26e1d6a98aa2",
-  "total_items": 137,
+  "revision": "c862042567f14457b68d3426f5fe1ec4",
+  "total_items": 138,
   "items": [
+    {
+      "video_id": "b-BU74cPJwo",
+      "title": "로드맵 전체공개) 나를 AI로 복제하는 실험에서 시작했지만 이젠 얘 없으면 아무 일도 할 수 없습니다",
+      "original_url": "https://youtu.be/b-BU74cPJwo",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장"
+      ],
+      "duration_sec": 2178.0,
+      "duration_str": "36:18",
+      "created_at": "2026-10-12T22:56:31.517013+00:00",
+      "published_date": "20260725",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI Transformation (AX)",
+        "Personal Productivity with AI",
+        "Work Process Optimization",
+        "AI Agent Development",
+        "Knowledge Management with AI",
+        "Decision-Making with AI",
+        "AI Ethics and Principles",
+        "Digital Twin (Deep Twin)",
+        "Vibe Coding"
+      ],
+      "tags": [
+        "AX",
+        "바이브코딩",
+        "AI",
+        "생산성",
+        "업무 자동화"
+      ]
+    },
     {
       "video_id": "kko9DZxFVZM",
       "title": "[딱 15분만에 컴퓨터 한글 자판 떼기] 컴퓨터 한글 자판 익히기 3강!",
