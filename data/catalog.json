@@ -1,7 +1,39 @@
 {
-  "revision": "9b95f69fdbe04022890372316fc03a95",
-  "total_items": 142,
+  "revision": "59851bb3042947cf998c31814ac71748",
+  "total_items": 143,
   "items": [
+    {
+      "video_id": "G4z2L2YANDg",
+      "title": "클로드 코드 필수 MCP 5가지, 이 지도 한 장으로 끝내드립니다",
+      "original_url": "https://youtu.be/G4z2L2YANDg",
+      "channel": "혼잡스",
+      "channel_id": "UCidyOPC0asenYpq_Mgbfa0w",
+      "speakers": [],
+      "duration_sec": 439.0,
+      "duration_str": "07:19",
+      "created_at": "2026-10-13T07:32:51.956742+00:00",
+      "published_date": "20261002",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "클로드 코드",
+        "MCP",
+        "AI 에이전트",
+        "AI 활용",
+        "생산성 도구",
+        "자동화",
+        "API 연동"
+      ],
+      "tags": [
+        "클로드코드",
+        "MCP",
+        "AI활용",
+        "ClaudeCode",
+        "혼잡스"
+      ]
+    },
     {
       "video_id": "N3st1ZrB_zc",
       "title": "모르면 따라가기 힘든 Ai 용어정리 12개 딱 한장으로 끝! (바이브코딩 지도 2부)",
