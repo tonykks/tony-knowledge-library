@@ -1,7 +1,46 @@
 {
-  "revision": "429c5b222e014a7ab79014320adccc8c",
-  "total_items": 141,
+  "revision": "9b95f69fdbe04022890372316fc03a95",
+  "total_items": 142,
   "items": [
+    {
+      "video_id": "N3st1ZrB_zc",
+      "title": "모르면 따라가기 힘든 Ai 용어정리 12개 딱 한장으로 끝! (바이브코딩 지도 2부)",
+      "original_url": "https://youtu.be/N3st1ZrB_zc",
+      "channel": "혼잡스",
+      "channel_id": "UCidyOPC0asenYpq_Mgbfa0w",
+      "speakers": [
+        "혼잡스"
+      ],
+      "duration_sec": 569.0,
+      "duration_str": "09:29",
+      "created_at": "2026-10-13T07:19:46.677875+00:00",
+      "published_date": "20260722",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "LLM",
+        "멀티모달",
+        "RLHF",
+        "파인튜닝",
+        "프롬프트 엔지니어링",
+        "지식 베이스",
+        "RAG",
+        "MCP",
+        "AI 에이전트",
+        "워크플로우 자동화",
+        "하네스",
+        "AGI",
+        "ASI"
+      ],
+      "tags": [
+        "AI용어",
+        "바이브코딩",
+        "챗지피티",
+        "AI에이전트"
+      ]
+    },
     {
       "video_id": "DrekqeDlO1w",
       "title": "하네스 공식문서 100번 읽은 것처럼 만들어드림",
