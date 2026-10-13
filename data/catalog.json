@@ -1,7 +1,41 @@
 {
-  "revision": "6cff4b6f545a4a0181ab5588aa9ee5f5",
-  "total_items": 140,
+  "revision": "429c5b222e014a7ab79014320adccc8c",
+  "total_items": 141,
   "items": [
+    {
+      "video_id": "DrekqeDlO1w",
+      "title": "하네스 공식문서 100번 읽은 것처럼 만들어드림",
+      "original_url": "https://youtu.be/DrekqeDlO1w",
+      "channel": "아는개발자",
+      "channel_id": "UCLBLoecRuMN9vgLwWLUjLSg",
+      "speakers": [
+        "아는개발자"
+      ],
+      "duration_sec": 1040.0,
+      "duration_str": "17:20",
+      "created_at": "2026-10-13T03:20:51.057745+00:00",
+      "published_date": "20260403",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 에이전트",
+        "LLM 활용",
+        "시스템 설계",
+        "소프트웨어 개발 방법론",
+        "자동화",
+        "코드 품질 관리",
+        "개발자 역할 변화"
+      ],
+      "tags": [
+        "하네스 엔지니어링",
+        "AI 에이전트",
+        "LLM",
+        "개발자",
+        "시스템 설계"
+      ]
+    },
     {
       "video_id": "3yyLg1xbQSs",
       "title": "하네스 엔지니어링 존재 이유부터 실전 예제까지 다 가져가라!",
