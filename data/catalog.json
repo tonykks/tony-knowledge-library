@@ -1,7 +1,45 @@
 {
-  "revision": "63d3394cb478498691279441c7bcacad",
-  "total_items": 146,
+  "revision": "4780c99e7ff347cbb178431e87ee5879",
+  "total_items": 147,
   "items": [
+    {
+      "video_id": "geY4UO23QA8",
+      "title": "LLM 신경망 학습부터 추론 원리 전체를 비개발자 15명에게 설명하는 강의",
+      "original_url": "https://youtu.be/geY4UO23QA8",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장"
+      ],
+      "duration_sec": 5716.0,
+      "duration_str": "01:35:16",
+      "created_at": "2026-10-14T01:11:30.631225+00:00",
+      "published_date": "20260828",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "LLM 학습 원리",
+        "LLM 추론 원리",
+        "토큰화",
+        "파라미터와 가중치",
+        "사전 학습",
+        "파인튜닝",
+        "어텐션 메커니즘",
+        "컨텍스트 윈도우",
+        "프롬프트 엔지니어링",
+        "RAG (Retrieval Augmented Generation)",
+        "AX (AI Transformation) 의사결정"
+      ],
+      "tags": [
+        "LLM",
+        "인공지능",
+        "신경망",
+        "프롬프트",
+        "파인튜닝"
+      ]
+    },
     {
       "video_id": "JK1S6FvAdZQ",
       "title": "1시간 압축) AI 기술 1도 모르는 초심자가 전문 AI SaaS 구축하는 모든 과정",
