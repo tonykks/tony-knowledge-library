@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "video_id": "wSIy25_JWYI",
+    "title": "에이전트끼리 일하게 만드는 자비스 관제 시스템 구축 과정 전체 시연",
+    "original_url": "https://youtu.be/wSIy25_JWYI",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 2686.0,
+    "duration_str": "44:46",
+    "created_at": "2026-10-14T01:01:57.990804+00:00",
+    "published_date": "20260902",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "AI 에이전트",
+      "멀티 에이전트 시스템",
+      "LangGraph",
+      "LangSmith",
+      "LLMOps",
+      "AI 개발 프로세스",
+      "UI/UX 목업",
+      "Google OAuth 연동",
+      "Gmail 연동",
+      "Hermes 게이트웨이",
+      "비개발자 AI 구축"
+    ],
+    "tags": [
+      "AI 에이전트",
+      "LangGraph",
+      "LangSmith",
+      "LLMOps",
+      "멀티 에이전트"
+    ]
+  },
+  "detail": {
+    "video_id": "wSIy25_JWYI",
+    "title": "에이전트끼리 일하게 만드는 자비스 관제 시스템 구축 과정 전체 시연",
+    "items": [
+      {
+        "timestamp_sec": 0.04,
+        "timestamp_str": "00:00",
+        "topic": "AI 에이전트 개발 소개",
+        "content": "AI 에이전트의 완성도는 프롬프트 양이 아닌 명확한 설계와 중간 검수 과정에 달려있음을 강조하며, 적은 프롬프트(10개 미만)로 이메일 분류, 회신 초안 작성, 캘린더 연동 에이전트 구축 시연을 예고합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=0"
+      },
+      {
+        "timestamp_sec": 88.6,
+        "timestamp_str": "01:28",
+        "topic": "LLMOps의 필요성",
+        "content": "LM(Large Model)이 답을 내는 과정은 블랙박스가 될 수 있으므로, LLMOps를 통해 실행 이력을 역추적하고 문제 진단 및 관리가 필요하다고 설명합니다. 이는 엔터프라이즈급 에이전트의 필수 요소입니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=88"
+      },
+      {
+        "timestamp_sec": 157.72,
+        "timestamp_str": "02:37",
+        "topic": "LangGraph와 LangSmith 개념 설명",
+        "content": "LangGraph는 멀티 에이전트가 서로 협력하고 감독하는 '자비스'와 같은 시스템 구축을 돕는 기반 기술이며, LangSmith는 에이전트 작동 과정에서 발생하는 일들을 역추적하고 감사할 수 있는 LLMOps 도구로, 시각화된 대시보드를 통해 이력 추적이 가능하다고 설명합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=157"
+      },
+      {
+        "timestamp_sec": 338.84,
+        "timestamp_str": "05:38",
+        "topic": "AI 에이전트 구축 전체 프로세스",
+        "content": "설계(Design) → PRD(Product Requirements Document) → 승인(Approval) → 목업(Mockup) → 구축(Build) → 실행(Execute) → 검증(Verify)의 7단계 프로세스를 제시하며, 비개발자도 업무용 AI 에이전트를 만들 수 있는 방법을 보여줍니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=338"
+      },
+      {
+        "timestamp_sec": 428.96,
+        "timestamp_str": "07:08",
+        "topic": "초기 프롬프트 및 프로젝트 설정",
+        "content": "LangGraph와 LangSmith 기반의 하네스 환경 및 LLMOps 환경을 갖춘 에이전트 구축을 목표로 합니다. 구축 목표는 회신이 필요한 이메일 분류 및 초안 생성이며, Hermes 게이트웨이 연동, 로컬 환경 실행 등의 기본 요구사항을 포함합니다. 'Find Skills'를 활용하여 필요한 스킬을 찾아 추가할 계획을 밝힙니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=428"
+      },
+      {
+        "timestamp_sec": 501.96,
+        "timestamp_str": "08:21",
+        "topic": "설계 및 PRD에 대한 사용자 피드백",
+        "content": "초기 설계안이 단일 에이전트 구조에 가까워 미래 확장성을 고려한 감독형 멀티 에이전트 환경으로 재설계를 요청합니다. 또한, LLMOps(LangSmith)에 대한 구체성 부족을 지적하며, 모든 이벤트의 상세 이력 추적, 평가(Evaluation), 관찰(Observe), 진단(Diagnose)을 통한 운영 환경 배포/디버깅/개선 결정이 가능한 개별 시스템으로서의 역할을 강조합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=501"
+      },
+      {
+        "timestamp_sec": 832.199,
+        "timestamp_str": "13:52",
+        "topic": "재설계된 아키텍처 (감독형 멀티 에이전트)",
+        "content": "싱글 에이전트 구조를 폐기하고 미래 확장을 위한 감독형 운영 환경으로 전면 개정된 아키텍처를 제시합니다. 이는 휴먼 컨트롤러(사용자) → 플랫폼 도메인 → 이메일 도메인 슈퍼바이저의 3계층 구조를 가집니다. 이메일 도메인 슈퍼바이저는 Intake(조회/긴급도), Triage(분류), Security(보안), Draft(초안 작성), Critic(검수)의 5개 개별 에이전트로 분리됩니다. LLMOps 컨트롤 플레인은 LangSmith 트레이스를 통해 평가, 관찰, 진단, 결정, 실행 절차를 제어하며, 승인된 에이전트 스펙만 레지스트리에 등록하는 거버넌스 모델을 포함합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=832"
+      },
+      {
+        "timestamp_sec": 1065.799,
+        "timestamp_str": "17:45",
+        "topic": "목업 단계 및 UI/UX 피드백",
+        "content": "설계 승인 후 화면 목업을 진행하며, 실제 개발에 사용될 기술 스택(Next.js 16, Tailwind CSS 등)을 먼저 확정하고 프론트엔드 작업을 진행하여 변경을 최소화합니다. 초기 목업에서 'UI 슬롭'(단순 꾸미기식) 문제와 기능별 페이지 분리로 인한 사용자 흐름 파악의 어려움을 지적합니다. 특히 토폴로지 화면이 실시간 에이전트의 메모리 및 태스크 흐름을 보여주는 그래프가 아닌 추상적인 도식으로 표현된 점을 비판하며, 'Anti UI Slop' 스킬을 사용하여 UI/UX 개선과 노드-엣지 기반의 그래프 화면으로 재기획하여 실시간 에이전트 흐름을 시각적으로 파악할 수 있도록 요구합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=1065"
+      },
+      {
+        "timestamp_sec": 1575.84,
+        "timestamp_str": "26:15",
+        "topic": "개선된 목업 결과 및 승인",
+        "content": "개선된 목업은 노드-엣지 그래프 뷰를 통해 병렬 분기 등을 잘 표현하여 실시간 에이전트 흐름을 시각적으로 보여주며, LLMOps 관련 화면도 캔버스 뷰로 전체 흐름을 한눈에 볼 수 있게 구현되어 만족스러운 결과를 얻습니다. 릴리스 시 필요한 평가 기준(이밸류에이션), 트레이싱, 검색 기능 등도 잘 구현되어 합격점을 부여합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=1575"
+      },
+      {
+        "timestamp_sec": 1653.76,
+        "timestamp_str": "27:33",
+        "topic": "툴셋업 및 외부 서비스 연동",
+        "content": "Google 계정 연동, LangSmith API 키, LangSmith Workspace ID를 설정합니다. Google OAuth 클라이언트 ID/시크릿 발급 절차를 안내하고 적용하며, Hermes 게이트웨이 연동을 통해 도커 컨테이너에서 Hermes 스캠 게이트웨이가 실행됩니다. 이는 Gmail 내용을 오픈 API로 쏘는 과정에서의 보안 정책 세팅과 관련되며, 텔레그램을 통한 Hermes 연동 설정도 시연합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=1653"
+      },
+      {
+        "timestamp_sec": 1978.519,
+        "timestamp_str": "32:58",
+        "topic": "멀티 에이전트 이메일 처리 시연",
+        "content": "메일 접수 → 인지 → 분류(Case Workbench) → 회신 필요 시 초안 작성의 기본 구조를 시연합니다. LLMOps 시각화 기능을 통해 에이전트 구성 및 그래프 흐름을 녹화하여 볼 수 있는 환경을 제공합니다. 첫 번째 테스트 시나리오인 '긴급 확인 요청' 메일 발송 시, LangGraph를 통해 Platform Supervisor → Email Supervisor → Intake Agent → Triage Agent → Security Agent → Draft Agent → Critic Agent 순으로 실행되지만, Platform Supervisor에서 실패가 발생합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=1978"
+      },
+      {
+        "timestamp_sec": 2199.359,
+        "timestamp_str": "36:39",
+        "topic": "LLMOps를 통한 오류 진단 및 디버깅",
+        "content": "LangSmith를 통해 실패 원인을 분석한 결과, Critic Agent 검수 과정에서 작업 제한 시간(30초) 초과로 인한 오케스트레이션 타임아웃이 발생했음을 확인합니다. 이는 모델 오류가 아닌 시스템 설정 문제로, 제한 시간을 60초로 조정하여 디버깅합니다. 이 과정을 통해 LLMOps의 중요성(버전 관리, 에이전트 흐름 디버깅, 문제 발생 시 원인 분석 및 개선)을 강조합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=2199"
+      },
+      {
+        "timestamp_sec": 2431.04,
+        "timestamp_str": "40:31",
+        "topic": "향후 계획",
+        "content": "7, 8강에서는 '딥 트윈' 개념을 통해 암묵지 자산화 및 에이전트의 정체성 부여 방법을 다룰 예정이며, 관련 내용을 패키지로 만들어 배포할 계획을 밝힙니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=2431"
+      },
+      {
+        "timestamp_sec": 2491.599,
+        "timestamp_str": "41:31",
+        "topic": "최종 이메일 처리 시연 및 결과",
+        "content": "디버깅 후 '계약서 수정본 긴급 확인 요청' 메일을 발송하는 두 번째 시나리오를 시연합니다. 에이전트는 성공적으로 초안을 작성하고 Approval Gate까지 도달합니다. 작성된 초안은 '안녕하세요 양순식 실장님. 전달 주신 계약서 수정본에 반영 여부를 확인한 뒤 가능한 빠르게 핵신 드리겠습니다. 감사합니다.'로, 상황에 맞는 적절한 회신이 생성됨을 확인합니다.",
+        "youtube_link": "https://youtu.be/wSIy25_JWYI?t=2491"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "wSIy25_JWYI",
+    "title": "에이전트끼리 일하게 만드는 자비스 관제 시스템 구축 과정 전체 시연",
+    "summary_text": "이 영상은 비개발자도 '자비스'와 같은 AI 에이전트 관제 시스템을 구축하는 전 과정을 시연하며, 명확한 설계와 체계적인 검수 과정의 중요성을 강조합니다. AI 에이전트의 완성도는 단순히 많은 프롬프트 입력이 아닌, '설계 → PRD → 승인 → 목업 → 구축 → 실행 → 검증'의 구조화된 프로세스에 달려있음을 보여줍니다.\n\n핵심 기술로는 멀티 에이전트의 협업과 감독을 가능하게 하는 'LangGraph'와 에이전트의 실행 이력을 추적하고 진단하는 'LangSmith' (LLMOps)가 사용됩니다. LangSmith는 에이전트의 작동 과정을 블랙박스처럼 두지 않고, 모든 이벤트의 상세 이력 추적, 평가, 관찰, 진단을 통해 운영 환경 배포, 디버깅, 개선 결정을 돕는 필수적인 도구로 소개됩니다.\n\n구축 목표는 회신이 필요한 이메일을 분류하고 초안을 생성하는 AI 이메일 에이전트입니다. 초기 설계 단계에서는 단일 에이전트 구조의 한계를 지적하고, 미래 확장성을 고려한 감독형 멀티 에이전트 아키텍처로 재설계됩니다. 이 아키텍처는 휴먼 컨트롤러, 플랫폼 도메인, 그리고 Intake, Triage, Security, Draft, Critic과 같은 5개의 전문 에이전트로 구성된 이메일 도메인 슈퍼바이저의 3계층 구조를 가집니다. 또한, 승인된 에이전트 스펙만 등록하는 거버넌스 모델을 도입하여 시스템의 안정성과 확장성을 확보합니다.\n\nUI/UX 목업 단계에서는 초기 'UI 슬롭' 문제를 개선하기 위해 'Anti UI Slop' 스킬을 활용하고, 노드-엣지 기반의 그래프 뷰를 통해 실시간 에이전트의 메모리 및 태스크 흐름을 시각적으로 파악할 수 있도록 구현합니다. LLMOps 대시보드 또한 트레이싱, 평가, 릴리스 관리 기능을 포함하여 에이전트의 생명주기를 효과적으로 관리할 수 있도록 개선됩니다.\n\n외부 서비스 연동 과정에서는 Google OAuth를 통한 Gmail 접근 설정, LangSmith API 키 및 Workspace ID 설정, 그리고 Hermes 게이트웨이를 통한 보안 정책 세팅 및 텔레그램 연동을 시연합니다. 실제 이메일 처리 시연에서는 '긴급 확인 요청' 메일을 통해 멀티 에이전트의 작동 과정을 보여주며, 발생한 오류(오케스트레이션 타임아웃)를 LangSmith의 LLMOps 기능을 활용하여 진단하고 해결하는 과정을 상세히 보여줍니다. 디버깅 후 '계약서 수정본 긴급 확인 요청' 메일에 대해 에이전트가 성공적으로 적절한 회신 초안을 작성하는 것을 최종적으로 확인합니다.\n\n결론적으로 이 영상은 비개발자도 체계적인 설계와 LLMOps를 통해 복잡한 멀티 AI 에이전트 시스템을 구축하고 관리할 수 있음을 실증적으로 보여주며, 향후 강의에서는 '딥 트윈' 개념을 통해 에이전트의 암묵지 자산화 및 정체성 부여 방안을 다룰 예정임을 밝힙니다."
+  }
+}

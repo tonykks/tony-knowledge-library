@@ -1,7 +1,45 @@
 {
-  "revision": "d4da7a50d5cf43b99955883f0aef4b8c",
-  "total_items": 144,
+  "revision": "ceb338d8efc54624b0279c76d06b3aac",
+  "total_items": 145,
   "items": [
+    {
+      "video_id": "wSIy25_JWYI",
+      "title": "에이전트끼리 일하게 만드는 자비스 관제 시스템 구축 과정 전체 시연",
+      "original_url": "https://youtu.be/wSIy25_JWYI",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장"
+      ],
+      "duration_sec": 2686.0,
+      "duration_str": "44:46",
+      "created_at": "2026-10-14T01:01:57.990804+00:00",
+      "published_date": "20260902",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 에이전트",
+        "멀티 에이전트 시스템",
+        "LangGraph",
+        "LangSmith",
+        "LLMOps",
+        "AI 개발 프로세스",
+        "UI/UX 목업",
+        "Google OAuth 연동",
+        "Gmail 연동",
+        "Hermes 게이트웨이",
+        "비개발자 AI 구축"
+      ],
+      "tags": [
+        "AI 에이전트",
+        "LangGraph",
+        "LangSmith",
+        "LLMOps",
+        "멀티 에이전트"
+      ]
+    },
     {
       "video_id": "I_c8R_PckJ8",
       "title": "암묵지 자산화를 위한 딥트윈 에이전트의 전체 원리와 설계 프로세스",
