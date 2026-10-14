@@ -1,7 +1,42 @@
 {
-  "revision": "b924013711274fecab02a1e4f474c7e3",
-  "total_items": 148,
+  "revision": "104cbffa850842e7a91f4ee1675bdd37",
+  "total_items": 149,
   "items": [
+    {
+      "video_id": "sozxBiyc3qQ",
+      "title": "직장인 2시간 필수 투자) 평생 써먹는 바이브코딩 자동화 대시보드 설계부터 구축까지",
+      "original_url": "https://youtu.be/sozxBiyc3qQ",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장"
+      ],
+      "duration_sec": 9299.0,
+      "duration_str": "02:34:59",
+      "created_at": "2026-10-14T08:52:20.073341+00:00",
+      "published_date": "20260820",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "자동화 대시보드",
+        "CRM 시스템",
+        "영업 자동화",
+        "UX/UI 설계",
+        "시스템 아키텍처",
+        "CI/CD",
+        "AI 개발 활용",
+        "프로젝트 관리"
+      ],
+      "tags": [
+        "자동화 대시보드",
+        "바이브코딩",
+        "AX",
+        "AI",
+        "CRM"
+      ]
+    },
     {
       "video_id": "OpDUuAoW5t4",
       "title": "당신의 기억과 정체성이 돈이되고 거래되는 시대가 이미 시작되었습니다 | AI 전환 기술의 모든 것, 정석강의",
