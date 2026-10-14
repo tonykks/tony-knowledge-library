@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "video_id": "JK1S6FvAdZQ",
+    "title": "1시간 압축) AI 기술 1도 모르는 초심자가 전문 AI SaaS 구축하는 모든 과정",
+    "original_url": "https://youtu.be/JK1S6FvAdZQ",
+    "channel": "양실장의 바이브코딩대학",
+    "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+    "speakers": [
+      "양실장"
+    ],
+    "duration_sec": 3039.0,
+    "duration_str": "50:39",
+    "created_at": "2026-10-14T01:09:11.967580+00:00",
+    "published_date": "20260824",
+    "kdc_main_code": "500",
+    "kdc_main_name": "기술과학",
+    "kdc_sub_code": "570",
+    "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+    "sub_topics": [
+      "AI SaaS 개발",
+      "AI 학습 방법론",
+      "AI 에이전트",
+      "Hugging Face",
+      "AI 모델 탐색",
+      "GPU 추론",
+      "바운딩 박스",
+      "평활화",
+      "비즈니스 모델"
+    ],
+    "tags": [
+      "AI",
+      "SaaS",
+      "개발",
+      "학습법",
+      "허깅페이스"
+    ]
+  },
+  "detail": {
+    "video_id": "JK1S6FvAdZQ",
+    "title": "1시간 압축) AI 기술 1도 모르는 초심자가 전문 AI SaaS 구축하는 모든 과정",
+    "items": [
+      {
+        "timestamp_sec": 0.04,
+        "timestamp_str": "00:00",
+        "topic": "AI 시대의 학습 방식 변화",
+        "content": "AI 시대에는 배움의 단계가 개인에게 최적화되기 용이하며, 필요한 것을 빠르게 학습하여 결과물로 연결하는 능력이 중요합니다. OpenAI 연구원 가브리엘 페테르손의 사례를 통해 '먼저 만들고 막히면서 공부하는' 학습법을 소개합니다. 이는 교과서부터 배우는 대신 프로젝트를 먼저 시작하고, 모르는 개념이 나오면 AI에게 질문하여 필요한 기초 지식까지 역순으로 학습하는 방식입니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=0"
+      },
+      {
+        "timestamp_sec": 1.959,
+        "timestamp_str": "00:01",
+        "topic": "전통적 학습 vs. 역순 학습",
+        "content": "전통적인 AI 학습은 수학, 프로그래밍, 통계, 머신러닝, 논문, 프로젝트 순서로 진행되지만, AI 시대에는 프로젝트를 먼저 시작하고 코드를 배우며, 이해가 안 되는 부분은 알고리즘, 기초 수학 순으로 역순으로 학습하는 것이 가능합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=1"
+      },
+      {
+        "timestamp_sec": 1.959,
+        "timestamp_str": "00:01",
+        "topic": "강의 목표",
+        "content": "이번 강의의 목표는 AI 모델과 도구를 찾고 학습하며 활용하는 과정에 대한 두려움을 없애는 것입니다. 단순히 LLM 모델을 사용하는 것을 넘어, 자신에게 필요한 모델을 찾고 학습하는 과정을 직접 경험하게 됩니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=1"
+      },
+      {
+        "timestamp_sec": 4.24,
+        "timestamp_str": "00:04",
+        "topic": "주요 도구 소개: skills.sh (Find Skills)",
+        "content": "skills.sh는 LM 스킬의 빌보드 차트와 같은 웹사이트로, 현재 트렌디한 스킬들을 보여줍니다. 특히 'Find Skills'는 130만 개 이상의 스킬 중에서 특정 작업에 적합한 스킬을 찾아주는 도구로, 리서치 단계를 혁신적으로 줄여줍니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=4"
+      },
+      {
+        "timestamp_sec": 4.24,
+        "timestamp_str": "00:04",
+        "topic": "주요 도구 소개: Hugging Face",
+        "content": "Hugging Face는 AI 모델의 인스타그램과 같은 플랫폼으로, 다양한 도메인(멀티모달, 컴퓨터 비전, NLP, 오디오 등)의 AI 모델을 탐색하고 테스트할 수 있습니다. 모델의 특징과 사용법에 대한 정보가 풍부하여 필요한 모델을 찾는 데 유용합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=4"
+      },
+      {
+        "timestamp_sec": 6.319,
+        "timestamp_str": "00:06",
+        "topic": "학습 목표 및 시연 계획",
+        "content": "이번 강의의 학습 목표는 '만들다가 모르면 공부하기'가 가능하다는 것을 아는 것입니다. 1차 시연에서는 Find Skills를 활용하여 AI 에이전트 MVP를 구축하고 원격 사용법을 다룹니다. 2차 시연에서는 Hugging Face에서 모델을 탐색하고, 모르는 개념을 페테르손 학습법으로 학습하여 구축에 적용하는 과정을 보여줍니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=6"
+      },
+      {
+        "timestamp_sec": 6.319,
+        "timestamp_str": "00:06",
+        "topic": "AI 활용 사례: 영상 자동 생성",
+        "content": "강의자는 AI를 활용하여 영상 자동 생성(목소리 포함)을 시연하며, AI가 실제 결과물을 만드는 데 어떻게 기여하는지 보여줍니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=6"
+      },
+      {
+        "timestamp_sec": 8.48,
+        "timestamp_str": "00:08",
+        "topic": "실습 과제: AI SaaS 구축",
+        "content": "수강생들에게 Hugging Face 모델을 기반으로 AI SaaS를 구축하는 실습 과제를 제시합니다. AI 영상 아바타, 음성 오디오, 회의록/AI 노트 등 다양한 도메인의 AI SaaS 예시를 제공합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=8"
+      },
+      {
+        "timestamp_sec": 8.48,
+        "timestamp_str": "00:08",
+        "topic": "시연 1: Find Skills 설치 및 활용",
+        "content": "Codex 환경에서 Find Skills를 설치하는 과정을 보여줍니다. skills.sh 웹사이트에서 커맨드를 복사하여 파워쉘에 붙여넣어 글로벌 설치를 진행합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=8"
+      },
+      {
+        "timestamp_sec": 12.639,
+        "timestamp_str": "00:12",
+        "topic": "AI 에이전트 MVP 기획: 유튜브 쇼츠 생성기",
+        "content": "GPT(Codex)에 '유튜브 영상 링크를 넣으면 자동으로 쇼츠를 생성하고 내 컨펌을 받아 업로드되는 자동화 기능'을 만들고 싶다고 요청하며, 필요한 스킬과 구축 프로세스를 찾아달라고 합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=12"
+      },
+      {
+        "timestamp_sec": 12.639,
+        "timestamp_str": "00:12",
+        "topic": "AI의 초기 제안 정정 및 요구사항 구체화",
+        "content": "AI가 처음에는 '리모션' 계열 스킬을 제안했으나, 강의자는 '원본 영상에서 재미있는 부분을 잘라내고 편집하여 쇼츠를 만드는 자동화'가 필요하며, 빨리 감기, 자막, 한글 최적화 등의 구체적인 요구사항을 추가하여 정정합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=12"
+      },
+      {
+        "timestamp_sec": 15.48,
+        "timestamp_str": "00:15",
+        "topic": "쇼츠 생성기 MVP를 위한 스킬 탐색",
+        "content": "AI는 'Remotion Best Practices' (편집 렌더링, 캡션, 무음 탐지, 배속), 'Transcript Intelligence' (재미 구간 의미 분석), 'Talking Head Podcast Recut' (원본 기반 재편집 워크플로우) 등의 스킬을 추천합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=15"
+      },
+      {
+        "timestamp_sec": 15.48,
+        "timestamp_str": "00:15",
+        "topic": "MVP 구축 및 실행",
+        "content": "AI가 쇼츠 자동화 MVP 구축을 완료하고, 유튜브 링크 또는 로컬 원본을 등록하면 세로 방향 쇼츠를 만들어준다고 설명합니다. PNPM dev 명령어로 로컬 서버를 실행하여 웹 인터페이스를 확인합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=15"
+      },
+      {
+        "timestamp_sec": 17.6,
+        "timestamp_str": "00:17",
+        "topic": "MVP 테스트 및 개선점 발견",
+        "content": "유튜브 링크 입력 시 YT-DLP 설치 필요, 로컬 파일 업로드 시 파일 탐색기 부재 등 UI/UX 불편함을 발견하고 AI에게 개선을 요청합니다. '재미 구간 찾기' 버튼 클릭 시 에러 발생 및 GPU 미사용 문제도 디버깅합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=17"
+      },
+      {
+        "timestamp_sec": 19.88,
+        "timestamp_str": "00:19",
+        "topic": "AI 에이전트 원격 사용 설정",
+        "content": "Codex(또는 Claude)에서 프로필 설정의 '연결' 메뉴를 통해 PC를 제어할 수 있는 기기(예: 핸드폰)를 추가하여 원격으로 AI 에이전트를 사용할 수 있음을 설명합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=19"
+      },
+      {
+        "timestamp_sec": 21.199,
+        "timestamp_str": "00:21",
+        "topic": "MVP 결과물 확인 및 다음 단계",
+        "content": "디버깅 후 생성된 쇼츠 영상(강의자가 확대되어 움직임을 따라가는 영상)을 확인합니다. 렌더링 버튼에서 오류가 발생하지만, 기본적인 추적 기능은 작동함을 확인합니다. 이제 이 MVP를 AI SaaS로 확장하기 위한 차별화된 기능과 모델 탐색으로 넘어갑니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=21"
+      },
+      {
+        "timestamp_sec": 24.84,
+        "timestamp_str": "00:24",
+        "topic": "시연 2: Hugging Face 모델 탐색 및 기능 개선 아이디어",
+        "content": "기존 쇼츠 생성기의 문제점(작은 프레임 내 작은 인물)을 개선하기 위해 '주제가 되는 사물을 인식하여 크게 키우고, 움직임을 따라가며 화면 중앙에 위치시키는' 특수 기능을 기획합니다. 이를 위해 Hugging Face에서 어떤 모델을 활용할지 AI와 대화합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=24"
+      },
+      {
+        "timestamp_sec": 27.279,
+        "timestamp_str": "00:27",
+        "topic": "AI의 모델 조합 추천",
+        "content": "AI는 이 기능을 위해 '얼굴/사람 검출', '동일 인물 추적', '주인공 선택', '부드러운 가상 카메라 경로 생성', '9:16 크롭'의 조합이 안정적이라고 제안합니다. 구체적으로 MediaPipe (얼굴 중심/크기)와 RTDT (사람 박스 보완) 모델을 추천합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=27"
+      },
+      {
+        "timestamp_sec": 31.8,
+        "timestamp_str": "00:31",
+        "topic": "페테르손 학습법 적용: 바운딩 박스 개념 학습",
+        "content": "AI가 제안한 모델을 학습하기 위해 페테르손 학습법을 적용합니다. '바운딩 박스' 개념을 최소 개념으로 설정하고, AI가 이를 '사람을 둘러싼 직사각형 영역'으로 설명하며 입력(영상 프레임)과 출력(확률, 좌표)을 알려줍니다. 이 박스의 중심을 쇼츠 크롭 중심으로 사용할 수 있음을 이해합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=31"
+      },
+      {
+        "timestamp_sec": 36.12,
+        "timestamp_str": "00:36",
+        "topic": "페테르손 학습법 적용: 평활화(Smoothing) 개념 학습",
+        "content": "바운딩 박스 좌표를 그대로 사용하면 화면이 흔들릴 수 있다는 문제점을 인지하고, AI는 '평활화(Smoothing)' 수식을 제시합니다. 강의자는 수식에 값을 대입하여 계산 문제를 풀고, AI는 평활화된 박스(파란색)와 원본 박스(초록색)를 비교하는 영상을 생성하여 시각적으로 이해를 돕습니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=36"
+      },
+      {
+        "timestamp_sec": 38.079,
+        "timestamp_str": "00:38",
+        "topic": "평활화의 장단점 및 추적 지연 문제",
+        "content": "평활화된 박스가 안정적인 이유를 설명하고, 그 대가로 '데드존' 문제(사람이 멈춰 있을 때 카메라도 완전히 멈추는 현상)와 '추적 지연' 문제(사람이 빨리 움직일 때 프레임에서 벗어나는 현상)가 발생할 수 있음을 학습합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=38"
+      },
+      {
+        "timestamp_sec": 40.2,
+        "timestamp_str": "00:40",
+        "topic": "개선된 쇼츠 생성기 기능 구현",
+        "content": "학습한 내용을 바탕으로 평활화 기능이 적용된 쇼츠 생성기를 구현합니다. 강의자가 움직임을 따라가며 확대되는 쇼츠 영상이 생성되는 것을 확인합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=40"
+      },
+      {
+        "timestamp_sec": 42.68,
+        "timestamp_str": "00:42",
+        "topic": "AI SaaS 확장: 비즈니스 모델 및 인프라 설계",
+        "content": "개인용 AI 기능을 AI SaaS로 확장하기 위해 '서비스 설계 및 과금 정책'과 '자체 모델 추론을 위한 배포 인프라 설계'가 필요함을 인지하고, Find Skills를 다시 활용하여 AI에게 도움을 요청합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=42"
+      },
+      {
+        "timestamp_sec": 44.8,
+        "timestamp_str": "00:44",
+        "topic": "AI의 SaaS 설계 제안",
+        "content": "AI는 수익화 전략, 가격 전략 스킬 등을 추천하고, 인프라 설계로는 Google GKE Inference (Google Kubernetes Engine)를 제안합니다. AI 서비스는 GPU 사용량 등 원가와 직결되므로 인프라와 과금 체계를 함께 고려해야 함을 강조합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=44"
+      },
+      {
+        "timestamp_sec": 46.68,
+        "timestamp_str": "00:46",
+        "topic": "AI SaaS 상세 설계",
+        "content": "AI는 서비스 포지셔닝, 핵심 사용자 흐름(가입, 영상 등록, 분석, 검토, 업로드), 비용 구조, 권장 배포 인프라(GKE, Cloudflare R2), 작업 분리(GPU 활용), 데이터 보안 정책, 로드맵 등 AI SaaS의 사업적 측면까지 고려한 상세 설계를 제공합니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=46"
+      },
+      {
+        "timestamp_sec": 48.92,
+        "timestamp_str": "00:48",
+        "topic": "결론 및 다음 강의 예고",
+        "content": "이번 강의를 통해 AI 모델과 도구를 찾고, 학습하며, AI SaaS를 기획하고 구축하는 가능성을 보여주었습니다. 다음 4강에서는 LLM(Large Language Model)을 포함한 AI 리터러시(문해력)에 대한 지식을 전달할 예정입니다.",
+        "youtube_link": "https://youtu.be/JK1S6FvAdZQ?t=48"
+      }
+    ]
+  },
+  "summary": {
+    "schema_version": 2,
+    "video_id": "JK1S6FvAdZQ",
+    "title": "1시간 압축) AI 기술 1도 모르는 초심자가 전문 AI SaaS 구축하는 모든 과정",
+    "summary_text": "이 영상은 AI 기술 초심자가 전문 AI SaaS를 구축하는 전 과정을 다루며, 특히 '먼저 만들고 막히는 지점에서 필요한 지식을 거꾸로 학습하는' 가브리엘 페테르손의 학습법을 강조합니다. AI 시대에는 모든 것을 미리 알기보다, 필요한 순간에 도구와 모델을 찾아 빠르게 학습하고 결과물로 연결하는 능력이 중요하다고 설명합니다.\n\n## AI 학습의 새로운 패러다임과 핵심 도구\n강의는 전통적인 학습 방식(수학 → 프로그래밍 → 프로젝트)과 대조적으로, 프로젝트를 먼저 시작하고 모르는 개념이 생기면 AI의 도움을 받아 기초 지식까지 역순으로 파고드는 학습법을 제시합니다. 이러한 학습을 돕기 위해 두 가지 핵심 도구를 소개합니다.\n\n1.  **skills.sh (Find Skills)**: AI 에이전트 스킬의 빌보드 차트와 같은 플랫폼으로, 특정 작업에 최적화된 스킬을 찾아 리서치 시간을 단축시켜 줍니다.\n2.  **Hugging Face**: AI 모델의 '인스타그램'과 같은 곳으로, 다양한 도메인(멀티모달, 컴퓨터 비전, NLP 등)의 AI 모델을 탐색하고 테스트하며, 상세한 정보를 얻을 수 있습니다.\n\n## 유튜브 쇼츠 생성기 MVP 구축 및 개선\n강의는 실제 사례로 '유튜브 쇼츠 생성기' MVP(Minimum Viable Product)를 구축하는 과정을 시연합니다. 먼저 Find Skills를 활용하여 쇼츠 생성에 필요한 스킬(예: Remotion, Transcript Intelligence)을 탐색하고, AI의 초기 제안을 구체적인 요구사항(재미있는 부분 잘라내기, 자막, 한글 최적화)으로 정정하며 MVP를 완성합니다. 이 과정에서 YT-DLP 설치, 로컬 파일 업로드 UI 개선, GPU 활용 등 실제 개발에서 발생할 수 있는 문제점들을 디버깅합니다.\n\nMVP 테스트 중, 쇼츠 영상에서 인물이 작게 보이는 문제점을 개선하기 위해 Hugging Face를 활용합니다. '주인공을 인식하여 확대하고 움직임을 따라 화면 중앙에 위치시키는' 기능을 목표로 AI와 대화하며 모델 조합(MediaPipe, RTDT)을 추천받습니다. 이어서 페테르손 학습법을 적용하여 '바운딩 박스'와 '평활화(Smoothing)' 개념을 심층적으로 학습합니다. AI는 바운딩 박스의 정의, 좌표 정보, 중심점 계산법을 설명하고, 평활화 수식을 제시하여 화면 흔들림을 줄이는 방법을 가르칩니다. 학습 과정에서 평활화의 장점과 함께 '데드존', '추적 지연'과 같은 한계점도 파악합니다. 이러한 학습을 통해 인물 추적 및 확대 기능이 적용된 개선된 쇼츠 생성기를 구현합니다.\n\n## AI SaaS로의 확장 및 비즈니스 모델 설계\n개인용 AI 기능을 상용 AI SaaS로 확장하는 단계에서는 단순한 기술 구현을 넘어 비즈니스 모델과 인프라 설계의 중요성을 강조합니다. AI에게 '서비스 설계 및 과금 정책'과 '자체 모델 추론을 위한 배포 인프라 설계'에 대한 도움을 요청합니다. AI는 수익화 전략, 가격 전략 스킬을 추천하고, GPU 추론이 필요한 서비스의 특성을 고려하여 Google GKE Inference와 같은 클라우드 인프라를 제안합니다. AI는 서비스 포지셔닝, 사용자 흐름, 비용 구조, 권장 배포 인프라, 작업 분리, 데이터 보안, 로드맵 등 사업 전반을 아우르는 상세한 설계를 제공하며, AI 서비스의 원가(GPU 사용량)가 과금 정책과 밀접하게 연결되어 있음을 보여줍니다.\n\n결론적으로, 이 영상은 AI 기술을 전혀 모르는 초심자도 '먼저 만들고 배우는' 학습법과 AI 도구들을 활용하여 복잡한 AI SaaS를 기획하고 구축하며, 나아가 비즈니스 모델까지 설계할 수 있다는 가능성을 제시합니다."
+  }
+}

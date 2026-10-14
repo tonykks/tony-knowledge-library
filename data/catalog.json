@@ -1,7 +1,43 @@
 {
-  "revision": "ceb338d8efc54624b0279c76d06b3aac",
-  "total_items": 145,
+  "revision": "63d3394cb478498691279441c7bcacad",
+  "total_items": 146,
   "items": [
+    {
+      "video_id": "JK1S6FvAdZQ",
+      "title": "1시간 압축) AI 기술 1도 모르는 초심자가 전문 AI SaaS 구축하는 모든 과정",
+      "original_url": "https://youtu.be/JK1S6FvAdZQ",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장"
+      ],
+      "duration_sec": 3039.0,
+      "duration_str": "50:39",
+      "created_at": "2026-10-14T01:09:11.967580+00:00",
+      "published_date": "20260824",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI SaaS 개발",
+        "AI 학습 방법론",
+        "AI 에이전트",
+        "Hugging Face",
+        "AI 모델 탐색",
+        "GPU 추론",
+        "바운딩 박스",
+        "평활화",
+        "비즈니스 모델"
+      ],
+      "tags": [
+        "AI",
+        "SaaS",
+        "개발",
+        "학습법",
+        "허깅페이스"
+      ]
+    },
     {
       "video_id": "wSIy25_JWYI",
       "title": "에이전트끼리 일하게 만드는 자비스 관제 시스템 구축 과정 전체 시연",
