@@ -1,7 +1,161 @@
 {
-  "revision": "d29a03cebb5c4ef6908aff69023976f1",
-  "total_items": 150,
+  "revision": "40656f77cd8d4fb3809692737e354a8d",
+  "total_items": 154,
   "items": [
+    {
+      "video_id": "bKB4XvaH8PY",
+      "title": "한국 반도체 앞으로 ‘1000배’는 더 중요해질 겁니다ㅣ지식인초대석 EP.121 (김정호 박사 1부)",
+      "original_url": "https://youtu.be/bKB4XvaH8PY",
+      "channel": "지식인사이드",
+      "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+      "speakers": [
+        "김정호"
+      ],
+      "duration_sec": 2027.0,
+      "duration_str": "33:47",
+      "created_at": "2026-10-16T09:19:57.464223+00:00",
+      "published_date": "20260411",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "HBM (고대역폭 메모리)",
+        "HBF (고대역폭 플래시)",
+        "AI 반도체",
+        "반도체 산업 경쟁",
+        "메모리 중심 컴퓨팅",
+        "3D 스태킹 기술",
+        "TSV (실리콘 관통 전극)",
+        "반도체 수율",
+        "무어의 법칙",
+        "레이턴시",
+        "KV 캐시",
+        "터보 퀀트",
+        "딥시크",
+        "메모리 컨트롤러",
+        "광통신"
+      ],
+      "tags": [
+        "HBM",
+        "HBF",
+        "AI",
+        "반도체",
+        "김정호"
+      ]
+    },
+    {
+      "video_id": "N3_JYPfwIH0",
+      "title": "\"당장 바뀌어야 합니다.\" AI의 노예로 만드는 한국 교육ㅣ지식인초대석 EP.122 (김정호 박사 2부)",
+      "original_url": "https://youtu.be/N3_JYPfwIH0",
+      "channel": "지식인사이드",
+      "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+      "speakers": [
+        "김정호"
+      ],
+      "duration_sec": 1582.0,
+      "duration_str": "26:22",
+      "created_at": "2026-10-16T09:18:13.320492+00:00",
+      "published_date": "20260412",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "370",
+      "kdc_sub_name": "교육학",
+      "sub_topics": [
+        "AI 에이전트",
+        "수학 교육",
+        "HBM",
+        "반도체",
+        "AI 시대의 교육 변화",
+        "미래 사회 변화",
+        "AI와 인간의 역할",
+        "AGI",
+        "ASI",
+        "AI 윤리",
+        "인재 양성"
+      ],
+      "tags": [
+        "김정호",
+        "지식인사이드",
+        "HBM",
+        "반도체",
+        "메모리"
+      ]
+    },
+    {
+      "video_id": "HYkXmBCHtTE",
+      "title": "AI는 우리 아이들을 어떻게 바꾸고 있는가, AI와 교육의 미래 | 장하석 석좌교수 대담 | 최재천의 아마존",
+      "original_url": "https://youtu.be/HYkXmBCHtTE",
+      "channel": "최재천의 아마존",
+      "channel_id": "UCLcfz3EIgDw01VtRLZmrxDQ",
+      "speakers": [
+        "최재천",
+        "장하석"
+      ],
+      "duration_sec": 2550.0,
+      "duration_str": "42:30",
+      "created_at": "2026-10-16T09:17:34.292484+00:00",
+      "published_date": "20261008",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "370",
+      "kdc_sub_name": "교육학",
+      "sub_topics": [
+        "AI 교육",
+        "교육의 미래",
+        "AI 시대의 학습",
+        "경험의 중요성",
+        "과학 교육",
+        "AI와 창의성",
+        "교육 평가",
+        "대학의 역할"
+      ],
+      "tags": [
+        "AI",
+        "교육",
+        "과학철학",
+        "미래교육",
+        "인공지능"
+      ]
+    },
+    {
+      "video_id": "4SqOTrVoH8g",
+      "title": "실습자료 배포) 세컨브레인 따라할 엄두가 안난 비개발자 보세요 | 딥트윈 Layer0 총 10단계 튜토리얼",
+      "original_url": "https://youtu.be/4SqOTrVoH8g",
+      "channel": "양실장의 바이브코딩대학",
+      "channel_id": "UCKdKdx5-eLZUmAgsdvxkKiA",
+      "speakers": [
+        "양실장",
+        "정치훈 대표님"
+      ],
+      "duration_sec": 4474.0,
+      "duration_str": "01:14:34",
+      "created_at": "2026-10-14T13:33:10.090466+00:00",
+      "published_date": "20260729",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "세컨 브레인 구축",
+        "딥트윈 Layer 0",
+        "개인 지식 관리 시스템",
+        "비개발자 튜토리얼",
+        "AI 활용 생산성",
+        "WSL 환경 설정",
+        "헤르메스 연동",
+        "텔레그램 봇 연동",
+        "슈퍼베이스 데이터베이스",
+        "옵시디언 지식 관리"
+      ],
+      "tags": [
+        "세컨브레인",
+        "딥트윈",
+        "지식관리",
+        "비개발자",
+        "AI"
+      ]
+    },
     {
       "video_id": "K6Rsy-pHBi0",
       "title": "3시간 순삭) 55개 기술 의사결정, 소스코드 해설까지! 현존 바이브코딩 기본 강의 중 가장 실전적인 강의",
