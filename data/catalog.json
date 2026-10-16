@@ -1,7 +1,41 @@
 {
-  "revision": "a257cc37174b4cf8a7fe3077a17bf56e",
-  "total_items": 155,
+  "revision": "26d67f6ba4d3412f816e99dd086ba8b8",
+  "total_items": 156,
   "items": [
+    {
+      "video_id": "ZoNDei6qO98",
+      "title": "사람이 죽기 1초 전에만 느낄 수 있다는 감각ㅣ지식인초대석 EP.178 (김상욱 교수 1부)",
+      "original_url": "https://youtu.be/ZoNDei6qO98",
+      "channel": "지식인사이드",
+      "channel_id": "UCA_hgsFzmynpv1zkvA5A7jA",
+      "speakers": [
+        "김상욱"
+      ],
+      "duration_sec": 1841.0,
+      "duration_str": "30:41",
+      "created_at": "2026-10-16T15:39:46.059952+00:00",
+      "published_date": "20261004",
+      "kdc_main_code": "400",
+      "kdc_main_name": "자연과학",
+      "kdc_sub_code": "420",
+      "kdc_sub_name": "물리학",
+      "sub_topics": [
+        "죽음의 과학",
+        "노화의 과학",
+        "물리학적 사고",
+        "사후세계",
+        "임사체험",
+        "소행성 충돌",
+        "인생관"
+      ],
+      "tags": [
+        "김상욱",
+        "지식인사이드",
+        "물리",
+        "죽음",
+        "노화"
+      ]
+    },
     {
       "video_id": "7Yf_prNH1BU",
       "title": "리처드 도킨스가 말한 유전자로 보는 삶, 최재천 교수님은 어떻게 생각하세요? / 전지적 관찰자 시점, 최재천의 아마존",
