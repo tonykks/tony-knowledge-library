@@ -1,7 +1,43 @@
 {
-  "revision": "40656f77cd8d4fb3809692737e354a8d",
-  "total_items": 154,
+  "revision": "a257cc37174b4cf8a7fe3077a17bf56e",
+  "total_items": 155,
   "items": [
+    {
+      "video_id": "7Yf_prNH1BU",
+      "title": "리처드 도킨스가 말한 유전자로 보는 삶, 최재천 교수님은 어떻게 생각하세요? / 전지적 관찰자 시점, 최재천의 아마존",
+      "original_url": "https://youtu.be/7Yf_prNH1BU",
+      "channel": "최재천의 아마존",
+      "channel_id": "UCLcfz3EIgDw01VtRLZmrxDQ",
+      "speakers": [
+        "최재천"
+      ],
+      "duration_sec": 1039.0,
+      "duration_str": "17:19",
+      "created_at": "2026-10-16T15:37:23.916843+00:00",
+      "published_date": "20230907",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "190",
+      "kdc_sub_name": "윤리학, 도덕철학",
+      "sub_topics": [
+        "삶의 의미",
+        "이기적 유전자",
+        "리처드 도킨스",
+        "사회생물학",
+        "진화론",
+        "생물 철학",
+        "자유의지",
+        "창발 현상",
+        "과학철학"
+      ],
+      "tags": [
+        "과학",
+        "이기적유전자",
+        "리처드도킨스",
+        "최재천",
+        "삶의의미"
+      ]
+    },
     {
       "video_id": "bKB4XvaH8PY",
       "title": "한국 반도체 앞으로 ‘1000배’는 더 중요해질 겁니다ㅣ지식인초대석 EP.121 (김정호 박사 1부)",
