@@ -1,7 +1,43 @@
 {
-  "revision": "00bbbc2a31774c6cbfb1ac8260791cd0",
-  "total_items": 163,
+  "revision": "3b67374f075c4e29b91ded2a53de774c",
+  "total_items": 164,
   "items": [
+    {
+      "video_id": "6xzIQ0uEdnE",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 7강 산소와 플로지스톤",
+      "original_url": "https://youtu.be/6xzIQ0uEdnE",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 3028.0,
+      "duration_str": "50:28",
+      "created_at": "2026-10-17T16:31:47.316534+00:00",
+      "published_date": "20181115",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "130",
+      "kdc_sub_name": "철학체계",
+      "sub_topics": [
+        "과학 혁명",
+        "플로지스톤 이론",
+        "산소 발견",
+        "라부아지에",
+        "프리슬리",
+        "과학의 본질",
+        "패러다임 전환",
+        "과학사 재조명",
+        "연소 이론"
+      ],
+      "tags": [
+        "과학철학",
+        "화학혁명",
+        "플로지스톤",
+        "산소",
+        "라부아지에"
+      ]
+    },
     {
       "video_id": "oO8q3g9kDSg",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 6강 과학의 진보",
