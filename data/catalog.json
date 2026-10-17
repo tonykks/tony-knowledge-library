@@ -1,7 +1,40 @@
 {
-  "revision": "3cd6a17cb31b4a218bc1ef0a46305454",
-  "total_items": 167,
+  "revision": "8a36c6a9de4f4d499b6b7e7b3b694feb",
+  "total_items": 168,
   "items": [
+    {
+      "video_id": "i-dcbaJHWM0",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 11강 과학지식의 창조 : 탐구와 교육",
+      "original_url": "https://youtu.be/i-dcbaJHWM0",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2959.0,
+      "duration_str": "49:19",
+      "created_at": "2026-10-17T16:36:43.620447+00:00",
+      "published_date": "20190111",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "160",
+      "kdc_sub_name": "서양철학",
+      "sub_topics": [
+        "과학 지식의 창조",
+        "과학 교육",
+        "암묵적 지식",
+        "은유와 과학",
+        "과학 방법론",
+        "창의성 교육"
+      ],
+      "tags": [
+        "과학철학",
+        "과학지식",
+        "창의성",
+        "교육철학",
+        "은유"
+      ]
+    },
     {
       "video_id": "7M0E8rLVMSg",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 10강 집에서 하는 전기화학",
