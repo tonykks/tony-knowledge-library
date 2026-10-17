@@ -1,7 +1,43 @@
 {
-  "revision": "2cbcc764a0c14ba88c4a095890d1a4d7",
-  "total_items": 166,
+  "revision": "3cd6a17cb31b4a218bc1ef0a46305454",
+  "total_items": 167,
   "items": [
+    {
+      "video_id": "7M0E8rLVMSg",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 10강 집에서 하는 전기화학",
+      "original_url": "https://youtu.be/7M0E8rLVMSg",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 3009.0,
+      "duration_str": "50:09",
+      "created_at": "2026-10-17T16:34:59.097126+00:00",
+      "published_date": "20181217",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "130",
+      "kdc_sub_name": "철학체계",
+      "sub_topics": [
+        "볼타 전지",
+        "전기분해",
+        "과학적 발견",
+        "과학 지식의 본질",
+        "과학 실험",
+        "금속 반응",
+        "전해질",
+        "과학 방법론",
+        "과학의 대중화"
+      ],
+      "tags": [
+        "전기화학",
+        "과학사",
+        "과학철학",
+        "민중과학",
+        "상보적과학"
+      ]
+    },
     {
       "video_id": "cAbo3gg_OkU",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 9강 물은 항상 100oC에서 끓는가?",
