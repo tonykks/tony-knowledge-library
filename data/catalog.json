@@ -1,7 +1,42 @@
 {
-  "revision": "eab0c59967024c2c80c51d287db27aa7",
-  "total_items": 169,
+  "revision": "97f71b6b3f804c25988022d791c1247f",
+  "total_items": 170,
   "items": [
+    {
+      "video_id": "WfxdpKzp7Fg",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 13강 과학, 철학을 묻다",
+      "original_url": "https://youtu.be/WfxdpKzp7Fg",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2890.0,
+      "duration_str": "48:10",
+      "created_at": "2026-10-17T16:38:31.222981+00:00",
+      "published_date": "20190111",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학적 다원주의의 의미",
+        "절대적 진리 추구와 과학 발전",
+        "과학 교육의 문제점과 개선 방향",
+        "과학 연구의 효율성과 다양성",
+        "과학과 비과학의 구획 문제",
+        "개인의 전문성과 다원주의",
+        "과학의 목적",
+        "과학자의 개인적 경험과 철학"
+      ],
+      "tags": [
+        "과학철학",
+        "과학적 다원주의",
+        "과학 교육",
+        "진리",
+        "패러다임"
+      ]
+    },
     {
       "video_id": "7tajCjeQEYE",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 12강 다원주의적 과학",
