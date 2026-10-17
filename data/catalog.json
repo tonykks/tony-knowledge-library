@@ -1,7 +1,43 @@
 {
-  "revision": "10e6b679c6a54c6b9c4369e3b0b58a69",
-  "total_items": 157,
+  "revision": "708130040a0441c4a7f69677fb531365",
+  "total_items": 158,
   "items": [
+    {
+      "video_id": "fI8w_BYdjtw",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 1강 과학이란 무엇인가?",
+      "original_url": "https://youtu.be/fI8w_BYdjtw",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2729.0,
+      "duration_str": "45:29",
+      "created_at": "2026-10-17T16:24:08.296457+00:00",
+      "published_date": "20181018",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학철학",
+        "칼 포퍼",
+        "토마스 쿤",
+        "반증주의",
+        "패러다임",
+        "정상과학",
+        "과학적 방법론",
+        "과학과 비과학의 구분",
+        "과학혁명"
+      ],
+      "tags": [
+        "과학철학",
+        "칼포퍼",
+        "토마스쿤",
+        "반증주의",
+        "패러다임"
+      ]
+    },
     {
       "video_id": "ohYhCpOzLLE",
       "title": "바이브코딩 왕 기초 개념 20개 총정리 | Vibe coding 하는 법 코딩 기초개념 강의 | 멀티 에이전트 스킬 훅 MCP API 2026년 최신판",
