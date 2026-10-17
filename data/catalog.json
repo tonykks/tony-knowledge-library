@@ -1,7 +1,43 @@
 {
-  "revision": "3b67374f075c4e29b91ded2a53de774c",
-  "total_items": 164,
+  "revision": "079b6fb7df85451284670f421de86638",
+  "total_items": 165,
   "items": [
+    {
+      "video_id": "bFn6m-7E2Ew",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 8강 물은 H2O인가?",
+      "original_url": "https://youtu.be/bFn6m-7E2Ew",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2846.0,
+      "duration_str": "47:26",
+      "created_at": "2026-10-17T16:32:51.247533+00:00",
+      "published_date": "20181217",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학철학",
+        "과학사",
+        "원자론",
+        "분자론",
+        "과학 교육",
+        "실증주의",
+        "유형 이론",
+        "원자가",
+        "화학 결합의 본질"
+      ],
+      "tags": [
+        "과학철학",
+        "과학사",
+        "H2O",
+        "원자론",
+        "과학교육"
+      ]
+    },
     {
       "video_id": "6xzIQ0uEdnE",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 7강 산소와 플로지스톤",
