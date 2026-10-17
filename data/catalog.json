@@ -1,7 +1,41 @@
 {
-  "revision": "079b6fb7df85451284670f421de86638",
-  "total_items": 165,
+  "revision": "2cbcc764a0c14ba88c4a095890d1a4d7",
+  "total_items": 166,
   "items": [
+    {
+      "video_id": "cAbo3gg_OkU",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 9강 물은 항상 100oC에서 끓는가?",
+      "original_url": "https://youtu.be/cAbo3gg_OkU",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2723.0,
+      "duration_str": "45:23",
+      "created_at": "2026-10-17T16:33:55.872334+00:00",
+      "published_date": "20181217",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학철학",
+        "인식론",
+        "과학적탐구",
+        "물의끓는점",
+        "초과열현상",
+        "전문가주의",
+        "과학의본질"
+      ],
+      "tags": [
+        "과학철학",
+        "인식론",
+        "과학적탐구",
+        "물끓는점",
+        "전문가주의"
+      ]
+    },
     {
       "video_id": "bFn6m-7E2Ew",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 8강 물은 H2O인가?",
