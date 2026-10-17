@@ -1,7 +1,44 @@
 {
-  "revision": "3c15dbb0b2cc4205846ae7af80fb7df9",
-  "total_items": 161,
+  "revision": "30c918c1dbe14e139952ccdc596bce56",
+  "total_items": 162,
   "items": [
+    {
+      "video_id": "JzPLE6QW0UU",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 5강 과학적 진리",
+      "original_url": "https://youtu.be/JzPLE6QW0UU",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2789.0,
+      "duration_str": "46:29",
+      "created_at": "2026-10-17T16:29:43.312422+00:00",
+      "published_date": "20181115",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학적 실재론",
+        "반실재론",
+        "관측 불가능한 대상",
+        "과학의 성공",
+        "비관적 귀납",
+        "과학적 진리",
+        "진상 규명",
+        "과학 철학",
+        "대응론",
+        "정합론"
+      ],
+      "tags": [
+        "과학",
+        "철학",
+        "과학적 진리",
+        "실재론",
+        "반실재론"
+      ]
+    },
     {
       "video_id": "KYPD2D2-gnI",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 4강 과학혁명",
