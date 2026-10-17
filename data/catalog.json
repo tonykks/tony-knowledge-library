@@ -1,7 +1,40 @@
 {
-  "revision": "8a36c6a9de4f4d499b6b7e7b3b694feb",
-  "total_items": 168,
+  "revision": "eab0c59967024c2c80c51d287db27aa7",
+  "total_items": 169,
   "items": [
+    {
+      "video_id": "7tajCjeQEYE",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 12강 다원주의적 과학",
+      "original_url": "https://youtu.be/7tajCjeQEYE",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 3008.0,
+      "duration_str": "50:08",
+      "created_at": "2026-10-17T16:37:22.611773+00:00",
+      "published_date": "20190111",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학철학",
+        "과학 다원주의",
+        "인본주의 과학",
+        "패러다임 이론",
+        "과학의 본질",
+        "지식의 한계"
+      ],
+      "tags": [
+        "과학철학",
+        "다원주의",
+        "장하석",
+        "과학의본질",
+        "패러다임"
+      ]
+    },
     {
       "video_id": "i-dcbaJHWM0",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 11강 과학지식의 창조 : 탐구와 교육",
