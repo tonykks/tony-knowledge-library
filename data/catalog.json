@@ -1,7 +1,54 @@
 {
-  "revision": "26d67f6ba4d3412f816e99dd086ba8b8",
-  "total_items": 156,
+  "revision": "10e6b679c6a54c6b9c4369e3b0b58a69",
+  "total_items": 157,
   "items": [
+    {
+      "video_id": "ohYhCpOzLLE",
+      "title": "바이브코딩 왕 기초 개념 20개 총정리 | Vibe coding 하는 법 코딩 기초개념 강의 | 멀티 에이전트 스킬 훅 MCP API 2026년 최신판",
+      "original_url": "https://youtu.be/ohYhCpOzLLE",
+      "channel": "AI싱크클럽",
+      "channel_id": "UCouEEn-xhyTN9K6wSXjBbVQ",
+      "speakers": [
+        "AI싱크클럽"
+      ],
+      "duration_sec": 1341.0,
+      "duration_str": "22:21",
+      "created_at": "2026-10-17T05:47:46.305901+00:00",
+      "published_date": "20260219",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "통합 개발 환경 (IDE)",
+        "CLI 또는 터미널",
+        "모델",
+        "프롬프트",
+        "컨텍스트 윈도우",
+        "토큰",
+        "할루시네이션",
+        "PRD",
+        "룰 파일",
+        "API",
+        "MCP",
+        "에이전트",
+        "스킬",
+        "훅",
+        "오케스트레이션",
+        "멀티 에이전트",
+        "디버그",
+        "Git",
+        "디플로이",
+        "샌드박스"
+      ],
+      "tags": [
+        "바이브코딩",
+        "코딩기초",
+        "AI에이전트",
+        "MCP",
+        "AI개발"
+      ]
+    },
     {
       "video_id": "ZoNDei6qO98",
       "title": "사람이 죽기 1초 전에만 느낄 수 있다는 감각ㅣ지식인초대석 EP.178 (김상욱 교수 1부)",
