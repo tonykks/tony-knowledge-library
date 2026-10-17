@@ -1,7 +1,42 @@
 {
-  "revision": "708130040a0441c4a7f69677fb531365",
-  "total_items": 158,
+  "revision": "8433b3f6021c4977ad64280382726f8f",
+  "total_items": 159,
   "items": [
+    {
+      "video_id": "koN0g0MqVE8",
+      "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 2강 지식의 한계",
+      "original_url": "https://youtu.be/koN0g0MqVE8",
+      "channel": "EBSCulture (EBS 교양)",
+      "channel_id": "UCl_tB4AqPkkxuYcJQHz6dMw",
+      "speakers": [
+        "장하석"
+      ],
+      "duration_sec": 2706.0,
+      "duration_str": "45:06",
+      "created_at": "2026-10-17T16:24:52.243796+00:00",
+      "published_date": "20181018",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "과학철학",
+        "인식론",
+        "과학적 방법론",
+        "경험주의",
+        "합리주의",
+        "귀납의 문제",
+        "관측의 이론적재성",
+        "패러다임"
+      ],
+      "tags": [
+        "과학철학",
+        "인식론",
+        "데카르트",
+        "포퍼",
+        "귀납법"
+      ]
+    },
     {
       "video_id": "fI8w_BYdjtw",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 1강 과학이란 무엇인가?",
