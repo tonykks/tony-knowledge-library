@@ -1,7 +1,40 @@
 {
-  "revision": "97f71b6b3f804c25988022d791c1247f",
-  "total_items": 170,
+  "revision": "22d3ca35fe2c415f9d1dbd34d5ac6940",
+  "total_items": 171,
   "items": [
+    {
+      "video_id": "IyHsxrCK_Zk",
+      "title": "퇴근시간 2시간 당겨주는 클로드 신기능 10가지 (무료 프롬프트 제공)",
+      "original_url": "https://youtu.be/IyHsxrCK_Zk",
+      "channel": "해피AI | 이진규",
+      "channel_id": "UCgi5InkiecEitESPWd-n0vA",
+      "speakers": [
+        "이진규"
+      ],
+      "duration_sec": 1947.0,
+      "duration_str": "32:27",
+      "created_at": "2026-10-21T08:32:04.097505+00:00",
+      "published_date": "20260926",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 활용법",
+        "업무 자동화",
+        "클로드 기능",
+        "생산성 향상",
+        "AI 에이전트",
+        "Claude Code"
+      ],
+      "tags": [
+        "클로드",
+        "AI업무자동화",
+        "ClaudeCode",
+        "업무자동화",
+        "AI에이전트"
+      ]
+    },
     {
       "video_id": "WfxdpKzp7Fg",
       "title": "[EBS 인문학특강] 장하석의 과학, 철학을 만나다 13강 과학, 철학을 묻다",
