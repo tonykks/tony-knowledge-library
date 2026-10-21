@@ -1,7 +1,41 @@
 {
-  "revision": "22d3ca35fe2c415f9d1dbd34d5ac6940",
-  "total_items": 171,
+  "revision": "bd0048ac7ab947c0b2e94674d7206f0d",
+  "total_items": 172,
   "items": [
+    {
+      "video_id": "_H65l5XF_Po",
+      "title": "\"자격증 따고 스펙 쌓던 시대는 끝났습니다\" AI가 절대 따라잡을 수 없는 인간만의 능력 ㅣEp  책과사람 180 (정수진 작가 1부)",
+      "original_url": "https://youtu.be/_H65l5XF_Po",
+      "channel": "책과삶",
+      "channel_id": "UCgUaqrLRGLL-dHislR1e2TA",
+      "speakers": [
+        "정수진"
+      ],
+      "duration_sec": 1998.0,
+      "duration_str": "33:18",
+      "created_at": "2026-10-21T12:36:40.704999+00:00",
+      "published_date": "20261020",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "320",
+      "kdc_sub_name": "경제학",
+      "sub_topics": [
+        "AI 시대 인재상",
+        "미래 역량",
+        "AI와 직업 변화",
+        "교육의 변화",
+        "실리콘밸리 문화",
+        "AI 윤리 및 규제",
+        "부모의 역할"
+      ],
+      "tags": [
+        "AI",
+        "미래인재",
+        "정수진",
+        "실리콘밸리",
+        "커리어"
+      ]
+    },
     {
       "video_id": "IyHsxrCK_Zk",
       "title": "퇴근시간 2시간 당겨주는 클로드 신기능 10가지 (무료 프롬프트 제공)",
