@@ -1,7 +1,40 @@
 {
-  "revision": "bd0048ac7ab947c0b2e94674d7206f0d",
-  "total_items": 172,
+  "revision": "b2bb959a05fd40cdae5734c0adc26f78",
+  "total_items": 173,
   "items": [
+    {
+      "video_id": "Slt68axdlFk",
+      "title": "\"사실상 신이 내린 축복이다\" 석유시대 끝낼 한국의 이 기술 | 김정호 교수의 글로벌&경제 읽기",
+      "original_url": "https://youtu.be/Slt68axdlFk",
+      "channel": "김정호의 경제TV",
+      "channel_id": "UCUPoOcZy6IuGWsnXhzqyQAQ",
+      "speakers": [
+        "김정호"
+      ],
+      "duration_sec": 5603.0,
+      "duration_str": "01:33:23",
+      "created_at": "2026-10-26T08:17:15.085038+00:00",
+      "published_date": "20261018",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "320",
+      "kdc_sub_name": "경제학",
+      "sub_topics": [
+        "러시아-우크라이나 전쟁",
+        "독일 재무장",
+        "글로벌 에너지 위기",
+        "AI 전력 수요",
+        "국제유가",
+        "지정학"
+      ],
+      "tags": [
+        "러시아",
+        "러우전쟁",
+        "한국기업",
+        "영국",
+        "독일"
+      ]
+    },
     {
       "video_id": "_H65l5XF_Po",
       "title": "\"자격증 따고 스펙 쌓던 시대는 끝났습니다\" AI가 절대 따라잡을 수 없는 인간만의 능력 ㅣEp  책과사람 180 (정수진 작가 1부)",
