@@ -1,7 +1,43 @@
 {
-  "revision": "b2bb959a05fd40cdae5734c0adc26f78",
-  "total_items": 173,
+  "revision": "723d0f7066cb46e2bf2652cba40f49d6",
+  "total_items": 174,
   "items": [
+    {
+      "video_id": "b6-kyiV1QwE",
+      "title": "알래스카 LNG 청구서에 당황한 한국, 뒤에서 조용히 웃는 일본. 위기인가 기회인가 (COR에너지인사이트 권효재 대표)",
+      "original_url": "https://youtu.be/b6-kyiV1QwE",
+      "channel": "Understanding : All the Knowledge in the World",
+      "channel_id": "UCIUni4ScRp4mqPXsxy62L5w",
+      "speakers": [
+        "권효재",
+        "MC",
+        "권효재 대표"
+      ],
+      "duration_sec": 5016.0,
+      "duration_str": "01:23:36",
+      "created_at": "2026-11-02T12:19:43.290309+00:00",
+      "published_date": "20261028",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "320",
+      "kdc_sub_name": "경제학",
+      "sub_topics": [
+        "알래스카 LNG 프로젝트",
+        "미국 에너지 전략",
+        "한미 동맹",
+        "에너지 안보",
+        "LNG 시장",
+        "북극 지정학",
+        "해외 자원 개발"
+      ],
+      "tags": [
+        "알래스카 LNG",
+        "에너지 안보",
+        "한미 동맹",
+        "천연가스",
+        "자원 개발"
+      ]
+    },
     {
       "video_id": "Slt68axdlFk",
       "title": "\"사실상 신이 내린 축복이다\" 석유시대 끝낼 한국의 이 기술 | 김정호 교수의 글로벌&경제 읽기",
