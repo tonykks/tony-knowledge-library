@@ -1,7 +1,40 @@
 {
-  "revision": "723d0f7066cb46e2bf2652cba40f49d6",
-  "total_items": 174,
+  "revision": "0893d4aeba874c41920bd5e326d034b8",
+  "total_items": 175,
   "items": [
+    {
+      "video_id": "gwi9oGRjSgU",
+      "title": "“2027년이면 통제 불가능?” 업계에서 AI 개발 속도 줄이자고 얘기 나오는 이유 ㅣ Ep  책과사람 188  (정수진 작가 2부)",
+      "original_url": "https://youtu.be/gwi9oGRjSgU",
+      "channel": "책과삶",
+      "channel_id": "UCgUaqrLRGLL-dHislR1e2TA",
+      "speakers": [
+        "정수진"
+      ],
+      "duration_sec": 1508.0,
+      "duration_str": "25:08",
+      "created_at": "2026-11-08T11:41:40.185294+00:00",
+      "published_date": "20261103",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI의 위험성",
+        "AI의 윤리적 문제",
+        "AI 시대의 인간의 역할",
+        "AI 활용 전략",
+        "인지 부채",
+        "자동화 편향"
+      ],
+      "tags": [
+        "AI",
+        "인공지능",
+        "정수진",
+        "책과삶",
+        "AI사용법"
+      ]
+    },
     {
       "video_id": "b6-kyiV1QwE",
       "title": "알래스카 LNG 청구서에 당황한 한국, 뒤에서 조용히 웃는 일본. 위기인가 기회인가 (COR에너지인사이트 권효재 대표)",
