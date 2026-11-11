@@ -1,7 +1,40 @@
 {
-  "revision": "0893d4aeba874c41920bd5e326d034b8",
-  "total_items": 175,
+  "revision": "2487ae7b7cc141649025de92588a4bdc",
+  "total_items": 176,
   "items": [
+    {
+      "video_id": "HD9EYq-S3SQ",
+      "title": "성숙이란, 자신을 개념에 맞춰가는 지적인 노력 l 최진석의 대한민국 생각개론",
+      "original_url": "https://youtu.be/HD9EYq-S3SQ",
+      "channel": "최진석의 새말새몸짓",
+      "channel_id": "UC4pjftfPdvusUueGbtzndYQ",
+      "speakers": [
+        "최진석"
+      ],
+      "duration_sec": 2587.0,
+      "duration_str": "43:07",
+      "created_at": "2026-11-11T15:07:34.880051+00:00",
+      "published_date": "20250829",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "120",
+      "kdc_sub_name": "인식론, 인과율",
+      "sub_topics": [
+        "개념의 본질",
+        "앎의 중요성",
+        "가상과 현실",
+        "성숙의 과정",
+        "정명론",
+        "리더십과 개념"
+      ],
+      "tags": [
+        "개념",
+        "성숙",
+        "철학",
+        "인식론",
+        "리더십"
+      ]
+    },
     {
       "video_id": "gwi9oGRjSgU",
       "title": "“2027년이면 통제 불가능?” 업계에서 AI 개발 속도 줄이자고 얘기 나오는 이유 ㅣ Ep  책과사람 188  (정수진 작가 2부)",
