@@ -1,7 +1,39 @@
 {
-  "revision": "2487ae7b7cc141649025de92588a4bdc",
-  "total_items": 176,
+  "revision": "c6dddec4d8bb4756a29ad44f33ceaee6",
+  "total_items": 177,
   "items": [
+    {
+      "video_id": "_W4EcTizv-U",
+      "title": "최진석의 대한민국 생각개론",
+      "original_url": "https://youtu.be/_W4EcTizv-U",
+      "channel": "최진석의 새말새몸짓",
+      "channel_id": "",
+      "speakers": [
+        "최진석"
+      ],
+      "duration_sec": 5687.4,
+      "duration_str": "01:34:47",
+      "created_at": "2026-11-22T23:20:40.708722+00:00",
+      "published_date": "",
+      "kdc_main_code": "100",
+      "kdc_main_name": "철학",
+      "kdc_sub_code": "130",
+      "kdc_sub_name": "철학체계",
+      "sub_topics": [
+        "인간 본성",
+        "문명과 문화",
+        "인위적 삶",
+        "생각과 질문",
+        "국가 발전"
+      ],
+      "tags": [
+        "철학",
+        "문명",
+        "문화",
+        "인간본성",
+        "생각"
+      ]
+    },
     {
       "video_id": "HD9EYq-S3SQ",
       "title": "성숙이란, 자신을 개념에 맞춰가는 지적인 노력 l 최진석의 대한민국 생각개론",
