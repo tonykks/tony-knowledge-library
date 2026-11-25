@@ -1,7 +1,40 @@
 {
-  "revision": "d58d9fd70c384d0b87adb2baa354b440",
-  "total_items": 179,
+  "revision": "132046316da647648be12d3dbabe0407",
+  "total_items": 180,
   "items": [
+    {
+      "video_id": "LzhTqZ44vJM",
+      "title": "당신이 숏폼을 끊지 못하는 진짜 이유",
+      "original_url": "https://youtu.be/LzhTqZ44vJM",
+      "channel": "딥텔러",
+      "channel_id": "UCClQe3MLxT3P8UlxmScrtcg",
+      "speakers": [
+        "내레이터"
+      ],
+      "duration_sec": 878.0,
+      "duration_str": "14:38",
+      "created_at": "2026-11-25T13:16:20.839156+00:00",
+      "published_date": "20261115",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "330",
+      "kdc_sub_name": "사회학, 사회문제",
+      "sub_topics": [
+        "숏폼 콘텐츠의 진화",
+        "틱톡 알고리즘의 작동 방식",
+        "도파민과 집중력",
+        "소셜 미디어의 사회적 영향",
+        "AI 기반 콘텐츠 제작",
+        "무한 스크롤 디자인"
+      ],
+      "tags": [
+        "숏폼",
+        "AI",
+        "도파민",
+        "알고리즘",
+        "틱톡"
+      ]
+    },
     {
       "video_id": "QlcUh2NxQLA",
       "title": "오픈AI를 뛰쳐나온 7명의 천재가 만든 괴물 '클로드'",
