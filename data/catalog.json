@@ -1,7 +1,45 @@
 {
-  "revision": "0ebd0cd8792c43218a547f6f478a27f3",
-  "total_items": 178,
+  "revision": "d58d9fd70c384d0b87adb2baa354b440",
+  "total_items": 179,
   "items": [
+    {
+      "video_id": "QlcUh2NxQLA",
+      "title": "오픈AI를 뛰쳐나온 7명의 천재가 만든 괴물 '클로드'",
+      "original_url": "https://youtu.be/QlcUh2NxQLA",
+      "channel": "딥텔러",
+      "channel_id": "UCClQe3MLxT3P8UlxmScrtcg",
+      "speakers": [],
+      "duration_sec": 898.0,
+      "duration_str": "14:58",
+      "created_at": "2026-11-25T13:08:01.184177+00:00",
+      "published_date": "20261122",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 안전",
+        "AI 윤리",
+        "대규모 언어 모델 (LLM)",
+        "AI 경쟁",
+        "Anthropic",
+        "Claude",
+        "OpenAI",
+        "ChatGPT",
+        "샘 알트만",
+        "다리오 아모데이",
+        "초지능",
+        "AI 규제",
+        "헌법적 AI"
+      ],
+      "tags": [
+        "ai",
+        "클로드",
+        "앤트로픽",
+        "챗GPT",
+        "AI윤리"
+      ]
+    },
     {
       "video_id": "WOud_M6aRcg",
       "title": "챗GPT가 단 4년 만에 세상을 집어삼킨 이야기",
