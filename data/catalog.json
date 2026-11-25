@@ -1,7 +1,42 @@
 {
-  "revision": "c6dddec4d8bb4756a29ad44f33ceaee6",
-  "total_items": 177,
+  "revision": "0ebd0cd8792c43218a547f6f478a27f3",
+  "total_items": 178,
   "items": [
+    {
+      "video_id": "WOud_M6aRcg",
+      "title": "챗GPT가 단 4년 만에 세상을 집어삼킨 이야기",
+      "original_url": "https://youtu.be/WOud_M6aRcg",
+      "channel": "딥텔러",
+      "channel_id": "UCClQe3MLxT3P8UlxmScrtcg",
+      "speakers": [],
+      "duration_sec": 846.0,
+      "duration_str": "14:06",
+      "created_at": "2026-11-25T13:06:00.438172+00:00",
+      "published_date": "20261108",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "OpenAI 설립 배경",
+        "ChatGPT 개발 과정",
+        "AI 기술 발전사",
+        "일론 머스크와 AI",
+        "구글의 AI 독점",
+        "트랜스포머 모델",
+        "AI 스케일링 법칙",
+        "AI 윤리 및 상업화",
+        "AI의 사회적 영향",
+        "재귀적 자기 개선 (RSI)"
+      ],
+      "tags": [
+        "일론머스크",
+        "ai",
+        "챗지피티",
+        "챗GPT",
+        "OpenAI"
+      ]
+    },
     {
       "video_id": "_W4EcTizv-U",
       "title": "최진석의 대한민국 생각개론",
