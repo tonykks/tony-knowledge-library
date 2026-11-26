@@ -1,7 +1,39 @@
 {
-  "revision": "777026a2cb534120a7fde4061ee0acfc",
-  "total_items": 185,
+  "revision": "a694654c101d4c6fac03b84fb5fe422d",
+  "total_items": 186,
   "items": [
+    {
+      "video_id": "h02dcpipxhw",
+      "title": "한 달 만에 내 AI를 180도 바꾸는 습관",
+      "original_url": "https://youtu.be/h02dcpipxhw",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 857.0,
+      "duration_str": "14:17",
+      "created_at": "2026-11-26T01:56:36.016560+00:00",
+      "published_date": "20261115",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 활용법",
+        "개인 지식 관리",
+        "생산성 향상",
+        "AI 네이티브",
+        "지식 베이스 구축"
+      ],
+      "tags": [
+        "ai",
+        "ainative",
+        "aitransformation",
+        "지식관리",
+        "생산성"
+      ]
+    },
     {
       "video_id": "mRC7ORln2tM",
       "title": "아무리 많이 써도 AI가 멍청하다고 생각하는 사람 특징",
