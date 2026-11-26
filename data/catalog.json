@@ -1,7 +1,39 @@
 {
-  "revision": "9be54737c88446f0894ac5e0c636e168",
-  "total_items": 182,
+  "revision": "0d42e8055377470bbf2f85ade53b6746",
+  "total_items": 183,
   "items": [
+    {
+      "video_id": "fbsHoAa-R_Q",
+      "title": "언제적 프롬프트 엔지니어링 가이드? AI한테는 \"이렇게\" 말하면 됩니다",
+      "original_url": "https://youtu.be/fbsHoAa-R_Q",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 516.0,
+      "duration_str": "08:36",
+      "created_at": "2026-11-26T01:54:07.722969+00:00",
+      "published_date": "20261014",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 프롬프트 작성법",
+        "컨텍스트 엔지니어링",
+        "대화형 AI 활용",
+        "LLM 효율적 사용",
+        "AI와의 협업"
+      ],
+      "tags": [
+        "ai",
+        "ainative",
+        "aitransformation",
+        "프롬프트엔지니어링",
+        "컨텍스트엔지니어링"
+      ]
+    },
     {
       "video_id": "LiqxIl1NKqg",
       "title": "Opus 5.5, Astra 6.2… 모델 이름의 의미 제대로 이해하기",
