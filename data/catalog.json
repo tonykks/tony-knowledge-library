@@ -1,7 +1,40 @@
 {
-  "revision": "132046316da647648be12d3dbabe0407",
-  "total_items": 180,
+  "revision": "0cb3eb14476647abb27f76219bef493f",
+  "total_items": 181,
   "items": [
+    {
+      "video_id": "SE1-TTe9b4g",
+      "title": "도대체 AI Native가 뭐길래?",
+      "original_url": "https://youtu.be/SE1-TTe9b4g",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 372.0,
+      "duration_str": "06:12",
+      "created_at": "2026-11-26T01:52:59.806336+00:00",
+      "published_date": "20261006",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 네이티브",
+        "AI 활용 전략",
+        "개인 데이터 관리",
+        "AI 시대 역량",
+        "AI와 생산성",
+        "미래 직업"
+      ],
+      "tags": [
+        "#ai",
+        "#ainative",
+        "#aitransformation",
+        "#인공지능",
+        "#AI활용"
+      ]
+    },
     {
       "video_id": "LzhTqZ44vJM",
       "title": "당신이 숏폼을 끊지 못하는 진짜 이유",
