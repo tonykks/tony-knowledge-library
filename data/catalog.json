@@ -1,7 +1,43 @@
 {
-  "revision": "0cb3eb14476647abb27f76219bef493f",
-  "total_items": 181,
+  "revision": "9be54737c88446f0894ac5e0c636e168",
+  "total_items": 182,
   "items": [
+    {
+      "video_id": "LiqxIl1NKqg",
+      "title": "Opus 5.5, Astra 6.2… 모델 이름의 의미 제대로 이해하기",
+      "original_url": "https://youtu.be/LiqxIl1NKqg",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 296.0,
+      "duration_str": "04:56",
+      "created_at": "2026-11-26T01:53:27.445484+00:00",
+      "published_date": "20261009",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 모델",
+        "대규모 언어 모델",
+        "Claude",
+        "ChatGPT",
+        "모델 등급",
+        "모델 버전",
+        "지식 컷오프",
+        "AI 서비스",
+        "프롬프팅"
+      ],
+      "tags": [
+        "AI",
+        "AI 네이티브",
+        "AI 트랜스포메이션",
+        "AI 모델",
+        "클로드"
+      ]
+    },
     {
       "video_id": "SE1-TTe9b4g",
       "title": "도대체 AI Native가 뭐길래?",
