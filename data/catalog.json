@@ -1,7 +1,40 @@
 {
-  "revision": "a70e2c3e087644d5a5a7c71170b7e57c",
-  "total_items": 184,
+  "revision": "777026a2cb534120a7fde4061ee0acfc",
+  "total_items": 185,
   "items": [
+    {
+      "video_id": "mRC7ORln2tM",
+      "title": "아무리 많이 써도 AI가 멍청하다고 생각하는 사람 특징",
+      "original_url": "https://youtu.be/mRC7ORln2tM",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 640.0,
+      "duration_str": "10:40",
+      "created_at": "2026-11-26T01:56:05.590322+00:00",
+      "published_date": "20261103",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 개인화",
+        "AI 지침",
+        "AI 메모리",
+        "Knowledge Base",
+        "AI 데스크톱 앱",
+        "마크다운"
+      ],
+      "tags": [
+        "ai",
+        "ainative",
+        "aitransformation",
+        "AI 활용",
+        "AI 맞춤설정"
+      ]
+    },
     {
       "video_id": "CZQzwnkX3sI",
       "title": "부모님도 이해하는 AI 에이전트 개념 10분만에 끝내기",
