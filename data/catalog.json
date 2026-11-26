@@ -1,7 +1,48 @@
 {
-  "revision": "8f351fe56baa448f89ce232af103de0f",
-  "total_items": 187,
+  "revision": "b328ab7f3fcc40f1af6cd6b5254c16f1",
+  "total_items": 188,
   "items": [
+    {
+      "video_id": "MMXW4rH6wrA",
+      "title": "2027년, 상위 1%만 아는 AI 작동 원리 | AI 핵심 용어 15가지 총정리",
+      "original_url": "https://youtu.be/MMXW4rH6wrA",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [],
+      "duration_sec": 1499.0,
+      "duration_str": "24:59",
+      "created_at": "2026-11-26T01:59:30.254049+00:00",
+      "published_date": "20261125",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "LLM",
+        "ChatGPT",
+        "Claude",
+        "AI 모델",
+        "프롬프트 엔지니어링",
+        "멀티모달 AI",
+        "토큰",
+        "추론",
+        "RAG",
+        "환각 현상",
+        "컨텍스트 윈도우",
+        "AI 메모리",
+        "AI 지침",
+        "AI 프로젝트",
+        "AI 스킬",
+        "AI 커넥터"
+      ],
+      "tags": [
+        "ai",
+        "ai용어",
+        "ai작동원리",
+        "llm",
+        "chatgpt"
+      ]
+    },
     {
       "video_id": "DQ9Y66MSK4w",
       "title": "AI 부정행위가 흔해지는 지금, 더 인정받는 사람들의 특징",
