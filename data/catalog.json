@@ -1,7 +1,44 @@
 {
-  "revision": "b328ab7f3fcc40f1af6cd6b5254c16f1",
-  "total_items": 188,
+  "revision": "dcbf4ac1062049539e9800ab5c689935",
+  "total_items": 189,
   "items": [
+    {
+      "video_id": "Mi-jLRUvtwc",
+      "title": "클로드, 챗지피티, 제미나이를 하나로 연결하는 방법 | AI 에이전트 만들기 활용 꿀팁",
+      "original_url": "https://youtu.be/Mi-jLRUvtwc",
+      "channel": "AI 비밀무기 | 직장인 AI 실전 공략",
+      "channel_id": "UCL7sfW_eJi2iE2iv01LmRiw",
+      "speakers": [
+        "AI 비밀무기"
+      ],
+      "duration_sec": 624.0,
+      "duration_str": "10:24",
+      "created_at": "2026-11-26T02:02:43.956992+00:00",
+      "published_date": "20261113",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 에이전트",
+        "AI 드림팀",
+        "AI 활용 꿀팁",
+        "업무 자동화",
+        "클로드 코드",
+        "코덱스",
+        "안티 그래비티",
+        "AI 모델 조합",
+        "AI 요금제",
+        "AI 오케스트레이션"
+      ],
+      "tags": [
+        "AI활용",
+        "AI에이전트",
+        "클로드코드",
+        "챗GPT",
+        "제미나이"
+      ]
+    },
     {
       "video_id": "MMXW4rH6wrA",
       "title": "2027년, 상위 1%만 아는 AI 작동 원리 | AI 핵심 용어 15가지 총정리",
