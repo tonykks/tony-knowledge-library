@@ -1,7 +1,41 @@
 {
-  "revision": "a694654c101d4c6fac03b84fb5fe422d",
-  "total_items": 186,
+  "revision": "8f351fe56baa448f89ce232af103de0f",
+  "total_items": 187,
   "items": [
+    {
+      "video_id": "DQ9Y66MSK4w",
+      "title": "AI 부정행위가 흔해지는 지금, 더 인정받는 사람들의 특징",
+      "original_url": "https://youtu.be/DQ9Y66MSK4w",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 370.0,
+      "duration_str": "06:10",
+      "created_at": "2026-11-26T01:58:56.277421+00:00",
+      "published_date": "20261123",
+      "kdc_main_code": "300",
+      "kdc_main_name": "사회과학",
+      "kdc_sub_code": "370",
+      "kdc_sub_name": "교육학",
+      "sub_topics": [
+        "AI 부정행위",
+        "AI 시대의 노력의 가치",
+        "AI 활용 공부법",
+        "실력 증명 방법",
+        "포트폴리오",
+        "서사 구축",
+        "AI 네이티브"
+      ],
+      "tags": [
+        "ai",
+        "ai부정행위",
+        "ai공부법",
+        "포트폴리오",
+        "ai네이티브"
+      ]
+    },
     {
       "video_id": "h02dcpipxhw",
       "title": "한 달 만에 내 AI를 180도 바꾸는 습관",
