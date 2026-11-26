@@ -1,7 +1,40 @@
 {
-  "revision": "0d42e8055377470bbf2f85ade53b6746",
-  "total_items": 183,
+  "revision": "a70e2c3e087644d5a5a7c71170b7e57c",
+  "total_items": 184,
   "items": [
+    {
+      "video_id": "CZQzwnkX3sI",
+      "title": "부모님도 이해하는 AI 에이전트 개념 10분만에 끝내기",
+      "original_url": "https://youtu.be/CZQzwnkX3sI",
+      "channel": "네이티",
+      "channel_id": "UCN1Xe_YxgajfOSNMUSz7WWw",
+      "speakers": [
+        "네이티"
+      ],
+      "duration_sec": 665.0,
+      "duration_str": "11:05",
+      "created_at": "2026-11-26T01:55:35.721715+00:00",
+      "published_date": "20261018",
+      "kdc_main_code": "500",
+      "kdc_main_name": "기술과학",
+      "kdc_sub_code": "570",
+      "kdc_sub_name": "정보통신, 컴퓨터공학, AI",
+      "sub_topics": [
+        "AI 에이전트 개념",
+        "AI 챗봇과 에이전트 차이",
+        "AI 에이전트 작동 방식",
+        "AI 에이전트 메모리",
+        "AI 에이전트 정의",
+        "AI 활용"
+      ],
+      "tags": [
+        "AI",
+        "AI 에이전트",
+        "AI 챗봇",
+        "인공지능",
+        "aitransformation"
+      ]
+    },
     {
       "video_id": "fbsHoAa-R_Q",
       "title": "언제적 프롬프트 엔지니어링 가이드? AI한테는 \"이렇게\" 말하면 됩니다",
